@@ -1,2 +1,2 @@
 # CEIC-PiT
-Dashboard to check PiT data of CEIC using PyCeic
+Dashboard to check Commerce data of CEIC using PyCeic
