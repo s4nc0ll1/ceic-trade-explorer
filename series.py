@@ -1,47 +1,42 @@
 import pandas as pd
-import re
+from datetime import date
 
 class TradeDataManager:
     def __init__(self, ceic_client):
         self.ceic_client = ceic_client
         self.UN_COMTRADE_SOURCE_ID = "15371467" 
 
-    def search_trade_data(self, reporter_id, reporter_name, flow, partner_country=None, hs_code=None):
+    def search_trade_data(self, reporter_id, reporter_name, flow, partner_country=None, hs_code=None, product_desc=None):
         """
-        Busca series usando el ID geográfico del reporter.
-        
-        Args:
-            reporter_id (str): ID numérico del país (ej. "3060" para Argentina).
-            reporter_name (str): Nombre del país (solo para display en la tabla).
-            flow (str): "Exports" o "Imports".
-            ...
+        Busca metadatos de series (Snapshot).
+        Ahora acepta product_desc para buscar por nombre (ej. "Maize", "Steel").
         """
         
         # 1. Construcción de Keywords
-        # Ya no necesitamos poner el nombre del país en el keyword porque usamos el filtro 'geo'
+        # Estructura: "Flow" + "Description" + "Partner"
         search_terms = [f'"{flow}"']
         
+        # Si hay descripción de producto, la agregamos
+        if product_desc:
+            search_terms.append(f'"{product_desc}"')
+            
         if partner_country and partner_country.lower() not in ["world", "all", ""]:
             search_terms.append(f'"{partner_country}"')
         
         keyword_query = " ".join(search_terms)
 
-        # 2. Parámetros de búsqueda
         params = {
             "keyword": keyword_query,
-            "geo": [reporter_id], # <--- CAMBIO IMPORTANTE: Filtro por ID
+            "geo": [reporter_id], 
             "source": [self.UN_COMTRADE_SOURCE_ID],
             "status": ["T"], 
             "limit": 100
         }
 
-        print(f"DEBUG: Buscando GEO ID: {reporter_id} | Keyword: {keyword_query}")
-
         try:
             results = self.ceic_client.search(**params)
             data_rows = []
             
-            # 3. Procesamiento (Igual que antes, pero usando snake_case seguro)
             for result_page in results:
                 if hasattr(result_page, 'data') and hasattr(result_page.data, 'items'):
                     for item in result_page.data.items:
@@ -54,11 +49,11 @@ class TradeDataManager:
                             parts = trade_code_raw.split('|')
                             extracted_hs = parts[-1].strip() if len(parts) > 1 else trade_code_raw
                         
-                        # Filtro HS Code
+                        # Filtro estricto por HS Code si el usuario lo ingresó
                         if hs_code and str(hs_code).strip() != extracted_hs:
                             continue
 
-                        # Inferir Partner
+                        # Inferencia simple de Partner (para display)
                         name_parts = meta.name.split(':')
                         partner_inferred = "World"
                         if len(name_parts) > 2:
@@ -70,7 +65,7 @@ class TradeDataManager:
                             "Series ID": meta.id,
                             "Period": str(getattr(meta, 'last_update_time', 'N/A'))[:10], 
                             "Flow": flow,
-                            "Reporter": reporter_name, # Usamos el nombre pasado por argumento
+                            "Reporter": reporter_name,
                             "Partner": partner_inferred,
                             "Cmdty Code": extracted_hs,
                             "Cmdty Desc": meta.name,
@@ -83,4 +78,40 @@ class TradeDataManager:
 
         except Exception as e:
             print(f"ERROR en search_trade_data: {e}")
+            return pd.DataFrame()
+
+    def get_series_history(self, series_ids, start_date):
+        """
+        Obtiene la historia (time points) para una lista de IDs.
+        Fundamental para el workflow del 'Economista' (Trend Analysis).
+        """
+        try:
+            # Convertir fecha a string YYYY-MM-DD si es objeto date
+            s_date = start_date.strftime('%Y-%m-%d') if isinstance(start_date, date) else start_date
+            
+            # Llamada a la API para obtener datos históricos
+            result = self.ceic_client.series(series_id=series_ids, start_date=s_date)
+            
+            all_series_data = []
+            
+            for series in result.data:
+                meta = series.metadata
+                # Procesar time points
+                for tp in series.time_points:
+                    all_series_data.append({
+                        "Date": tp.date,
+                        "Value": tp.value,
+                        "Series Name": meta.name,
+                        "Series ID": meta.id
+                    })
+            
+            df = pd.DataFrame(all_series_data)
+            if not df.empty:
+                df['Date'] = pd.to_datetime(df['Date'])
+                df = df.sort_values('Date')
+            
+            return df
+            
+        except Exception as e:
+            print(f"Error fetching history: {e}")
             return pd.DataFrame()
