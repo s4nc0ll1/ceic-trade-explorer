@@ -82,15 +82,15 @@ def main_app():
     # --- CARGA DE DATOS ---
     geo_options = load_geo_options()
 
+    reporter_list = list(geo_options.keys()) if geo_options else ["Argentina", "Brazil", "China", "United States"]
+    partner_list = ["World"] + reporter_list
+
     # --- SECCIÓN DE FILTROS ---
     with st.expander("Search Configuration", expanded=True):
         c1, c2, c3, c4 = st.columns(4)
         
         with c1:
-            # Si carga el JSON usa las llaves, si no, usa una lista por defecto
-            options = list(geo_options.keys()) if geo_options else ["Argentina", "Brazil", "China", "United States"]
-            selected_country_name = st.selectbox("Reporter (From)", options=options)
-            # Obtiene ID
+            selected_country_name = st.selectbox("Reporter (From)", options=reporter_list)
             selected_country_id = geo_options.get(selected_country_name) if geo_options else None
             
         with c2:
@@ -105,10 +105,13 @@ def main_app():
             
         c5, c6 = st.columns([1, 3])
         with c5:
-            partner = st.text_input("Partner (To)", placeholder="e.g. Brazil, World", value="World")
+            partner = st.selectbox("Partner (To)", options=partner_list, index=0)
         with c6:
-            # Fecha para histórico
-            start_date = st.date_input("History Start Date", value=date.today() - timedelta(days=365*3))
+            d1, d2 = st.columns(2)
+            with d1:
+                start_date = st.date_input("Start Date", value=date.today() - timedelta(days=365*3))
+            with d2:
+                end_date = st.date_input("End Date", value=date.today())
 
         search_btn = st.button("Search Data", type="primary")
 
@@ -145,7 +148,14 @@ def main_app():
                 on_select="rerun",
                 selection_mode="multi-row",
                 column_config={
-                    "Trade Value": st.column_config.NumberColumn(format="%.2f")
+                    "Trade Value": st.column_config.NumberColumn(
+                        "Trade Value",
+                        format="$%d",  # Formato moneda sin decimales
+                        help="Last available value in USD"
+                    ),
+                    "Series ID": st.column_config.TextColumn(help="Unique ID"),
+                    "Period": st.column_config.TextColumn(width="small"),
+                    "HS Code": st.column_config.TextColumn(width="small")
                 }
             )
             
@@ -159,7 +169,11 @@ def main_app():
                 
                 manager = TradeDataManager(Ceic)
                 with st.spinner("Fetching history..."):
-                    df_history = manager.get_series_history(selected_series_ids, start_date)
+                    df_history = manager.get_series_history(
+                        series_ids=selected_series_ids, 
+                        start_date=start_date,
+                        end_date=end_date
+                    )
                 
                 if not df_history.empty:
                     fig = px.line(df_history, x="Date", y="Value", color="Series Name", markers=True)
