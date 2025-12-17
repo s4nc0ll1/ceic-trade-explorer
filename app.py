@@ -12,6 +12,14 @@ st.set_page_config(page_title="CEIC Trade Data Explorer", layout="wide")
 
 # --- FUNCIÓN PARA CARGAR JSON ---
 @st.cache_data
+def load_hs_codes():
+    json_path = os.path.join("filters", "hs_codes.json")
+    if not os.path.exists(json_path): return {}
+    with open(json_path, "r", encoding="utf-8") as f:
+        data = json.load(f)
+    # Crea un diccionario: "10 - Cereals": "10"
+    return {f"{item['code']} - {item['description']}": item['code'] for item in data}
+
 def load_geo_options():
     """Carga los países desde filters/geo_data.json"""
     json_path = os.path.join("filters", "geo_data.json")
@@ -85,6 +93,8 @@ def main_app():
     reporter_list = list(geo_options.keys()) if geo_options else ["Argentina", "Brazil", "China", "United States"]
     partner_list = ["World"] + reporter_list
 
+    
+
     # --- SECCIÓN DE FILTROS ---
     with st.expander("Search Configuration", expanded=True):
         c1, c2, c3, c4 = st.columns(4)
@@ -100,9 +110,21 @@ def main_app():
             # Nuevo campo de descripción (Workflow Strategist)
             product_desc = st.text_input("Product Description", placeholder="e.g. Soya, Cars")
             
+        hs_options = load_hs_codes()
+    
         with c4:
-            hs_code = st.text_input("HS Code (Optional)", placeholder="e.g. 10, 0303")
+            # Ahora es un Selectbox con búsqueda
+            selected_hs_label = st.selectbox(
+                "HS Commodity", 
+                options=["All Commodities"] + list(hs_options.keys()),
+                index=0
+            )
             
+            # Lógica para obtener el código limpio
+            hs_code = None
+            if selected_hs_label != "All Commodities":
+                hs_code = hs_options[selected_hs_label]
+                
         c5, c6 = st.columns([1, 3])
         with c5:
             partner = st.selectbox("Partner (To)", options=partner_list, index=0)

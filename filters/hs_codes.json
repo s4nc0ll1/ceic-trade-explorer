@@ -1,0 +1,7170 @@
+[
+    {
+        "code": "01",
+        "description": "Animals; Live"
+    },
+    {
+        "code": "02",
+        "description": "Meat and Edible Meat Offal"
+    },
+    {
+        "code": "03",
+        "description": "Fish and Crustaceans, Molluscs and Other Aquatic Invertebrates"
+    },
+    {
+        "code": "05",
+        "description": "Animal Originated Products; Not Elsewhere Specified or Included"
+    },
+    {
+        "code": "07",
+        "description": "Vegetables and Certain Roots and Tubers; Edible"
+    },
+    {
+        "code": "08",
+        "description": "Fruit and Nuts, Edible; Peel of Citrus Fruit or Melons"
+    },
+    {
+        "code": "09",
+        "description": "Coffee, Tea, Mate and Spices"
+    },
+    {
+        "code": "10",
+        "description": "Cereals"
+    },
+    {
+        "code": "13",
+        "description": "Lac; Gums, Resins and Other Vegetable Saps and Extracts"
+    },
+    {
+        "code": "14",
+        "description": "Vegetable Plaiting Materials; Vegetable Products Not Elsewhere Specified or Included"
+    },
+    {
+        "code": "17",
+        "description": "Sugars and Sugar Confectionery"
+    },
+    {
+        "code": "18",
+        "description": "Cocoa and Cocoa Preparations"
+    },
+    {
+        "code": "19",
+        "description": "Preparations of Cereals, Flour, Starch or Milk; Pastrycooks' Products"
+    },
+    {
+        "code": "20",
+        "description": "Preparations of Vegetables, Fruit, Nuts or Other Parts of Plants"
+    },
+    {
+        "code": "21",
+        "description": "Miscellaneous Edible Preparations"
+    },
+    {
+        "code": "22",
+        "description": "Beverages, Spirits and Vinegar"
+    },
+    {
+        "code": "23",
+        "description": "Food Industries, Residues and Wastes Thereof; Prepared Animal Fodder"
+    },
+    {
+        "code": "26",
+        "description": "Ores, Slag and Ash"
+    },
+    {
+        "code": "29",
+        "description": "Organic Chemicals"
+    },
+    {
+        "code": "30",
+        "description": "Pharmaceutical Products"
+    },
+    {
+        "code": "31",
+        "description": "Fertilizers"
+    },
+    {
+        "code": "33",
+        "description": "Essential Oils and Resinoids; Perfumery, Cosmetic or Toilet Preparations"
+    },
+    {
+        "code": "35",
+        "description": "Albuminoidal Substances; Modified Starches; Glues; Enzymes"
+    },
+    {
+        "code": "37",
+        "description": "Photographic or Cinematographic Goods"
+    },
+    {
+        "code": "38",
+        "description": "Chemical Products N.E.C."
+    },
+    {
+        "code": "39",
+        "description": "Plastics and Articles Thereof"
+    },
+    {
+        "code": "40",
+        "description": "Rubber and Articles Thereof"
+    },
+    {
+        "code": "41",
+        "description": "Raw Hides and Skins (Other Than Furskins) and Leather"
+    },
+    {
+        "code": "43",
+        "description": "Furskins and Artificial Fur; Manufactures Thereof"
+    },
+    {
+        "code": "44",
+        "description": "Wood and Articles of Wood; Wood Charcoal"
+    },
+    {
+        "code": "45",
+        "description": "Cork and Articles of Cork"
+    },
+    {
+        "code": "46",
+        "description": "Manufactures of Straw, Esparto or Other Plaiting Materials; Basketware and Wickerwork"
+    },
+    {
+        "code": "48",
+        "description": "Paper and Paperboard; Articles of Paper Pulp, of Paper or Paperboard"
+    },
+    {
+        "code": "50",
+        "description": "Silk"
+    },
+    {
+        "code": "52",
+        "description": "Cotton"
+    },
+    {
+        "code": "54",
+        "description": "Man-Made Filaments; Strip and The Like of Man-Made Textile Materials"
+    },
+    {
+        "code": "55",
+        "description": "Man-Made Staple Fibres"
+    },
+    {
+        "code": "57",
+        "description": "Carpets and Other Textile Floor Coverings"
+    },
+    {
+        "code": "60",
+        "description": "Fabrics; Knitted or Crocheted"
+    },
+    {
+        "code": "61",
+        "description": "Apparel and Clothing Accessories; Knitted or Crocheted"
+    },
+    {
+        "code": "62",
+        "description": "Apparel and Clothing Accessories; Not Knitted or Crocheted"
+    },
+    {
+        "code": "64",
+        "description": "Footwear; Gaiters and The Like; Parts of Such Articles"
+    },
+    {
+        "code": "65",
+        "description": "Headgear and Parts Thereof"
+    },
+    {
+        "code": "68",
+        "description": "Stone, Plaster, Cement, Asbestos, Mica or Similar Materials; Articles Thereof"
+    },
+    {
+        "code": "69",
+        "description": "Ceramic Products"
+    },
+    {
+        "code": "70",
+        "description": "Glass and Glassware"
+    },
+    {
+        "code": "72",
+        "description": "Iron and Steel"
+    },
+    {
+        "code": "73",
+        "description": "Iron or Steel Articles"
+    },
+    {
+        "code": "74",
+        "description": "Copper and Articles Thereof"
+    },
+    {
+        "code": "75",
+        "description": "Nickel and Articles Thereof"
+    },
+    {
+        "code": "76",
+        "description": "Aluminium and Articles Thereof"
+    },
+    {
+        "code": "78",
+        "description": "Lead and Articles Thereof"
+    },
+    {
+        "code": "79",
+        "description": "Zinc and Articles Thereof"
+    },
+    {
+        "code": "80",
+        "description": "Tin; Articles Thereof"
+    },
+    {
+        "code": "81",
+        "description": "Metals; N.E.C., Cermets and Articles Thereof"
+    },
+    {
+        "code": "83",
+        "description": "Metal; Miscellaneous Products of Base Metal"
+    },
+    {
+        "code": "84",
+        "description": "Machinery and Mechanical Appliances, Boilers, Nuclear Reactors; Parts Thereof"
+    },
+    {
+        "code": "87",
+        "description": "Vehicles; Other Than Railway or Tramway Rolling Stock, and Parts and Accessories Thereof"
+    },
+    {
+        "code": "88",
+        "description": "Aircraft, Spacecraft, and Parts Thereof"
+    },
+    {
+        "code": "89",
+        "description": "Ships, Boats and Floating Structures"
+    },
+    {
+        "code": "91",
+        "description": "Clocks and Watches and Parts Thereof"
+    },
+    {
+        "code": "92",
+        "description": "Musical Instruments; Parts and Accessories of Such Articles"
+    },
+    {
+        "code": "93",
+        "description": "Arms and Ammunition; Parts And Accessories Thereof"
+    },
+    {
+        "code": "95",
+        "description": "Toys, Games and Sports Requisites; Parts and Accessories Thereof"
+    },
+    {
+        "code": "96",
+        "description": "Miscellaneous Manufactured Articles"
+    },
+    {
+        "code": "97",
+        "description": "Works of Art; Collectors' Pieces and Antiques"
+    },
+    {
+        "code": "0101",
+        "description": "Horses, Asses, Mules and Hinnies; Live"
+    },
+    {
+        "code": "0102",
+        "description": "Bovine Animals; Live"
+    },
+    {
+        "code": "0103",
+        "description": "Swine; Live"
+    },
+    {
+        "code": "0104",
+        "description": "Sheep and Goats; Live"
+    },
+    {
+        "code": "0106",
+        "description": "Animals; Live, N.E.C. In Chapter 01"
+    },
+    {
+        "code": "0201",
+        "description": "Meat of Bovine Animals; Fresh or Chilled"
+    },
+    {
+        "code": "0202",
+        "description": "Meat of Bovine Animals; Frozen"
+    },
+    {
+        "code": "0203",
+        "description": "Meat of Swine; Fresh, Chilled or Frozen"
+    },
+    {
+        "code": "0204",
+        "description": "Meat of Sheep or Goats; Fresh, Chilled or Frozen"
+    },
+    {
+        "code": "0301",
+        "description": "Fish; Live"
+    },
+    {
+        "code": "0402",
+        "description": "Milk and Cream; Concentrated or Containing Added Sugar or Other Sweetening Matter"
+    },
+    {
+        "code": "0405",
+        "description": "Butter and Other Fats and Oils Derived From Milk; Dairy Spreads"
+    },
+    {
+        "code": "0406",
+        "description": "Cheese and Curd"
+    },
+    {
+        "code": "0407",
+        "description": "Birds' Eggs, In Shell; Fresh, Preserved or Cooked"
+    },
+    {
+        "code": "0409",
+        "description": "Honey; Natural"
+    },
+    {
+        "code": "0502",
+        "description": "Pigs', Hogs' or Boars' Bristles and Hair; and Waste Thereof"
+    },
+    {
+        "code": "0701",
+        "description": "Potatoes; Fresh or Chilled"
+    },
+    {
+        "code": "0702",
+        "description": "Tomatoes; Fresh or Chilled"
+    },
+    {
+        "code": "0707",
+        "description": "Cucumbers and Gherkins; Fresh or Chilled"
+    },
+    {
+        "code": "0708",
+        "description": "Leguminous Vegetables; Shelled or Unshelled, Fresh or Chilled"
+    },
+    {
+        "code": "0709",
+        "description": "Vegetables; N.E.C. In Chapter 07, Fresh or Chilled"
+    },
+    {
+        "code": "0711",
+        "description": "Vegetables Provisionally Preserved, But Unsuitable In That State For Immediate Consumption"
+    },
+    {
+        "code": "0713",
+        "description": "Vegetables, Leguminous; Shelled, Whether or Not Skinned or Split, Dried"
+    },
+    {
+        "code": "0803",
+        "description": "Bananas, Including Plantains; Fresh or Dried"
+    },
+    {
+        "code": "0805",
+        "description": "Citrus Fruit; Fresh or Dried"
+    },
+    {
+        "code": "0806",
+        "description": "Grapes; Fresh or Dried"
+    },
+    {
+        "code": "0807",
+        "description": "Melons (Including Watermelons) and Papaws (Papayas); Fresh"
+    },
+    {
+        "code": "0808",
+        "description": "Apples, Pears and Quinces; Fresh"
+    },
+    {
+        "code": "0810",
+        "description": "Fruit, Fresh; N.E.C. In Chapter 08"
+    },
+    {
+        "code": "0902",
+        "description": "Tea"
+    },
+    {
+        "code": "0903",
+        "description": "Mate"
+    },
+    {
+        "code": "0905",
+        "description": "Vanilla"
+    },
+    {
+        "code": "0906",
+        "description": "Cinnamon and Cinnamon-Tree Flowers"
+    },
+    {
+        "code": "0907",
+        "description": "Cloves (Whole Fruit, Cloves and Stems)"
+    },
+    {
+        "code": "0908",
+        "description": "Nutmeg, Mace and Cardamoms"
+    },
+    {
+        "code": "1001",
+        "description": "Wheat and Meslin"
+    },
+    {
+        "code": "1002",
+        "description": "Rye"
+    },
+    {
+        "code": "1003",
+        "description": "Barley"
+    },
+    {
+        "code": "1004",
+        "description": "Oats"
+    },
+    {
+        "code": "1005",
+        "description": "Maize (Corn)"
+    },
+    {
+        "code": "1006",
+        "description": "Rice"
+    },
+    {
+        "code": "1007",
+        "description": "Grain Sorghum"
+    },
+    {
+        "code": "1008",
+        "description": "Buckwheat, Millet and Canary Seeds; Other Cereals"
+    },
+    {
+        "code": "1101",
+        "description": "Wheat or Meslin Flour"
+    },
+    {
+        "code": "1102",
+        "description": "Cereal Flours; Other Than of Wheat or Meslin"
+    },
+    {
+        "code": "1103",
+        "description": "Cereal Groats; Meal and Pellets"
+    },
+    {
+        "code": "1105",
+        "description": "Flour, Meal, Powder, Flakes, Granules and Pellets of Potatoes"
+    },
+    {
+        "code": "1107",
+        "description": "Malt; Whether or Not Roasted"
+    },
+    {
+        "code": "1108",
+        "description": "Starches; Inulin"
+    },
+    {
+        "code": "1109",
+        "description": "Wheat Gluten; Whether or Not Dried"
+    },
+    {
+        "code": "1201",
+        "description": "Soya Beans, Whether or Not Broken"
+    },
+    {
+        "code": "1203",
+        "description": "Copra"
+    },
+    {
+        "code": "1204",
+        "description": "Oil Seeds; Linseed, Whether or Not Broken"
+    },
+    {
+        "code": "1205",
+        "description": "Rape or Colza Seeds; Whether or Not Broken"
+    },
+    {
+        "code": "1206",
+        "description": "Sunflower Seeds; Whether or Not Broken"
+    },
+    {
+        "code": "1208",
+        "description": "Flours and Meals of Oil Seeds or Oleaginous Fruits; Other Than Those of Mustard"
+    },
+    {
+        "code": "1209",
+        "description": "Seeds, Fruit and Spores; of A Kind Used For Sowing"
+    },
+    {
+        "code": "1404",
+        "description": "Vegetable Products Not Elsewhere Specified or Included"
+    },
+    {
+        "code": "1502",
+        "description": "Fats of Bovine Animals, Sheep or Goats, Other Than Those of Heading 1503"
+    },
+    {
+        "code": "1520",
+        "description": "Glycerol, Crude; Glycerol Waters and Glycerol Lyes"
+    },
+    {
+        "code": "1602",
+        "description": "Prepared or Preserved Meat, Meat Offal, Blood or Insects"
+    },
+    {
+        "code": "1605",
+        "description": "Crustaceans, Molluscs and Other Aquatic Invertebrates, Prepared or Preserved"
+    },
+    {
+        "code": "1703",
+        "description": "Molasses; Resulting From The Extraction or Refining of Sugar"
+    },
+    {
+        "code": "1704",
+        "description": "Sugar Confectionery (Including White Chocolate), Not Containing Cocoa"
+    },
+    {
+        "code": "1801",
+        "description": "Cocoa Beans; Whole or Broken, Raw or Roasted"
+    },
+    {
+        "code": "1802",
+        "description": "Cocoa; Shells, Husks, Skins and Other Cocoa Waste"
+    },
+    {
+        "code": "1803",
+        "description": "Cocoa; Paste; Whether or Not Defatted"
+    },
+    {
+        "code": "1804",
+        "description": "Cocoa; Butter, Fat and Oil"
+    },
+    {
+        "code": "1805",
+        "description": "Cocoa; Powder, Not Containing Added Sugar or Other Sweetening Matter"
+    },
+    {
+        "code": "1806",
+        "description": "Chocolate and Other Food Preparations Containing Cocoa"
+    },
+    {
+        "code": "2002",
+        "description": "Tomatoes; Prepared or Preserved Otherwise Than By Vinegar or Acetic Acid"
+    },
+    {
+        "code": "2003",
+        "description": "Mushrooms and Truffles, Prepared or Preserved Other Than By Vinegar or Acetic Acid"
+    },
+    {
+        "code": "2105",
+        "description": "Ice Cream and Other Edible Ice; Whether or Not Containing Cocoa"
+    },
+    {
+        "code": "2106",
+        "description": "Food Preparations Not Elsewhere Specified or Included"
+    },
+    {
+        "code": "2203",
+        "description": "Beer Made From Malt"
+    },
+    {
+        "code": "2209",
+        "description": "Vinegar and Substitutes For Vinegar Obtained From Acetic Acid"
+    },
+    {
+        "code": "2307",
+        "description": "Wine Lees; Argol"
+    },
+    {
+        "code": "2309",
+        "description": "Preparations of A Kind Used In Animal Feeding"
+    },
+    {
+        "code": "2401",
+        "description": "Tobacco, Unmanufactured; Tobacco Refuse"
+    },
+    {
+        "code": "2402",
+        "description": "Cigars, Cheroots, Cigarillos and Cigarettes; of Tobacco or of Tobacco Substitutes"
+    },
+    {
+        "code": "2502",
+        "description": "Iron Pyrites; Unroasted"
+    },
+    {
+        "code": "2503",
+        "description": "Sulphur of All Kinds; Other Than Sublimed, Precipitated and Colloidal Sulphur"
+    },
+    {
+        "code": "2504",
+        "description": "Graphite; Natural"
+    },
+    {
+        "code": "2507",
+        "description": "Kaolin and Other Kaolinic Clays; Whether or Not Calcined"
+    },
+    {
+        "code": "2509",
+        "description": "Chalk"
+    },
+    {
+        "code": "2524",
+        "description": "Asbestos"
+    },
+    {
+        "code": "2525",
+        "description": "Mica, Including Splittings; Mica Waste"
+    },
+    {
+        "code": "2529",
+        "description": "Feldspar; Leucite; Nepheline and Nepheline Syenite; Fluorspar"
+    },
+    {
+        "code": "2530",
+        "description": "Mineral Substances Not Elsewhere Specified or Included"
+    },
+    {
+        "code": "2601",
+        "description": "Iron Ores and Concentrates; Including Roasted Iron Pyrites"
+    },
+    {
+        "code": "2603",
+        "description": "Copper Ores and Concentrates"
+    },
+    {
+        "code": "2604",
+        "description": "Nickel Ores and Concentrates"
+    },
+    {
+        "code": "2605",
+        "description": "Cobalt Ores and Concentrates"
+    },
+    {
+        "code": "2606",
+        "description": "Aluminium Ores and Concentrates"
+    },
+    {
+        "code": "2607",
+        "description": "Lead Ores and Concentrates"
+    },
+    {
+        "code": "2608",
+        "description": "Zinc Ores and Concentrates"
+    },
+    {
+        "code": "2609",
+        "description": "Tin Ores and Concentrates"
+    },
+    {
+        "code": "2610",
+        "description": "Chromium Ores and Concentrates"
+    },
+    {
+        "code": "2611",
+        "description": "Tungsten Ores and Concentrates"
+    },
+    {
+        "code": "2612",
+        "description": "Uranium or Thorium Ores and Concentrates"
+    },
+    {
+        "code": "2613",
+        "description": "Molybdenum Ores and Concentrates"
+    },
+    {
+        "code": "2614",
+        "description": "Titanium Ores and Concentrates"
+    },
+    {
+        "code": "2615",
+        "description": "Niobium, Tantalum, Vanadium or Zirconium Ores and Concentrates"
+    },
+    {
+        "code": "2616",
+        "description": "Precious Metal Ores and Concentrates"
+    },
+    {
+        "code": "2617",
+        "description": "Ores and Concentrates; N.E.C. In Heading No. 2601"
+    },
+    {
+        "code": "2618",
+        "description": "Granulated Slag (Slag Sand) From The Manufacture of Iron or Steel"
+    },
+    {
+        "code": "2701",
+        "description": "Coal; Briquettes, Ovoids and Similar Solid Fuels Manufactured From Coal"
+    },
+    {
+        "code": "2702",
+        "description": "Lignite; Whether or Not Agglomerated, Excluding Jet"
+    },
+    {
+        "code": "2703",
+        "description": "Peat; (Including Peat Litter), Whether or Not Agglomerated"
+    },
+    {
+        "code": "2708",
+        "description": "Pitch and Pitch Coke; Obtained From Coal Tar or From Other Mineral Tars"
+    },
+    {
+        "code": "2709",
+        "description": "Petroleum Oils and Oils Obtained From Bituminous Minerals; Crude"
+    },
+    {
+        "code": "2711",
+        "description": "Petroleum Gases and Other Gaseous Hydrocarbons"
+    },
+    {
+        "code": "2716",
+        "description": "Electrical Energy"
+    },
+    {
+        "code": "2801",
+        "description": "Fluorine, Chlorine, Bromine and Iodine"
+    },
+    {
+        "code": "2802",
+        "description": "Sulphur; Sublimed or Precipitated, Colloidal Sulphur"
+    },
+    {
+        "code": "2803",
+        "description": "Carbon; Carbon Blacks and Other Forms of Carbon N.E.C."
+    },
+    {
+        "code": "2804",
+        "description": "Hydrogen, Rare Gases and Other Non-Metals"
+    },
+    {
+        "code": "2806",
+        "description": "Hydrogen Chloride (Hydrochloric Acid); Chlorosulphuric Acid"
+    },
+    {
+        "code": "2807",
+        "description": "Sulphuric Acid; Oleum"
+    },
+    {
+        "code": "2808",
+        "description": "Nitric Acid; Sulphonitric Acids"
+    },
+    {
+        "code": "2810",
+        "description": "Oxides of Boron; Boric Acids"
+    },
+    {
+        "code": "2812",
+        "description": "Halides and Halide Oxides of Non-Metals"
+    },
+    {
+        "code": "2813",
+        "description": "Sulphides of Non-Metals; Commercial Phosphorus Trisulphide"
+    },
+    {
+        "code": "2814",
+        "description": "Ammonia; Anhydrous or In Aqueous Solution"
+    },
+    {
+        "code": "2817",
+        "description": "Zinc; Oxide and Peroxide"
+    },
+    {
+        "code": "2818",
+        "description": "Aluminium Oxide (Including Artificial Corundum); Aluminium Hydroxide"
+    },
+    {
+        "code": "2819",
+        "description": "Chromium Oxides and Hydroxides"
+    },
+    {
+        "code": "2820",
+        "description": "Manganese Oxides"
+    },
+    {
+        "code": "2822",
+        "description": "Cobalt Oxides and Hydroxides; Commercial Cobalt Oxides"
+    },
+    {
+        "code": "2823",
+        "description": "Titanium Oxides"
+    },
+    {
+        "code": "2824",
+        "description": "Lead Oxides; Red Lead and Orange Lead"
+    },
+    {
+        "code": "2826",
+        "description": "Fluorides; Fluorosilicates, Fluoroaluminates and Other Complex Fluorine Salts"
+    },
+    {
+        "code": "2828",
+        "description": "Hypochlorites; Commercial Calcium Hypochlorite; Chlorites; Hypobromites"
+    },
+    {
+        "code": "2829",
+        "description": "Chlorates and Perchlorates; Bromates and Perbromates; Iodates and Periodates"
+    },
+    {
+        "code": "2830",
+        "description": "Sulphides; Polysulphides Whether or Not Chemically Defined"
+    },
+    {
+        "code": "2831",
+        "description": "Dithionites and Sulphoxylates"
+    },
+    {
+        "code": "2832",
+        "description": "Sulphites; Thiosulphates"
+    },
+    {
+        "code": "2833",
+        "description": "Sulphates; Alums; Peroxosulphates (Persulphates)"
+    },
+    {
+        "code": "2834",
+        "description": "Nitrites; Nitrates"
+    },
+    {
+        "code": "2837",
+        "description": "Cyanides, Cyanide Oxides and Complex Cyanides"
+    },
+    {
+        "code": "2839",
+        "description": "Silicates; Commercial Alkali Metal Silicates"
+    },
+    {
+        "code": "2840",
+        "description": "Borates; Peroxoborates (Perborates)"
+    },
+    {
+        "code": "2841",
+        "description": "Salts of Oxometallic or Peroxometallic Acids"
+    },
+    {
+        "code": "2847",
+        "description": "Hydrogen Peroxide; Whether or Not Solidified With Urea"
+    },
+    {
+        "code": "2849",
+        "description": "Carbides, Whether or Not Chemically Defined"
+    },
+    {
+        "code": "2901",
+        "description": "Acyclic Hydrocarbons"
+    },
+    {
+        "code": "2902",
+        "description": "Cyclic Hydrocarbons"
+    },
+    {
+        "code": "2903",
+        "description": "Halogenated Derivatives of Hydrocarbons"
+    },
+    {
+        "code": "2904",
+        "description": "Sulphonated, Nitrated or Nitrosated Derivatives of Hydrocarbons; Whether or Not Halogenated"
+    },
+    {
+        "code": "2905",
+        "description": "Acyclic Alcohols and Their Halogenated, Sulphonated, Nitrated or Nitrosated Derivatives"
+    },
+    {
+        "code": "2906",
+        "description": "Alcohols; Cyclic, and Their Halogenated, Sulphonated, Nitrated or Nitrosated Derivatives"
+    },
+    {
+        "code": "2907",
+        "description": "Phenols; Monophenols, Polyphenols, and Phenol-Alcohols"
+    },
+    {
+        "code": "2921",
+        "description": "Amine-Function Compounds"
+    },
+    {
+        "code": "2922",
+        "description": "Oxygen-Function Amino-Compounds"
+    },
+    {
+        "code": "2926",
+        "description": "Nitrile-Function Compounds"
+    },
+    {
+        "code": "2927",
+        "description": "Diazo-, Azo- or Azoxy-Compounds"
+    },
+    {
+        "code": "2928",
+        "description": "Organic Derivatives of Hydrazine or of Hydroxylamine"
+    },
+    {
+        "code": "2929",
+        "description": "Nitrogen-Function Compounds, N.E.C. In Chapter 29"
+    },
+    {
+        "code": "2930",
+        "description": "Organo-Sulphur Compounds"
+    },
+    {
+        "code": "2931",
+        "description": "Other Organo-Inorganic Compounds"
+    },
+    {
+        "code": "2932",
+        "description": "Heterocyclic Compounds With Oxygen Hetero-Atom(S) Only"
+    },
+    {
+        "code": "2933",
+        "description": "Heterocyclic Compounds With Nitrogen Hetero-Atom(S) Only"
+    },
+    {
+        "code": "2935",
+        "description": "Sulphonamides"
+    },
+    {
+        "code": "2941",
+        "description": "Antibiotics"
+    },
+    {
+        "code": "2942",
+        "description": "Organic Compounds; N.E.C. In Chapter 29"
+    },
+    {
+        "code": "3006",
+        "description": "Pharmaceutical Goods"
+    },
+    {
+        "code": "3102",
+        "description": "Fertilizers; Mineral or Chemical, Nitrogenous"
+    },
+    {
+        "code": "3103",
+        "description": "Fertilizers; Mineral or Chemical, Phosphatic"
+    },
+    {
+        "code": "3104",
+        "description": "Fertilizers; Mineral or Chemical, Potassic"
+    },
+    {
+        "code": "3211",
+        "description": "Driers; Prepared"
+    },
+    {
+        "code": "3303",
+        "description": "Perfumes and Toilet Waters"
+    },
+    {
+        "code": "3305",
+        "description": "Hair Preparations; For Use On The Hair"
+    },
+    {
+        "code": "3404",
+        "description": "Waxes; Artificial, Prepared"
+    },
+    {
+        "code": "3406",
+        "description": "Candles, Tapers and The Like"
+    },
+    {
+        "code": "3501",
+        "description": "Casein, Caseinates and Other Casein Derivatives; Casein Glues"
+    },
+    {
+        "code": "3507",
+        "description": "Enzymes; Prepared Enzymes Not Elsewhere Specified or Included"
+    },
+    {
+        "code": "3601",
+        "description": "Explosives; Propellent Powders"
+    },
+    {
+        "code": "3602",
+        "description": "Prepared Explosives, Other Than Propellent Powders"
+    },
+    {
+        "code": "3605",
+        "description": "Matches; Other Than Pyrotechnic Articles of Heading No. 3604"
+    },
+    {
+        "code": "3703",
+        "description": "Photographic Paper, Paperboard and Textiles; Sensitised, Unexposed"
+    },
+    {
+        "code": "3705",
+        "description": "Photographic Plates and Film; Exposed and Developed, Other Than Cinematographic Film"
+    },
+    {
+        "code": "3803",
+        "description": "Tall Oil, Whether or Not Refined"
+    },
+    {
+        "code": "3820",
+        "description": "Anti-Freezing Preparations and Prepared De-Icing Fluids"
+    },
+    {
+        "code": "3901",
+        "description": "Polymers of Ethylene, In Primary Forms"
+    },
+    {
+        "code": "3902",
+        "description": "Polymers of Propylene or of Other Olefins, In Primary Forms"
+    },
+    {
+        "code": "3903",
+        "description": "Polymers of Styrene, In Primary Forms"
+    },
+    {
+        "code": "3906",
+        "description": "Acrylic Polymers In Primary Forms"
+    },
+    {
+        "code": "3908",
+        "description": "Polyamides In Primary Forms"
+    },
+    {
+        "code": "3910",
+        "description": "Silicones In Primary Forms"
+    },
+    {
+        "code": "3915",
+        "description": "Waste, Parings and Scrap, of Plastics"
+    },
+    {
+        "code": "3925",
+        "description": "Plastics; Builders' Wares N.E.C. or Included"
+    },
+    {
+        "code": "4007",
+        "description": "Vulcanised Rubber Thread and Cord"
+    },
+    {
+        "code": "4010",
+        "description": "Conveyor or Transmission Belts or Belting, of Vulcanised Rubber"
+    },
+    {
+        "code": "4011",
+        "description": "New Pneumatic Tyres, of Rubber"
+    },
+    {
+        "code": "4013",
+        "description": "Inner Tubes, of Rubber"
+    },
+    {
+        "code": "4203",
+        "description": "Articles of Apparel and Clothing Accessories, of Leather or of Composition Leather"
+    },
+    {
+        "code": "4303",
+        "description": "Articles of Apparel, Clothing Accessories and Other Articles of Furskin"
+    },
+    {
+        "code": "4304",
+        "description": "Artificial Fur and Articles Thereof"
+    },
+    {
+        "code": "4405",
+        "description": "Wood Wool; Wood Flour"
+    },
+    {
+        "code": "4406",
+        "description": "Railway or Tramway Sleepers (Cross-Ties) of Wood"
+    },
+    {
+        "code": "4412",
+        "description": "Plywood, Veneered Panels and Similar Laminated Wood"
+    },
+    {
+        "code": "4414",
+        "description": "Wooden Frames; For Paintings, Photographs, Mirrors or Similar Objects"
+    },
+    {
+        "code": "4419",
+        "description": "Tableware and Kitchenware, of Wood"
+    },
+    {
+        "code": "4503",
+        "description": "Cork; Articles of Natural Cork"
+    },
+    {
+        "code": "4701",
+        "description": "Wood Pulp, Mechanical Wood Pulp"
+    },
+    {
+        "code": "4702",
+        "description": "Chemical Wood Pulp, Dissolving Grades"
+    },
+    {
+        "code": "4703",
+        "description": "Chemical Wood Pulp, Soda or Sulphate, Other Than Dissolving Grades"
+    },
+    {
+        "code": "4704",
+        "description": "Chemical Wood Pulp, Sulphite, Other Than Dissolving Grades"
+    },
+    {
+        "code": "4707",
+        "description": "Waste and Scrap of Paper and Paperboard"
+    },
+    {
+        "code": "4801",
+        "description": "Newsprint, In Rolls or Sheets"
+    },
+    {
+        "code": "4805",
+        "description": "Uncoated Paper and Paperboard N.E.C., In Rolls or Sheets"
+    },
+    {
+        "code": "4812",
+        "description": "Filter Blocks, Slabs and Plates of Paper Pulp"
+    },
+    {
+        "code": "4814",
+        "description": "Wallpaper and Similar Wall Coverings; Window Transparencies of Paper"
+    },
+    {
+        "code": "4821",
+        "description": "Paper or Paperboard Labels of All Kinds, Whether or Not Printed"
+    },
+    {
+        "code": "4902",
+        "description": "Newspapers, Journals and Periodicals, Whether or Not Illustrated or Containing Advertising Material"
+    },
+    {
+        "code": "4903",
+        "description": "Children'S Picture, Drawing or Colouring Books"
+    },
+    {
+        "code": "4904",
+        "description": "Music, Printed or In Manuscript, Whether or Not Bound or Illustrated"
+    },
+    {
+        "code": "4908",
+        "description": "Transfers (Decalcomanias)"
+    },
+    {
+        "code": "4910",
+        "description": "Calendars of Any Kind, Printed, Including Calendar Blocks"
+    },
+    {
+        "code": "4911",
+        "description": "Printed Matter, N.E.C., Including Printed Pictures and Photographs"
+    },
+    {
+        "code": "5001",
+        "description": "Silk-Worm Cocoons Suitable For Reeling"
+    },
+    {
+        "code": "5002",
+        "description": "Raw Silk (Not Thrown)"
+    },
+    {
+        "code": "5005",
+        "description": "Yarn Spun From Silk Waste, Not Put Up For Retail Sale"
+    },
+    {
+        "code": "5007",
+        "description": "Woven Fabrics of Silk or of Silk Waste"
+    },
+    {
+        "code": "5101",
+        "description": "Wool, Not Carded or Combed"
+    },
+    {
+        "code": "5102",
+        "description": "Fine or Coarse Animal Hair, Not Carded or Combed"
+    },
+    {
+        "code": "5104",
+        "description": "Wool, or Fine or Coarse Animal Hair; Garnetted Stock"
+    },
+    {
+        "code": "5106",
+        "description": "Yarn of Carded Wool, Not Put Up For Retail Sale"
+    },
+    {
+        "code": "5107",
+        "description": "Yarn of Combed Wool, Not Put Up For Retail Sale"
+    },
+    {
+        "code": "5109",
+        "description": "Yarn of Wool or of Fine Animal Hair, Put Up For Retail Sale"
+    },
+    {
+        "code": "5113",
+        "description": "Woven Fabrics of Coarse Animal Hair or of Horsehair"
+    },
+    {
+        "code": "5201",
+        "description": "Cotton; Not Carded or Combed"
+    },
+    {
+        "code": "5202",
+        "description": "Cotton Waste (Including Yarn Waste and Garnetted Stock)"
+    },
+    {
+        "code": "5203",
+        "description": "Cotton, Carded or Combed"
+    },
+    {
+        "code": "5204",
+        "description": "Cotton Sewing Thread, Whether or Not Put Up For Retail Sale"
+    },
+    {
+        "code": "5207",
+        "description": "Cotton Yarn (Other Than Sewing Thread), Put Up For Retail Sale"
+    },
+    {
+        "code": "5212",
+        "description": "Other Woven Fabrics of Cotton, N.E.C. In Chapter 52"
+    },
+    {
+        "code": "5306",
+        "description": "Flax Yarn"
+    },
+    {
+        "code": "5308",
+        "description": "Yarn of Other Vegetable Textile Fibres; Paper Yarn"
+    },
+    {
+        "code": "5309",
+        "description": "Woven Fabrics of Flax"
+    },
+    {
+        "code": "5401",
+        "description": "Sewing Thread of Man-Made Filaments, Whether or Not Put Up For Retail Sale"
+    },
+    {
+        "code": "5406",
+        "description": "Man-Made Filament Yarn (Other Than Sewing Thread), Put Up For Retail Sale"
+    },
+    {
+        "code": "5501",
+        "description": "Synthetic Filament Tow"
+    },
+    {
+        "code": "5502",
+        "description": "Artificial Filament Tow"
+    },
+    {
+        "code": "5506",
+        "description": "Synthetic Staple Fibres, Carded, Combed or Otherwise Processed For Spinning"
+    },
+    {
+        "code": "5507",
+        "description": "Artificial Staple Fibres, Carded, Combed or Otherwise Processed For Spinning"
+    },
+    {
+        "code": "5516",
+        "description": "Woven Fabrics of Artificial Staple Fibres"
+    },
+    {
+        "code": "5602",
+        "description": "Felt; Whether or Not Impregnated, Coated, Covered or Laminated"
+    },
+    {
+        "code": "5603",
+        "description": "Nonwovens; Whether or Not Impregnated, Coated, Covered or Laminated"
+    },
+    {
+        "code": "5701",
+        "description": "Carpets and Other Textile Floor Coverings; Knotted, Whether or Not Made Up"
+    },
+    {
+        "code": "5803",
+        "description": "Gauze; Other Than Narrow Fabrics of Heading No. 5806"
+    },
+    {
+        "code": "5810",
+        "description": "Embroidery; In The Piece, In Strips or In Motifs"
+    },
+    {
+        "code": "5905",
+        "description": "Textile Wall Coverings"
+    },
+    {
+        "code": "5906",
+        "description": "Textile Fabrics, Rubberised; Other Than Those of Heading No. 5902"
+    },
+    {
+        "code": "6006",
+        "description": "Fabrics; Knitted or Crocheted Fabrics, Other Than Those of Headings 60.01 To 60.04"
+    },
+    {
+        "code": "6105",
+        "description": "Shirts; Men'S or Boys', Knitted or Crocheted"
+    },
+    {
+        "code": "6109",
+        "description": "T-Shirts, Singlets and Other Vests; Knitted or Crocheted"
+    },
+    {
+        "code": "6110",
+        "description": "Jerseys, Pullovers, Cardigans, Waistcoats and Similar Articles; Knitted or Crocheted"
+    },
+    {
+        "code": "6111",
+        "description": "Garments and Clothing Accessories, Babies'; Knitted or Crocheted"
+    },
+    {
+        "code": "6112",
+        "description": "Track Suits, Ski Suits and Swimwear; Knitted or Crocheted"
+    },
+    {
+        "code": "6114",
+        "description": "Garments; Knitted or Crocheted, N.E.C. In Chapter 61"
+    },
+    {
+        "code": "6116",
+        "description": "Gloves, Mittens and Mitts; Knitted or Crocheted"
+    },
+    {
+        "code": "6205",
+        "description": "Shirts; Men'S or Boys' (Not Knitted or Crocheted)"
+    },
+    {
+        "code": "6209",
+        "description": "Garments and Clothing Accessories; Babies' (Not Knitted or Crocheted)"
+    },
+    {
+        "code": "6211",
+        "description": "Track Suits, Swimwear and Other Garments (Not Knitted or Crocheted)"
+    },
+    {
+        "code": "6213",
+        "description": "Handkerchiefs (Not Knitted or Crocheted)"
+    },
+    {
+        "code": "6215",
+        "description": "Ties, Bow Ties and Cravats (Not Knitted or Crocheted)"
+    },
+    {
+        "code": "6216",
+        "description": "Gloves, Mittens and Mitts (Not Knitted or Crocheted)"
+    },
+    {
+        "code": "6301",
+        "description": "Blankets and Travelling Rugs"
+    },
+    {
+        "code": "6304",
+        "description": "Furnishing Articles; Excluding Those of Heading No. 9404"
+    },
+    {
+        "code": "6305",
+        "description": "Sacks and Bags, of A Kind Used For The Packing of Goods"
+    },
+    {
+        "code": "6309",
+        "description": "Textiles; Worn Clothing and Other Worn Articles"
+    },
+    {
+        "code": "6405",
+        "description": "Footwear; Other Footwear N.E.C. In Chapter 64"
+    },
+    {
+        "code": "6801",
+        "description": "Stone; Setts, Curbstones and Flagstones, of Natural Stone (Except Slate)"
+    },
+    {
+        "code": "6803",
+        "description": "Slate, Worked; and Articles of Slate or of Agglomerated Slate"
+    },
+    {
+        "code": "6809",
+        "description": "Plaster or Compositions Based On Plaster; Articles Thereof"
+    },
+    {
+        "code": "6810",
+        "description": "Cement, Concrete or Artificial Stone; Whether or Not Reinforced, Articles Thereof"
+    },
+    {
+        "code": "6811",
+        "description": "Asbestos-Cement, of Cellulose Fibre-Cement or The Like"
+    },
+    {
+        "code": "6906",
+        "description": "Ceramic Pipes, Conduits, Guttering and Pipe Fittings"
+    },
+    {
+        "code": "6913",
+        "description": "Statuettes and Other Ornamental Ceramic Articles"
+    },
+    {
+        "code": "6914",
+        "description": "Ceramic Articles; N.E.C. In Chapter 69"
+    },
+    {
+        "code": "7007",
+        "description": "Safety Glass, Consisting of Toughened (Tempered) or Laminated Glass"
+    },
+    {
+        "code": "7008",
+        "description": "Glass; Multiple-Walled Insulating Units of Glass"
+    },
+    {
+        "code": "7017",
+        "description": "Laboratory, Hygienic or Pharmaceutical Glassware, Whether or Not Graduated or Calibrated"
+    },
+    {
+        "code": "7020",
+        "description": "Glass; Articles N.E.C. In Chapter 70"
+    },
+    {
+        "code": "7102",
+        "description": "Diamonds, Whether or Not Worked, But Not Mounted or Set"
+    },
+    {
+        "code": "7115",
+        "description": "Articles of Precious Metal or of Metal Clad With Precious Metal"
+    },
+    {
+        "code": "7117",
+        "description": "Imitation Jewellery"
+    },
+    {
+        "code": "7118",
+        "description": "Coin"
+    },
+    {
+        "code": "7202",
+        "description": "Ferro-Alloys"
+    },
+    {
+        "code": "7205",
+        "description": "Granules and Powders, of Pig Iron, Spiegeleisen, Iron or Steel"
+    },
+    {
+        "code": "7207",
+        "description": "Iron or Non-Alloy Steel; Semi-Finished Products Thereof"
+    },
+    {
+        "code": "7216",
+        "description": "Iron or Non-Alloy Steel, Angles, Shapes and Sections"
+    },
+    {
+        "code": "7217",
+        "description": "Wire of Iron or Non-Alloy Steel"
+    },
+    {
+        "code": "7219",
+        "description": "Stainless Steel; Flat-Rolled Products of Width of 600Mm or More"
+    },
+    {
+        "code": "7220",
+        "description": "Stainless Steel; Flat-Rolled Products of Width Less Than 600Mm"
+    },
+    {
+        "code": "7222",
+        "description": "Stainless Steel Bars and Rods, Angles, Shapes and Sections"
+    },
+    {
+        "code": "7223",
+        "description": "Stainless Steel Wire"
+    },
+    {
+        "code": "7229",
+        "description": "Wire of Other Alloy Steel"
+    },
+    {
+        "code": "7303",
+        "description": "Tubes, Pipes and Hollow Profiles, of Cast Iron"
+    },
+    {
+        "code": "7311",
+        "description": "Containers For Compressed or Liquefied Gas, of Iron or Steel"
+    },
+    {
+        "code": "7315",
+        "description": "Chain and Parts Thereof, of Iron or Steel"
+    },
+    {
+        "code": "7316",
+        "description": "Anchors, Grapnels and Parts Thereof, of Iron or Steel"
+    },
+    {
+        "code": "7320",
+        "description": "Springs and Leaves For Springs, of Iron or Steel"
+    },
+    {
+        "code": "7324",
+        "description": "Sanitary Ware and Parts Thereof, of Iron or Steel"
+    },
+    {
+        "code": "7325",
+        "description": "Iron or Steel; Cast Articles"
+    },
+    {
+        "code": "7326",
+        "description": "Iron or Steel; Articles, N.E.C. In Chapter 73"
+    },
+    {
+        "code": "7401",
+        "description": "Copper Mattes; Cement Copper (Precipitated Copper)"
+    },
+    {
+        "code": "7402",
+        "description": "Copper; Unrefined, Copper Anodes For Electrolytic Refining"
+    },
+    {
+        "code": "7403",
+        "description": "Copper; Refined and Copper Alloys, Unwrought"
+    },
+    {
+        "code": "7404",
+        "description": "Copper; Waste and Scrap"
+    },
+    {
+        "code": "7405",
+        "description": "Copper; Master Alloys"
+    },
+    {
+        "code": "7406",
+        "description": "Copper; Powders and Flakes"
+    },
+    {
+        "code": "7407",
+        "description": "Copper; Bars, Rods and Profiles"
+    },
+    {
+        "code": "7408",
+        "description": "Copper Wire"
+    },
+    {
+        "code": "7411",
+        "description": "Copper Tubes and Pipes"
+    },
+    {
+        "code": "7419",
+        "description": "Copper; Articles Thereof N.E.C. In Chapter 74"
+    },
+    {
+        "code": "7502",
+        "description": "Nickel; Unwrought"
+    },
+    {
+        "code": "7503",
+        "description": "Nickel; Waste and Scrap"
+    },
+    {
+        "code": "7504",
+        "description": "Nickel; Powders and Flakes"
+    },
+    {
+        "code": "7505",
+        "description": "Nickel; Bars, Rods, Profiles and Wire"
+    },
+    {
+        "code": "7506",
+        "description": "Nickel; Plates, Sheets, Strip and Foil"
+    },
+    {
+        "code": "7508",
+        "description": "Nickel; Articles Thereof N.E.C. In Chapter 75"
+    },
+    {
+        "code": "7601",
+        "description": "Aluminium; Unwrought"
+    },
+    {
+        "code": "7602",
+        "description": "Aluminium; Waste and Scrap"
+    },
+    {
+        "code": "7603",
+        "description": "Aluminium; Powders and Flakes"
+    },
+    {
+        "code": "7604",
+        "description": "Aluminium; Bars, Rods and Profiles"
+    },
+    {
+        "code": "7605",
+        "description": "Aluminium Wire"
+    },
+    {
+        "code": "7606",
+        "description": "Aluminium; Plates, Sheets and Strip, Thickness Exceeding 0.2Mm"
+    },
+    {
+        "code": "7608",
+        "description": "Aluminium; Tubes and Pipes"
+    },
+    {
+        "code": "7613",
+        "description": "Aluminium; Containers For Compressed or Liquefied Gas"
+    },
+    {
+        "code": "7616",
+        "description": "Aluminium; Articles N.E.C. In Chapter 76"
+    },
+    {
+        "code": "7801",
+        "description": "Lead; Unwrought"
+    },
+    {
+        "code": "7802",
+        "description": "Lead; Waste and Scrap"
+    },
+    {
+        "code": "7806",
+        "description": "Lead; Articles N.E.C. In Chapter 78"
+    },
+    {
+        "code": "7901",
+        "description": "Zinc; Unwrought"
+    },
+    {
+        "code": "7902",
+        "description": "Zinc; Waste and Scrap"
+    },
+    {
+        "code": "7903",
+        "description": "Zinc; Dust, Powders and Flakes"
+    },
+    {
+        "code": "7904",
+        "description": "Zinc; Bars, Rods, Profiles and Wire"
+    },
+    {
+        "code": "7905",
+        "description": "Zinc; Plates, Sheets, Strip and Foil"
+    },
+    {
+        "code": "7907",
+        "description": "Zinc; Articles N.E.C. In Chapter 79"
+    },
+    {
+        "code": "8001",
+        "description": "Tin; Unwrought"
+    },
+    {
+        "code": "8002",
+        "description": "Tin; Waste and Scrap"
+    },
+    {
+        "code": "8003",
+        "description": "Tin; Bars, Rods, Profiles and Wire"
+    },
+    {
+        "code": "8007",
+        "description": "Tin; Articles N.E.C. In Chapter 80"
+    },
+    {
+        "code": "8101",
+        "description": "Tungsten (Wolfram); Articles Thereof, Including Waste and Scrap"
+    },
+    {
+        "code": "8102",
+        "description": "Molybdenum; Articles Thereof, Including Waste and Scrap"
+    },
+    {
+        "code": "8103",
+        "description": "Tantalum; Articles Thereof, Including Waste and Scrap"
+    },
+    {
+        "code": "8104",
+        "description": "Magnesium; Articles Thereof, Including Waste and Scrap"
+    },
+    {
+        "code": "8106",
+        "description": "Bismuth; Articles Thereof, Including Waste and Scrap"
+    },
+    {
+        "code": "8107",
+        "description": "Cadmium; Articles Thereof, Including Waste and Scrap"
+    },
+    {
+        "code": "8108",
+        "description": "Titanium; Articles Thereof, Including Waste and Scrap"
+    },
+    {
+        "code": "8109",
+        "description": "Zirconium; Articles Thereof, Including Waste and Scrap"
+    },
+    {
+        "code": "8110",
+        "description": "Antimony; Articles Thereof, Including Waste and Scrap"
+    },
+    {
+        "code": "8111",
+        "description": "Manganese; Articles Thereof, Including Waste and Scrap"
+    },
+    {
+        "code": "8113",
+        "description": "Cermets; Articles Thereof, Including Waste and Scrap"
+    },
+    {
+        "code": "8208",
+        "description": "Knives and Cutting Blades, For Machines or For Mechanical Appliances"
+    },
+    {
+        "code": "8213",
+        "description": "Scissors; Tailors' Shears and Similar Shears, and Blades Therefore"
+    },
+    {
+        "code": "8307",
+        "description": "Tubing; Flexible, With or Without Fittings, of Base Metal"
+    },
+    {
+        "code": "8403",
+        "description": "Central Heating Boilers; Excluding Those of Heading No. 8402"
+    },
+    {
+        "code": "8406",
+        "description": "Turbines; Steam and Other Vapour Turbines"
+    },
+    {
+        "code": "8407",
+        "description": "Reciprocating or Rotary Internal Combustion Piston Engines"
+    },
+    {
+        "code": "8410",
+        "description": "Turbines; Hydraulic Water Wheels and Regulators Therefor"
+    },
+    {
+        "code": "8411",
+        "description": "Turbo-Jets, Turbo-Propellers and Other Gas Turbines"
+    },
+    {
+        "code": "8434",
+        "description": "Milking Machines and Dairy Machinery"
+    },
+    {
+        "code": "8440",
+        "description": "Book-Binding Machinery; Including Book-Sewing Machines"
+    },
+    {
+        "code": "8446",
+        "description": "Weaving Machines (Looms)"
+    },
+    {
+        "code": "8455",
+        "description": "Metal-Rolling Mills and Rolls Therefor"
+    },
+    {
+        "code": "8458",
+        "description": "Lathes For Removing Metal"
+    },
+    {
+        "code": "8472",
+        "description": "Office Machines; Not Elsewhere Classified"
+    },
+    {
+        "code": "8478",
+        "description": "Machinery; For Preparing or Making Up Tobacco, N.E.C. In This Chapter"
+    },
+    {
+        "code": "8482",
+        "description": "Ball or Roller Bearings"
+    },
+    {
+        "code": "8485",
+        "description": "Machines For Additive Manufacturing"
+    },
+    {
+        "code": "8501",
+        "description": "Electric Motors and Generators (Excluding Generating Sets)"
+    },
+    {
+        "code": "8502",
+        "description": "Electric Generating Sets and Rotary Converters"
+    },
+    {
+        "code": "8504",
+        "description": "Electric Transformers, Static Converters (E.G. Rectifiers) and Inductors"
+    },
+    {
+        "code": "8506",
+        "description": "Cells and Batteries; Primary"
+    },
+    {
+        "code": "8508",
+        "description": "Vacuum Cleaners"
+    },
+    {
+        "code": "8519",
+        "description": "Sound Recording or Reproducing Apparatus"
+    },
+    {
+        "code": "8521",
+        "description": "Video Recording or Reproducing Apparatus"
+    },
+    {
+        "code": "8532",
+        "description": "Electrical Capacitors; Fixed, Variable or Adjustable (Pre-Set)"
+    },
+    {
+        "code": "8534",
+        "description": "Circuits; Printed"
+    },
+    {
+        "code": "8542",
+        "description": "Electronic Integrated Circuits"
+    },
+    {
+        "code": "8546",
+        "description": "Electrical Insulators of Any Material"
+    },
+    {
+        "code": "8549",
+        "description": "Electrical and Electronic Waste and Scrap"
+    },
+    {
+        "code": "8602",
+        "description": "Rail Locomotives; (Other Than Those of Heading No. 8601), Locomotive Tenders"
+    },
+    {
+        "code": "8606",
+        "description": "Railway or Tramway Goods Vans and Wagons; Not Self-Propelled"
+    },
+    {
+        "code": "8607",
+        "description": "Railway or Tramway Locomotives or Rolling Stock; Parts Thereof"
+    },
+    {
+        "code": "8701",
+        "description": "Tractors; (Other Than Tractors of Heading No 8709)"
+    },
+    {
+        "code": "8702",
+        "description": "Vehicles; Public Transport Passenger Type"
+    },
+    {
+        "code": "8704",
+        "description": "Vehicles; For The Transport of Goods"
+    },
+    {
+        "code": "8712",
+        "description": "Bicycles and Other Cycles; Including Delivery Tricycles, Not Motorised"
+    },
+    {
+        "code": "8713",
+        "description": "Carriages For Disabled Persons; Whether or Not Motorised or Otherwise Mechanically Propelled"
+    },
+    {
+        "code": "8714",
+        "description": "Vehicles; Parts and Accessories of Heading No. 8711 To 8713"
+    },
+    {
+        "code": "8715",
+        "description": "Baby Carriages and Parts Thereof"
+    },
+    {
+        "code": "8803",
+        "description": "Aircraft; Parts of Heading No. 8801 or 8802"
+    },
+    {
+        "code": "8806",
+        "description": "Unmanned Aircraft"
+    },
+    {
+        "code": "8807",
+        "description": "Aircraft; Parts of Goods of Heading 8801, 8802 or 8806"
+    },
+    {
+        "code": "8903",
+        "description": "Yachts and Other Vessels; For Pleasure or Sports, Rowing Boats and Canoes"
+    },
+    {
+        "code": "8904",
+        "description": "Tugs and Pusher Craft"
+    },
+    {
+        "code": "8906",
+        "description": "Vessels; Other, Including Warships and Lifeboats, Other Than Rowing Boats"
+    },
+    {
+        "code": "8908",
+        "description": "Vessels and Other Floating Structures; For Breaking Up"
+    },
+    {
+        "code": "9003",
+        "description": "Frames and Mountings; For Spectacles, Goggles or The Like, and Parts"
+    },
+    {
+        "code": "9004",
+        "description": "Spectacles, Goggles and The Like; Corrective, Protective or Other"
+    },
+    {
+        "code": "9008",
+        "description": "Image Projectors, Other Than Cinematographic; Photographic (Other Than Cinematographic) Enlargers and Reducers"
+    },
+    {
+        "code": "9011",
+        "description": "Microscopes, Compound Optical; Including Those For Photomicrography, Cinephotomicrography or Microprojection"
+    },
+    {
+        "code": "9012",
+        "description": "Microscopes (Excluding Optical Microscopes); Diffraction Apparatus"
+    },
+    {
+        "code": "9014",
+        "description": "Navigational Instruments and Appliances; Direction Finding Compasses"
+    },
+    {
+        "code": "9016",
+        "description": "Balances; of A Sensitivity of 5Cg or Better, With or Without Weights"
+    },
+    {
+        "code": "9022",
+        "description": "Apparatus Based On The Use of X-Rays or of Alpha, Beta, Gamma or Other Ionising Radiations, Whether or Not For Medical, Surgical, Dental or Veterinary Uses, Including Radiography or Radiotherapy Apparatus, X-Ray Tubes and Other X-Ray Generators, High Tens"
+    },
+    {
+        "code": "9032",
+        "description": "Regulating or Controlling Instruments and Apparatus; Automatic Type"
+    },
+    {
+        "code": "9105",
+        "description": "Clocks, Other, N.E.C."
+    },
+    {
+        "code": "9107",
+        "description": "Time Switches; With Clock, Watch Movement or Synchronous Motor"
+    },
+    {
+        "code": "9108",
+        "description": "Watch Movements; Complete and Assembled"
+    },
+    {
+        "code": "9109",
+        "description": "Clock Movements; Complete and Assembled"
+    },
+    {
+        "code": "9111",
+        "description": "Watch Cases and Parts Thereof"
+    },
+    {
+        "code": "9113",
+        "description": "Watch Straps, Watch Bands, Watch Bracelets and Parts Thereof"
+    },
+    {
+        "code": "9114",
+        "description": "Clock or Watch Parts; N.E.C. In Chapter 91"
+    },
+    {
+        "code": "9302",
+        "description": "Revolvers and Pistols; Other Than Those of Heading No. 9303 or 9304"
+    },
+    {
+        "code": "9403",
+        "description": "Furniture and Parts Thereof, N.E.C. In Chapter 94"
+    },
+    {
+        "code": "9406",
+        "description": "Buildings; Prefabricated"
+    },
+    {
+        "code": "9604",
+        "description": "Hand Sieves and Hand Riddles"
+    },
+    {
+        "code": "9607",
+        "description": "Slide Fasteners and Parts Thereof"
+    },
+    {
+        "code": "9610",
+        "description": "Slates and Boards, With Writing or Drawing Surfaces, Whether or Not Framed"
+    },
+    {
+        "code": "9620",
+        "description": "Monopods, Bipods, Tripods and Similar Articles"
+    },
+    {
+        "code": "9702",
+        "description": "Engravings, Prints and Lithographs; Original"
+    },
+    {
+        "code": "9703",
+        "description": "Sculptures and Statuary; Original, In Any Material"
+    },
+    {
+        "code": "9706",
+        "description": "Antiques; of An Age Exceeding One Hundred Years"
+    },
+    {
+        "code": "9999",
+        "description": "Commodities Not Specified According To Kind"
+    },
+    {
+        "code": "010121",
+        "description": "Horses; Live, Pure-Bred Breeding Animals"
+    },
+    {
+        "code": "010129",
+        "description": "Horses; Live, Other Than Pure-Bred Breeding Animals"
+    },
+    {
+        "code": "010130",
+        "description": "Asses; Live"
+    },
+    {
+        "code": "010190",
+        "description": "Mules and Hinnies; Live"
+    },
+    {
+        "code": "010239",
+        "description": "Buffalo; Live, Other Than Pure-Bred Breeding Animals"
+    },
+    {
+        "code": "010290",
+        "description": "Bovine Animals; Live, Other Than Cattle and Buffalo"
+    },
+    {
+        "code": "010310",
+        "description": "Swine; Live, Pure-Bred Breeding Animals"
+    },
+    {
+        "code": "010410",
+        "description": "Sheep; Live"
+    },
+    {
+        "code": "010420",
+        "description": "Goats; Live"
+    },
+    {
+        "code": "010611",
+        "description": "Mammals; Live, Primates"
+    },
+    {
+        "code": "010613",
+        "description": "Mammals; Live, Camels and Other Camelids (Camelidae)"
+    },
+    {
+        "code": "010614",
+        "description": "Mammals; Live, Rabbits and Hares"
+    },
+    {
+        "code": "010620",
+        "description": "Reptiles; Live (Including Snakes and Turtles)"
+    },
+    {
+        "code": "010641",
+        "description": "Insects; Live, Bees"
+    },
+    {
+        "code": "010649",
+        "description": "Insects; Live, Other Than Bees"
+    },
+    {
+        "code": "020230",
+        "description": "Meat; of Bovine Animals, Boneless Cuts, Frozen"
+    },
+    {
+        "code": "020321",
+        "description": "Meat; of Swine, Carcasses and Half-Carcasses, Frozen"
+    },
+    {
+        "code": "020450",
+        "description": "Meat; of Goats, Fresh, Chilled or Frozen"
+    },
+    {
+        "code": "020610",
+        "description": "Offal, Edible; of Bovine Animals, Fresh or Chilled"
+    },
+    {
+        "code": "020621",
+        "description": "Offal, Edible; of Bovine Animals, Tongues, Frozen"
+    },
+    {
+        "code": "020630",
+        "description": "Offal, Edible; of Swine, Fresh or Chilled"
+    },
+    {
+        "code": "020641",
+        "description": "Offal, Edible; of Swine, Livers, Frozen"
+    },
+    {
+        "code": "020649",
+        "description": "Offal, Edible; of Swine, (Other Than Livers), Frozen"
+    },
+    {
+        "code": "030111",
+        "description": "Fish; Live, Ornamental, Freshwater"
+    },
+    {
+        "code": "030119",
+        "description": "Fish; Live, Ornamental, Other Than Freshwater"
+    },
+    {
+        "code": "030192",
+        "description": "Fish; Live, Eels (Anguilla Spp.)"
+    },
+    {
+        "code": "030291",
+        "description": "Fish; Fresh or Chilled, Livers, Roes and Milt"
+    },
+    {
+        "code": "030292",
+        "description": "Fish; Fresh or Chilled, Shark Fins"
+    },
+    {
+        "code": "030391",
+        "description": "Fish; Frozen, Livers, Roes and Milt"
+    },
+    {
+        "code": "030392",
+        "description": "Fish; Frozen, Shark Fins"
+    },
+    {
+        "code": "030461",
+        "description": "Fish Fillets; Frozen, Tilapias (Oreochromis Spp.)"
+    },
+    {
+        "code": "030472",
+        "description": "Fish Fillets; Frozen, Haddock (Melanogrammus Aeglefinus)"
+    },
+    {
+        "code": "030473",
+        "description": "Fish Fillets; Frozen, Coalfish (Pollachius Virens)"
+    },
+    {
+        "code": "030484",
+        "description": "Fish Fillets; Frozen, Swordfish (Xiphias Gladius)"
+    },
+    {
+        "code": "030485",
+        "description": "Fish Fillets; Frozen, Toothfish (Dissostichus Spp.)"
+    },
+    {
+        "code": "030571",
+        "description": "Fish; Edible Offal, Shark Fins"
+    },
+    {
+        "code": "030624",
+        "description": "Crabs"
+    },
+    {
+        "code": "030627",
+        "description": "Other Shrimps and Prawns"
+    },
+    {
+        "code": "030712",
+        "description": "Molluscs; Oysters, Whether In Shell or Not, Frozen"
+    },
+    {
+        "code": "030752",
+        "description": "Molluscs; Octopus (Octopus Spp.), Frozen"
+    },
+    {
+        "code": "030789",
+        "description": "Other"
+    },
+    {
+        "code": "040510",
+        "description": "Dairy Produce; Derived From Milk, Butter"
+    },
+    {
+        "code": "040520",
+        "description": "Dairy Produce; Dairy Spreads"
+    },
+    {
+        "code": "040790",
+        "description": "Birds' Eggs, In Shell; Preserved or Cooked"
+    },
+    {
+        "code": "040900",
+        "description": "Honey; Natural"
+    },
+    {
+        "code": "041000",
+        "description": "Animal Products; Edible, N.E.C. In This or Other Chapters"
+    },
+    {
+        "code": "041010",
+        "description": "Animal Products; Insects"
+    },
+    {
+        "code": "051110",
+        "description": "Animal Products; Bovine Semen"
+    },
+    {
+        "code": "060210",
+        "description": "Plants, Live; Unrooted Cuttings and Slips"
+    },
+    {
+        "code": "060230",
+        "description": "Plants, Live; Rhododendrons and Azaleas, Grafted or Not"
+    },
+    {
+        "code": "060240",
+        "description": "Plants, Live; Roses, Grafted or Not"
+    },
+    {
+        "code": "070110",
+        "description": "Vegetables; Seed Potatoes, Fresh or Chilled"
+    },
+    {
+        "code": "070190",
+        "description": "Vegetables; Potatoes (Other Than Seed), Fresh or Chilled"
+    },
+    {
+        "code": "070200",
+        "description": "Vegetables; Tomatoes, Fresh or Chilled"
+    },
+    {
+        "code": "070310",
+        "description": "Vegetables, Alliaceous; Onions and Shallots, Fresh or Chilled"
+    },
+    {
+        "code": "070320",
+        "description": "Vegetables, Alliaceous; Garlic, Fresh or Chilled"
+    },
+    {
+        "code": "070410",
+        "description": "Vegetables, Brassica; Cauliflowers and Broccoli, Fresh or Chilled"
+    },
+    {
+        "code": "070420",
+        "description": "Vegetables, Brassica; Brussel Sprouts, Fresh or Chilled"
+    },
+    {
+        "code": "070700",
+        "description": "Vegetables; Cucumbers and Gherkins, Fresh or Chilled"
+    },
+    {
+        "code": "070920",
+        "description": "Vegetables; Asparagus, Fresh or Chilled"
+    },
+    {
+        "code": "070930",
+        "description": "Vegetables; Aubergines, (E.G. Plants), Fresh or Chilled"
+    },
+    {
+        "code": "070940",
+        "description": "Vegetables; Celery (Other Than Celeriac), Fresh or Chilled"
+    },
+    {
+        "code": "070951",
+        "description": "Vegetables; Mushrooms of The Genus Agaricus, Fresh or Chilled"
+    },
+    {
+        "code": "070952",
+        "description": "Vegetables; Mushrooms of The Genus Boletus, Fresh or Chilled"
+    },
+    {
+        "code": "070953",
+        "description": "Vegetables; Mushrooms of The Genus Cantharellus, Fresh or Chilled"
+    },
+    {
+        "code": "070956",
+        "description": "Vegetables; Truffles (Tuber Spp.), Fresh or Chilled"
+    },
+    {
+        "code": "070991",
+        "description": "Vegetables; Globe Artichokes, Fresh or Chilled"
+    },
+    {
+        "code": "070992",
+        "description": "Vegetables; Olives, Fresh or Chilled"
+    },
+    {
+        "code": "080111",
+        "description": "Nuts, Edible; Coconuts, Desiccated"
+    },
+    {
+        "code": "080212",
+        "description": "Nuts, Edible; Almonds, Fresh or Dried, Shelled"
+    },
+    {
+        "code": "080232",
+        "description": "Nuts, Edible; Walnuts, Fresh or Dried, Shelled"
+    },
+    {
+        "code": "080252",
+        "description": "Nuts, Edible; Pistachios, Fresh or Dried, Shelled"
+    },
+    {
+        "code": "080262",
+        "description": "Nuts, Edible; Macadamia, Fresh or Dried, Shelled"
+    },
+    {
+        "code": "080310",
+        "description": "Fruit, Edible; Plantains, Fresh or Dried"
+    },
+    {
+        "code": "080390",
+        "description": "Fruit, Edible; Bananas, Other Than Plantains, Fresh or Dried"
+    },
+    {
+        "code": "080410",
+        "description": "Fruit, Edible; Dates, Fresh or Dried"
+    },
+    {
+        "code": "080420",
+        "description": "Fruit, Edible; Figs, Fresh or Dried"
+    },
+    {
+        "code": "080430",
+        "description": "Fruit, Edible; Pineapples, Fresh or Dried"
+    },
+    {
+        "code": "080440",
+        "description": "Fruit, Edible; Avocados, Fresh or Dried"
+    },
+    {
+        "code": "080510",
+        "description": "Fruit, Edible; Oranges, Fresh or Dried"
+    },
+    {
+        "code": "080522",
+        "description": "Fruit, Edible; Clementines, Fresh or Dried"
+    },
+    {
+        "code": "080540",
+        "description": "Fruit, Edible; Grapefruit and Pomelos, Fresh or Dried"
+    },
+    {
+        "code": "080610",
+        "description": "Fruit, Edible; Grapes, Fresh"
+    },
+    {
+        "code": "080620",
+        "description": "Fruit, Edible; Grapes, Dried"
+    },
+    {
+        "code": "080711",
+        "description": "Fruit, Edible; Watermelons, Fresh"
+    },
+    {
+        "code": "080719",
+        "description": "Fruit, Edible; Melons, Other Than Watermelons, Fresh"
+    },
+    {
+        "code": "080720",
+        "description": "Fruit, Edible; Papaws (Papayas), Fresh"
+    },
+    {
+        "code": "080810",
+        "description": "Fruit, Edible; Apples, Fresh"
+    },
+    {
+        "code": "080830",
+        "description": "Fruit, Edible; Pears, Fresh"
+    },
+    {
+        "code": "080840",
+        "description": "Fruit, Edible; Quinces, Fresh"
+    },
+    {
+        "code": "080910",
+        "description": "Fruit, Edible; Apricots, Fresh"
+    },
+    {
+        "code": "080930",
+        "description": "Fruit, Edible; Peaches, Including Nectarines, Fresh"
+    },
+    {
+        "code": "080940",
+        "description": "Fruit, Edible; Plums and Sloes, Fresh"
+    },
+    {
+        "code": "081010",
+        "description": "Fruit, Edible; Strawberries, Fresh"
+    },
+    {
+        "code": "081050",
+        "description": "Fruit, Edible; Kiwifruit, Fresh"
+    },
+    {
+        "code": "081060",
+        "description": "Fruit, Edible; Durians, Fresh"
+    },
+    {
+        "code": "081070",
+        "description": "Fruit, Edible; Persimmons, Fresh"
+    },
+    {
+        "code": "081310",
+        "description": "Fruit, Edible; Apricots, Dried"
+    },
+    {
+        "code": "081330",
+        "description": "Fruit, Edible; Apples, Dried"
+    },
+    {
+        "code": "090111",
+        "description": "Coffee; Not Roasted or Decaffeinated"
+    },
+    {
+        "code": "090112",
+        "description": "Coffee; Decaffeinated, Not Roasted"
+    },
+    {
+        "code": "090121",
+        "description": "Coffee; Roasted, Not Decaffeinated"
+    },
+    {
+        "code": "090122",
+        "description": "Coffee; Roasted, Decaffeinated"
+    },
+    {
+        "code": "090300",
+        "description": "Mate"
+    },
+    {
+        "code": "090411",
+        "description": "Spices; Pepper (Of The Genus Piper), Neither Crushed Nor Ground"
+    },
+    {
+        "code": "090412",
+        "description": "Spices; Pepper (Of The Genus Piper), Crushed or Ground"
+    },
+    {
+        "code": "090510",
+        "description": "Spices; Vanilla, Neither Crushed Nor Ground"
+    },
+    {
+        "code": "090520",
+        "description": "Spices; Vanilla, Crushed or Ground"
+    },
+    {
+        "code": "090811",
+        "description": "Spices; Nutmeg, Neither Crushed Nor Ground"
+    },
+    {
+        "code": "090812",
+        "description": "Spices; Nutmeg, Crushed or Ground"
+    },
+    {
+        "code": "090821",
+        "description": "Spices; Mace, Neither Crushed Nor Ground"
+    },
+    {
+        "code": "090822",
+        "description": "Spices; Mace, Crushed or Ground"
+    },
+    {
+        "code": "090831",
+        "description": "Spices; Cardamoms, Neither Crushed Nor Ground"
+    },
+    {
+        "code": "090832",
+        "description": "Spices; Cardamoms, Crushed or Ground"
+    },
+    {
+        "code": "090921",
+        "description": "Spices; Coriander Seeds, Neither Crushed Nor Ground"
+    },
+    {
+        "code": "090922",
+        "description": "Spices; Coriander Seeds, Crushed or Ground"
+    },
+    {
+        "code": "090931",
+        "description": "Spices; Cumin Seeds, Neither Crushed Nor Ground"
+    },
+    {
+        "code": "090932",
+        "description": "Spices; Cumin Seeds, Crushed or Ground"
+    },
+    {
+        "code": "091011",
+        "description": "Spices; Ginger, Neither Crushed Nor Ground"
+    },
+    {
+        "code": "091012",
+        "description": "Spices; Ginger, Crushed or Ground"
+    },
+    {
+        "code": "091020",
+        "description": "Spices; Saffron"
+    },
+    {
+        "code": "091030",
+        "description": "Spices; Turmeric (Curcuma)"
+    },
+    {
+        "code": "091091",
+        "description": "Spices; Mixtures of 2 or More Products of Different Headings"
+    },
+    {
+        "code": "091099",
+        "description": "Spices; N.E.C. In Heading No. 0910"
+    },
+    {
+        "code": "100111",
+        "description": "Cereals; Wheat and Meslin, Durum Wheat, Seed"
+    },
+    {
+        "code": "100119",
+        "description": "Cereals; Wheat and Meslin, Durum Wheat, Other Than Seed"
+    },
+    {
+        "code": "100199",
+        "description": "Cereals; Wheat and Meslin, Other Than Durum Wheat, Other Than Seed"
+    },
+    {
+        "code": "100210",
+        "description": "Cereals; Rye, Seed"
+    },
+    {
+        "code": "100290",
+        "description": "Cereals; Rye, Other Than Seed"
+    },
+    {
+        "code": "100310",
+        "description": "Cereals; Barley, Seed"
+    },
+    {
+        "code": "100390",
+        "description": "Cereals; Barley, Other Than Seed"
+    },
+    {
+        "code": "100410",
+        "description": "Cereals; Oats, Seeds"
+    },
+    {
+        "code": "100490",
+        "description": "Cereals; Oats, Other Than Seed"
+    },
+    {
+        "code": "100510",
+        "description": "Cereals; Maize (Corn), Seed"
+    },
+    {
+        "code": "100590",
+        "description": "Cereals; Maize (Corn), Other Than Seed"
+    },
+    {
+        "code": "100620",
+        "description": "Cereals; Husked (Brown) Rice"
+    },
+    {
+        "code": "100640",
+        "description": "Cereals; Rice, Broken"
+    },
+    {
+        "code": "100710",
+        "description": "Cereals; Grain Sorghum, Seed"
+    },
+    {
+        "code": "100790",
+        "description": "Cereals; Grain Sorghum, Other Than Seed"
+    },
+    {
+        "code": "100810",
+        "description": "Cereals; Buckwheat"
+    },
+    {
+        "code": "100821",
+        "description": "Cereals; Millet, Seed"
+    },
+    {
+        "code": "100829",
+        "description": "Cereals; Millet, Other Than Seed"
+    },
+    {
+        "code": "100830",
+        "description": "Cereals; Canary Seeds"
+    },
+    {
+        "code": "100850",
+        "description": "Cereals; Quinoa (Chenopodium Quinoa)"
+    },
+    {
+        "code": "100860",
+        "description": "Cereals; Triticale"
+    },
+    {
+        "code": "100890",
+        "description": "Cereals; N.E.C. In Chapter 10"
+    },
+    {
+        "code": "110100",
+        "description": "Wheat or Meslin Flour"
+    },
+    {
+        "code": "110220",
+        "description": "Cereal Flour; of Maize (Corn)"
+    },
+    {
+        "code": "110290",
+        "description": "Cereal Flours; Other Than Wheat, Meslin, and Maize (Corn)"
+    },
+    {
+        "code": "110311",
+        "description": "Cereal Groats and Meal; of Wheat"
+    },
+    {
+        "code": "110313",
+        "description": "Cereal Groats and Meal; of Maize (Corn)"
+    },
+    {
+        "code": "110320",
+        "description": "Cereal Pellets"
+    },
+    {
+        "code": "110412",
+        "description": "Cereal Grains; Rolled or Flaked, of Oats"
+    },
+    {
+        "code": "110419",
+        "description": "Cereal Grains; Rolled or Flaked, Other Than Oats"
+    },
+    {
+        "code": "110430",
+        "description": "Cereal; Germ of Cereals, Whole, Rolled, Flaked or Ground"
+    },
+    {
+        "code": "110510",
+        "description": "Flour, Meal and Powder; of Potatoes"
+    },
+    {
+        "code": "110520",
+        "description": "Flakes, Granules and Pellets; of Potatoes"
+    },
+    {
+        "code": "110630",
+        "description": "Flour, Meal and Powder; of The Products of Chapter 8"
+    },
+    {
+        "code": "110710",
+        "description": "Malt; Not Roasted"
+    },
+    {
+        "code": "110720",
+        "description": "Malt; Roasted"
+    },
+    {
+        "code": "110811",
+        "description": "Starch; Wheat"
+    },
+    {
+        "code": "110812",
+        "description": "Starch; Maize (Corn) Starch"
+    },
+    {
+        "code": "110813",
+        "description": "Starch; Potato"
+    },
+    {
+        "code": "110814",
+        "description": "Starch; Manioc (Cassava)"
+    },
+    {
+        "code": "110820",
+        "description": "Inulin"
+    },
+    {
+        "code": "110900",
+        "description": "Wheat Gluten; Whether or Not Dried"
+    },
+    {
+        "code": "120110",
+        "description": "Soya Beans; Seed, Whether or Not Broken"
+    },
+    {
+        "code": "120190",
+        "description": "Soya Beans; Other Than Seed, Whether or Not Broken"
+    },
+    {
+        "code": "120300",
+        "description": "Copra"
+    },
+    {
+        "code": "120400",
+        "description": "Oil Seeds; Linseed, Whether or Not Broken"
+    },
+    {
+        "code": "120750",
+        "description": "Oil Seeds; Mustard Seeds, Whether or Not Broken"
+    },
+    {
+        "code": "120770",
+        "description": "Oil Seeds; Melon Seeds, Whether or Not Broken"
+    },
+    {
+        "code": "120791",
+        "description": "Oil Seeds; Poppy Seeds, Whether or Not Broken"
+    },
+    {
+        "code": "120810",
+        "description": "Flours and Meals; of Soya Beans"
+    },
+    {
+        "code": "120991",
+        "description": "Seeds; Vegetable Seeds, of A Kind Used For Sowing"
+    },
+    {
+        "code": "121410",
+        "description": "Lucerne (Alfalfa) Meal and Pellets"
+    },
+    {
+        "code": "130120",
+        "description": "Gum Arabic"
+    },
+    {
+        "code": "130212",
+        "description": "Vegetable Saps and Extracts; of Liquorice"
+    },
+    {
+        "code": "130213",
+        "description": "Vegetable Saps and Extracts; of Hops"
+    },
+    {
+        "code": "130220",
+        "description": "Pectic Substances; Pectinates and Pectates"
+    },
+    {
+        "code": "140110",
+        "description": "Bamboo Used Primarily For Plaiting"
+    },
+    {
+        "code": "140120",
+        "description": "Rattans Used Primarily For Plaiting"
+    },
+    {
+        "code": "140420",
+        "description": "Vegetable Products; Cotton Linters"
+    },
+    {
+        "code": "150110",
+        "description": "Pig Fat; Lard, Other Than That of Heading 0209 and 1503"
+    },
+    {
+        "code": "150190",
+        "description": "Poultry Fat; Other Than That of Heading 0209 or 1503"
+    },
+    {
+        "code": "150210",
+        "description": "Tallow; Other Than Those of Heading 1503"
+    },
+    {
+        "code": "150430",
+        "description": "Fats and Oils and Their Fractions; of Marine Mammals"
+    },
+    {
+        "code": "151710",
+        "description": "Margarine; Excluding Liquid Margarine"
+    },
+    {
+        "code": "152000",
+        "description": "Glycerol, Crude; Glycerol Waters and Glycerol Lyes"
+    },
+    {
+        "code": "152110",
+        "description": "Vegetable Waxes (Other Than Triglycerides); Whether or Not Refined or Coloured"
+    },
+    {
+        "code": "160431",
+        "description": "Fish Preparations; Caviar"
+    },
+    {
+        "code": "160510",
+        "description": "Crustacean Preparations; Crab, Prepared or Preserved"
+    },
+    {
+        "code": "160530",
+        "description": "Crustacean Preparations; Lobster, Prepared or Preserved"
+    },
+    {
+        "code": "160551",
+        "description": "Mollusc Preparations; Oysters, Prepared or Preserved"
+    },
+    {
+        "code": "160553",
+        "description": "Mollusc Preparations; Mussels, Prepared or Preserved"
+    },
+    {
+        "code": "160555",
+        "description": "Mollusc Preparations; Octopus, Prepared or Preserved"
+    },
+    {
+        "code": "160557",
+        "description": "Mollusc Preparations; Abalone, Prepared or Preserved"
+    },
+    {
+        "code": "160563",
+        "description": "Aquatic Invertebrates; Jellyfish, Prepared or Preserved"
+    },
+    {
+        "code": "180100",
+        "description": "Cocoa Beans; Whole or Broken, Raw or Roasted"
+    },
+    {
+        "code": "180310",
+        "description": "Cocoa; Paste, Not Defatted"
+    },
+    {
+        "code": "180320",
+        "description": "Cocoa; Paste, Wholly or Partly Defatted"
+    },
+    {
+        "code": "180400",
+        "description": "Cocoa; Butter, Fat and Oil"
+    },
+    {
+        "code": "180610",
+        "description": "Cocoa; Powder, Containing Added Sugar or Other Sweetening Matter"
+    },
+    {
+        "code": "190240",
+        "description": "Food Preparations; Couscous"
+    },
+    {
+        "code": "190510",
+        "description": "Food Preparations; Crispbread, Whether or Not Containing Cocoa"
+    },
+    {
+        "code": "190520",
+        "description": "Food Preparations; Gingerbread and The Like, Whether or Not Containing Cocoa"
+    },
+    {
+        "code": "190531",
+        "description": "Food Preparations; Sweet Biscuits, Whether or Not Containing Cocoa"
+    },
+    {
+        "code": "190532",
+        "description": "Food Preparations; Waffles and Wafers, Whether or Not Containing Cocoa"
+    },
+    {
+        "code": "210210",
+        "description": "Yeasts; Active"
+    },
+    {
+        "code": "210230",
+        "description": "Baking Powders; Prepared"
+    },
+    {
+        "code": "210310",
+        "description": "Sauces; Soya"
+    },
+    {
+        "code": "210320",
+        "description": "Sauces; Tomato Ketchup and Other Tomato Sauces"
+    },
+    {
+        "code": "210330",
+        "description": "Mustard Flour and Meal and Prepared Mustard"
+    },
+    {
+        "code": "210410",
+        "description": "Soups and Broths and Preparations Therefor"
+    },
+    {
+        "code": "210420",
+        "description": "Homogenised Composite Food Preparations"
+    },
+    {
+        "code": "210500",
+        "description": "Ice Cream and Other Edible Ice; Whether or Not Containing Cocoa"
+    },
+    {
+        "code": "210610",
+        "description": "Protein; Concentrates and Textured Protein Substances"
+    },
+    {
+        "code": "220291",
+        "description": "Non-Alcoholic Beverages; Non-Alcoholic Beer"
+    },
+    {
+        "code": "220300",
+        "description": "Beer; Made From Malt"
+    },
+    {
+        "code": "220410",
+        "description": "Wine; Sparkling"
+    },
+    {
+        "code": "220429",
+        "description": "Wine; Still, In Containers Holding More Than 10 Litres"
+    },
+    {
+        "code": "220720",
+        "description": "Ethyl Alcohol and Other Spirits; Denatured, of Any Strength"
+    },
+    {
+        "code": "220820",
+        "description": "Spirits Obtained By Distilling Grape Wine or Grape Marc"
+    },
+    {
+        "code": "220830",
+        "description": "Whiskies"
+    },
+    {
+        "code": "220850",
+        "description": "Gin and Geneva"
+    },
+    {
+        "code": "220860",
+        "description": "Vodka"
+    },
+    {
+        "code": "220870",
+        "description": "Liqueurs and Cordials"
+    },
+    {
+        "code": "220900",
+        "description": "Vinegar and Substitutes For Vinegar; Obtained From Acetic Acid"
+    },
+    {
+        "code": "230700",
+        "description": "Wine Lees; Argol"
+    },
+    {
+        "code": "240110",
+        "description": "Tobacco, (Not Stemmed or Stripped)"
+    },
+    {
+        "code": "240120",
+        "description": "Tobacco; Partly or Wholly Stemmed or Stripped"
+    },
+    {
+        "code": "240130",
+        "description": "Tobacco Refuse"
+    },
+    {
+        "code": "240220",
+        "description": "Cigarettes; Containing Tobacco"
+    },
+    {
+        "code": "240391",
+        "description": "Tobacco; Homogenised or Reconstituted"
+    },
+    {
+        "code": "240399",
+        "description": "Tobacco; Other Than Homogenised or Reconstituted or Smoking"
+    },
+    {
+        "code": "250200",
+        "description": "Iron Pyrites; Unroasted"
+    },
+    {
+        "code": "250410",
+        "description": "Graphite; Natural, In Powder or In Flakes"
+    },
+    {
+        "code": "250610",
+        "description": "Quartz; Other Than Natural Sands"
+    },
+    {
+        "code": "250700",
+        "description": "Kaolin and Other Kaolinic Clays; Whether or Not Calcined"
+    },
+    {
+        "code": "250900",
+        "description": "Chalk"
+    },
+    {
+        "code": "251110",
+        "description": "Barium Sulphate (Barytes); Natural"
+    },
+    {
+        "code": "251310",
+        "description": "Pumice Stone, Whether or Not Heat Treated"
+    },
+    {
+        "code": "251611",
+        "description": "Granite; Crude or Roughly Trimmed"
+    },
+    {
+        "code": "251730",
+        "description": "Tarred Macadam"
+    },
+    {
+        "code": "251830",
+        "description": "Dolomite Ramming Mix"
+    },
+    {
+        "code": "251910",
+        "description": "Magnesium Carbonate (Magnesite); Natural"
+    },
+    {
+        "code": "252010",
+        "description": "Gypsum; Anhydrite"
+    },
+    {
+        "code": "252310",
+        "description": "Cement Clinkers (Whether or Not Coloured)"
+    },
+    {
+        "code": "252321",
+        "description": "Cement; Portland, White, Whether or Not Artificially Coloured"
+    },
+    {
+        "code": "252410",
+        "description": "Asbestos; Crocidolite (Blue Asbestos)"
+    },
+    {
+        "code": "252490",
+        "description": "Asbestos; Other Than Crocidolite (Blue Asbestos)"
+    },
+    {
+        "code": "252510",
+        "description": "Mica; Crude and Rifted Into Sheets or Splittings"
+    },
+    {
+        "code": "252520",
+        "description": "Mica; Powder"
+    },
+    {
+        "code": "252530",
+        "description": "Mica; Waste"
+    },
+    {
+        "code": "252910",
+        "description": "Feldspar"
+    },
+    {
+        "code": "252921",
+        "description": "Fluorspar; Containing By Weight 97% or Less of Calcium Fluoride"
+    },
+    {
+        "code": "252922",
+        "description": "Fluorspar; Containing By Weight More Than 97% of Calcium Fluoride"
+    },
+    {
+        "code": "252930",
+        "description": "Leucite; Nepheline and Nepheline Syenite"
+    },
+    {
+        "code": "253010",
+        "description": "Vermiculite, Perlite and Chlorites; Unexpanded"
+    },
+    {
+        "code": "253020",
+        "description": "Kieserite, Epsomite (Natural Magnesium Sulphates)"
+    },
+    {
+        "code": "253090",
+        "description": "Mineral Substances; N.E.C. In Chapter 25"
+    },
+    {
+        "code": "260111",
+        "description": "Iron Ores and Concentrates; Non-Agglomerated"
+    },
+    {
+        "code": "260120",
+        "description": "Iron Pyrites; Roasted"
+    },
+    {
+        "code": "260300",
+        "description": "Copper Ores and Concentrates"
+    },
+    {
+        "code": "260400",
+        "description": "Nickel Ores and Concentrates"
+    },
+    {
+        "code": "260500",
+        "description": "Cobalt Ores and Concentrates"
+    },
+    {
+        "code": "260600",
+        "description": "Aluminium Ores and Concentrates"
+    },
+    {
+        "code": "260700",
+        "description": "Lead Ores and Concentrates"
+    },
+    {
+        "code": "260800",
+        "description": "Zinc Ores and Concentrates"
+    },
+    {
+        "code": "260900",
+        "description": "Tin Ores and Concentrates"
+    },
+    {
+        "code": "261000",
+        "description": "Chromium Ores and Concentrates"
+    },
+    {
+        "code": "261100",
+        "description": "Tungsten Ores and Concentrates"
+    },
+    {
+        "code": "261210",
+        "description": "Uranium Ores and Concentrates"
+    },
+    {
+        "code": "261220",
+        "description": "Thorium Ores and Concentrates"
+    },
+    {
+        "code": "261310",
+        "description": "Molybdenum Ores and Concentrates; Roasted"
+    },
+    {
+        "code": "261390",
+        "description": "Molybdenum Ores and Concentrates; Other Than Roasted"
+    },
+    {
+        "code": "261400",
+        "description": "Titanium Ores and Concentrates"
+    },
+    {
+        "code": "261510",
+        "description": "Zirconium Ores and Concentrates"
+    },
+    {
+        "code": "261590",
+        "description": "Niobium, Tantalum, Vanadium Ores and Concentrates"
+    },
+    {
+        "code": "261610",
+        "description": "Silver Ores and Concentrates"
+    },
+    {
+        "code": "261690",
+        "description": "Precious Metal Ores and Concentrates; (Excluding Silver)"
+    },
+    {
+        "code": "261710",
+        "description": "Antimony Ores and Concentrates"
+    },
+    {
+        "code": "270111",
+        "description": "Coal; Anthracite, Whether or Not Pulverised, But Not Agglomerated"
+    },
+    {
+        "code": "270112",
+        "description": "Coal; Bituminous, Whether or Not Pulverised, But Not Agglomerated"
+    },
+    {
+        "code": "270120",
+        "description": "Briquettes, Ovoids and Similar Solid Fuels; Manufactured From Coal"
+    },
+    {
+        "code": "270220",
+        "description": "Lignite; Agglomerated, Excluding Jet"
+    },
+    {
+        "code": "270810",
+        "description": "Pitch; Obtained From Coal Tar or From Other Mineral Tars"
+    },
+    {
+        "code": "270820",
+        "description": "Pitch Coke; Obtained From Coal Tar or From Other Mineral Tars"
+    },
+    {
+        "code": "271112",
+        "description": "Petroleum Gases and Other Gaseous Hydrocarbons; Liquefied, Propane"
+    },
+    {
+        "code": "271113",
+        "description": "Petroleum Gases and Other Gaseous Hydrocarbons; Liquefied, Butanes"
+    },
+    {
+        "code": "271210",
+        "description": "Petroleum Jelly"
+    },
+    {
+        "code": "271311",
+        "description": "Petroleum Coke; (Not Calcined), Obtained From Bituminous Minerals"
+    },
+    {
+        "code": "271312",
+        "description": "Petroleum Coke; Calcined, Obtained From Bituminous Minerals"
+    },
+    {
+        "code": "271320",
+        "description": "Petroleum Bitumen; Obtained From Bituminous Minerals"
+    },
+    {
+        "code": "271390",
+        "description": "Residues; of Petroleum Oils or of Oils Obtained From Bituminous Minerals"
+    },
+    {
+        "code": "271410",
+        "description": "Bituminous or Oil Shale and Tar Sands"
+    },
+    {
+        "code": "271490",
+        "description": "Bitumen and Asphalt, Natural; Asphaltites and Asphaltic Rock"
+    },
+    {
+        "code": "271600",
+        "description": "Electrical Energy"
+    },
+    {
+        "code": "280110",
+        "description": "Chlorine"
+    },
+    {
+        "code": "280120",
+        "description": "Iodine"
+    },
+    {
+        "code": "280130",
+        "description": "Fluorine; Bromine"
+    },
+    {
+        "code": "280200",
+        "description": "Sulphur; Sublimed or Precipitated, Colloidal Sulphur"
+    },
+    {
+        "code": "280300",
+        "description": "Carbon; Carbon Blacks and Other Forms of Carbon N.E.C."
+    },
+    {
+        "code": "280410",
+        "description": "Hydrogen"
+    },
+    {
+        "code": "280421",
+        "description": "Gases, Rare; Argon"
+    },
+    {
+        "code": "280429",
+        "description": "Gases, Rare; Other Than Argon"
+    },
+    {
+        "code": "280430",
+        "description": "Nitrogen"
+    },
+    {
+        "code": "280440",
+        "description": "Oxygen"
+    },
+    {
+        "code": "280450",
+        "description": "Boron; Tellurium"
+    },
+    {
+        "code": "280461",
+        "description": "Silicon; Containing By Weight Not Less Than 99.99% of Silicon"
+    },
+    {
+        "code": "280469",
+        "description": "Silicon; Containing By Weight Less Than 99.99% of Silicon"
+    },
+    {
+        "code": "280470",
+        "description": "Phosphorus"
+    },
+    {
+        "code": "280480",
+        "description": "Arsenic"
+    },
+    {
+        "code": "280490",
+        "description": "Selenium"
+    },
+    {
+        "code": "280511",
+        "description": "Alkali or Alkali-Earth Metals; Sodium"
+    },
+    {
+        "code": "280512",
+        "description": "Alkali or Alkali-Earth Metals; Calcium"
+    },
+    {
+        "code": "280519",
+        "description": "Alkali or Alkali-Earth Metals; Other Than Sodium and Calcium"
+    },
+    {
+        "code": "280540",
+        "description": "Mercury"
+    },
+    {
+        "code": "280610",
+        "description": "Hydrogen Chloride (Hydrochloric Acid)"
+    },
+    {
+        "code": "280620",
+        "description": "Chlorosulphuric Acid"
+    },
+    {
+        "code": "280700",
+        "description": "Sulphuric Acid; Oleum"
+    },
+    {
+        "code": "280800",
+        "description": "Nitric Acid; Sulphonitric Acids"
+    },
+    {
+        "code": "280910",
+        "description": "Diphosphorus Pentoxide"
+    },
+    {
+        "code": "280920",
+        "description": "Phosphoric Acid and Polyphosphoric Acids"
+    },
+    {
+        "code": "281000",
+        "description": "Oxides of Boron; Boric Acids"
+    },
+    {
+        "code": "281111",
+        "description": "Hydrogen Fluoride (Hydrofluoric Acid)"
+    },
+    {
+        "code": "281112",
+        "description": "Hydrogen Cyanide (Hydrocyanic Acid)"
+    },
+    {
+        "code": "281119",
+        "description": "Inorganic Acids; Other Than Hydrogen Fluoride"
+    },
+    {
+        "code": "281121",
+        "description": "Carbon Dioxide"
+    },
+    {
+        "code": "281122",
+        "description": "Silicon Dioxide"
+    },
+    {
+        "code": "281211",
+        "description": "Carbonyl Dichloride (Phosgene)"
+    },
+    {
+        "code": "281212",
+        "description": "Phosphorus Oxychloride"
+    },
+    {
+        "code": "281213",
+        "description": "Phosphorus Trichloride"
+    },
+    {
+        "code": "281214",
+        "description": "Phosphorus Pentachloride"
+    },
+    {
+        "code": "281215",
+        "description": "Sulphur Monochloride"
+    },
+    {
+        "code": "281216",
+        "description": "Sulphur Dichloride"
+    },
+    {
+        "code": "281310",
+        "description": "Carbon Disulphide"
+    },
+    {
+        "code": "281410",
+        "description": "Ammonia; Anhydrous"
+    },
+    {
+        "code": "281420",
+        "description": "Ammonia; In Aqueous Solution"
+    },
+    {
+        "code": "281511",
+        "description": "Sodium Hydroxide (Caustic Soda); Solid"
+    },
+    {
+        "code": "281520",
+        "description": "Potassium Hydroxide (Caustic Potash)"
+    },
+    {
+        "code": "281530",
+        "description": "Peroxides of Sodium or Potassium"
+    },
+    {
+        "code": "281610",
+        "description": "Hydroxide and Peroxide of Magnesium"
+    },
+    {
+        "code": "281640",
+        "description": "Oxides, Hydroxides and Peroxides, of Strontium or Barium"
+    },
+    {
+        "code": "281700",
+        "description": "Zinc; Oxide and Peroxide"
+    },
+    {
+        "code": "281810",
+        "description": "Aluminium Oxide; Artificial Corundum"
+    },
+    {
+        "code": "281820",
+        "description": "Aluminium Oxide; Other Than Artificial Corundum"
+    },
+    {
+        "code": "281830",
+        "description": "Aluminium Hydroxide"
+    },
+    {
+        "code": "281910",
+        "description": "Chromium Trioxide"
+    },
+    {
+        "code": "282010",
+        "description": "Manganese Dioxide"
+    },
+    {
+        "code": "282090",
+        "description": "Manganese Oxides; Excluding Manganese Dioxide"
+    },
+    {
+        "code": "282110",
+        "description": "Iron Oxides and Hydroxides"
+    },
+    {
+        "code": "282200",
+        "description": "Cobalt Oxides and Hydroxides; Commercial Cobalt Oxides"
+    },
+    {
+        "code": "282300",
+        "description": "Titanium Oxides"
+    },
+    {
+        "code": "282410",
+        "description": "Lead; Lead Monoxide (Litharge, Massicot)"
+    },
+    {
+        "code": "282510",
+        "description": "Hydrazine and Hydroxylamine and Their Inorganic Salts"
+    },
+    {
+        "code": "282520",
+        "description": "Lithium Oxide and Hydroxide"
+    },
+    {
+        "code": "282530",
+        "description": "Vanadium Oxides and Hydroxides"
+    },
+    {
+        "code": "282540",
+        "description": "Nickel Oxides and Hydroxides"
+    },
+    {
+        "code": "282550",
+        "description": "Copper Oxides and Hydroxides"
+    },
+    {
+        "code": "282560",
+        "description": "Germanium Oxides and Zirconium Dioxide"
+    },
+    {
+        "code": "282570",
+        "description": "Molybdenum Oxides and Hydroxides"
+    },
+    {
+        "code": "282580",
+        "description": "Antimony Oxides"
+    },
+    {
+        "code": "282612",
+        "description": "Fluorides; of Aluminium"
+    },
+    {
+        "code": "282619",
+        "description": "Fluorides; Other Than of Aluminium"
+    },
+    {
+        "code": "282630",
+        "description": "Sodium Hexafluoroaluminate (Synthetic Cryolite)"
+    },
+    {
+        "code": "282710",
+        "description": "Chlorides; of Ammonium"
+    },
+    {
+        "code": "282720",
+        "description": "Chlorides; of Calcium"
+    },
+    {
+        "code": "282731",
+        "description": "Chlorides; of Magnesium"
+    },
+    {
+        "code": "282732",
+        "description": "Chlorides; of Aluminium"
+    },
+    {
+        "code": "282735",
+        "description": "Chlorides; of Nickel"
+    },
+    {
+        "code": "282739",
+        "description": "Chlorides; Other Than of Ammonium, Calcium, Magnesium, Aluminium and Nickel"
+    },
+    {
+        "code": "282741",
+        "description": "Chloride Oxides and Chloride Hydroxides; of Copper"
+    },
+    {
+        "code": "282749",
+        "description": "Chloride Oxides and Chloride Hydroxides; Other Than of Copper"
+    },
+    {
+        "code": "282751",
+        "description": "Bromides; of Sodium or of Potassium"
+    },
+    {
+        "code": "282759",
+        "description": "Bromides and Bromide Oxides; Other Than Item No. 2827.51"
+    },
+    {
+        "code": "282760",
+        "description": "Iodides and Iodide Oxides"
+    },
+    {
+        "code": "282810",
+        "description": "Hypochlorites; Commercial Calcium Hypochlorite and Other Calcium Hypochlorites"
+    },
+    {
+        "code": "282911",
+        "description": "Chlorates; of Sodium"
+    },
+    {
+        "code": "282919",
+        "description": "Chlorates; Other Than Sodium"
+    },
+    {
+        "code": "282990",
+        "description": "Perchlorates; Bromates and Perbromates; Iodates and Periodates"
+    },
+    {
+        "code": "283010",
+        "description": "Sulphides; of Sodium, Whether or Not Chemically Defined"
+    },
+    {
+        "code": "283110",
+        "description": "Dithionites and Sulphoxylates; of Sodium"
+    },
+    {
+        "code": "283190",
+        "description": "Dithionites and Sulphoxylates; Other Than Sodium"
+    },
+    {
+        "code": "283210",
+        "description": "Sulphites; of Sodium"
+    },
+    {
+        "code": "283220",
+        "description": "Sulphites; Other Than of Sodium"
+    },
+    {
+        "code": "283230",
+        "description": "Thiosulphates"
+    },
+    {
+        "code": "283311",
+        "description": "Sodium Sulphates; Disodium Sulphate"
+    },
+    {
+        "code": "283319",
+        "description": "Sodium Sulphates; Other Than Disodium Sulphate"
+    },
+    {
+        "code": "283321",
+        "description": "Sulphates; of Magnesium"
+    },
+    {
+        "code": "283322",
+        "description": "Sulphates; of Aluminium"
+    },
+    {
+        "code": "283324",
+        "description": "Sulphates; of Nickel"
+    },
+    {
+        "code": "283325",
+        "description": "Sulphates; of Copper"
+    },
+    {
+        "code": "283327",
+        "description": "Sulphates; of Barium"
+    },
+    {
+        "code": "283329",
+        "description": "Sulphates; N.E.C. In Item No. 2833.2"
+    },
+    {
+        "code": "283330",
+        "description": "Alums"
+    },
+    {
+        "code": "283340",
+        "description": "Peroxosulphates (Persulphates)"
+    },
+    {
+        "code": "283410",
+        "description": "Nitrites"
+    },
+    {
+        "code": "283421",
+        "description": "Nitrates; of Potassium"
+    },
+    {
+        "code": "283429",
+        "description": "Nitrates; of Other Than Potassium"
+    },
+    {
+        "code": "283522",
+        "description": "Phosphates; of Mono- or Disodium, Whether or Not Chemically Defined"
+    },
+    {
+        "code": "283524",
+        "description": "Phosphates; of Potassium, Whether or Not Chemically Defined"
+    },
+    {
+        "code": "283620",
+        "description": "Carbonates; Disodium Carbonate"
+    },
+    {
+        "code": "283630",
+        "description": "Carbonates; Sodium Hydrogen Carbonate (Sodium Bicarbonate)"
+    },
+    {
+        "code": "283640",
+        "description": "Carbonates; Potassium Carbonate"
+    },
+    {
+        "code": "283650",
+        "description": "Carbonates; Calcium Carbonate"
+    },
+    {
+        "code": "283660",
+        "description": "Carbonates; Barium Carbonate"
+    },
+    {
+        "code": "283691",
+        "description": "Carbonates; Lithium Carbonate"
+    },
+    {
+        "code": "283692",
+        "description": "Carbonates; Strontium Carbonate"
+    },
+    {
+        "code": "283711",
+        "description": "Cyanides and Cyanide Oxides; of Sodium"
+    },
+    {
+        "code": "283719",
+        "description": "Cyanides and Cyanide Oxides; Other Than of Sodium"
+    },
+    {
+        "code": "283720",
+        "description": "Complex Cyanides"
+    },
+    {
+        "code": "283911",
+        "description": "Silicates; Sodium Metasilicates"
+    },
+    {
+        "code": "283919",
+        "description": "Silicates; of Sodium (Excluding Sodium Metasilicates)"
+    },
+    {
+        "code": "283990",
+        "description": "Silicates; Commercial Alkali Metal Silicates, Other Than of Sodium"
+    },
+    {
+        "code": "284011",
+        "description": "Borates; Disodium Tetraborate (Refined Borax), Anhydrous"
+    },
+    {
+        "code": "284019",
+        "description": "Borates; Disodium Tetraborate (Refined Borax), Other Than Anhydrous"
+    },
+    {
+        "code": "284020",
+        "description": "Borates; N.E.C. In Heading No. 2840"
+    },
+    {
+        "code": "284030",
+        "description": "Peroxoborates (Perborates)"
+    },
+    {
+        "code": "284130",
+        "description": "Salts; Sodium Dichromate"
+    },
+    {
+        "code": "284170",
+        "description": "Salts; Molybdates"
+    },
+    {
+        "code": "284180",
+        "description": "Salts; Tungstates (Wolframates)"
+    },
+    {
+        "code": "284310",
+        "description": "Colloidal Precious Metals; Whether or Not Chemically Defined"
+    },
+    {
+        "code": "284321",
+        "description": "Silver Compounds; Silver Nitrates"
+    },
+    {
+        "code": "284329",
+        "description": "Silver Compounds; Excluding Silver Nitrates"
+    },
+    {
+        "code": "284330",
+        "description": "Gold Compounds"
+    },
+    {
+        "code": "284510",
+        "description": "Heavy Water (Deuterium Oxide)"
+    },
+    {
+        "code": "284520",
+        "description": "Boron Enriched In Boron-10 and Its Compounds"
+    },
+    {
+        "code": "284540",
+        "description": "Helium-3"
+    },
+    {
+        "code": "284610",
+        "description": "Cerium Compounds"
+    },
+    {
+        "code": "284700",
+        "description": "Hydrogen Peroxide; Whether or Not Solidified With Urea"
+    },
+    {
+        "code": "284910",
+        "description": "Carbides; of Calcium, Whether or Not Chemically Defined"
+    },
+    {
+        "code": "284920",
+        "description": "Carbides; of Silicon, Whether or Not Chemically Defined"
+    },
+    {
+        "code": "284990",
+        "description": "Carbides; Whether or Not Chemically Defined, Other Than of Calcium or Silicon"
+    },
+    {
+        "code": "285310",
+        "description": "Inorganic Compounds; Cyanogen Chloride (Chlorcyan)"
+    },
+    {
+        "code": "290110",
+        "description": "Acyclic Hydrocarbons; Saturated"
+    },
+    {
+        "code": "290121",
+        "description": "Acyclic Hydrocarbons; Unsaturated, Ethylene"
+    },
+    {
+        "code": "290122",
+        "description": "Acyclic Hydrocarbons; Unsaturated, Propene (Propylene)"
+    },
+    {
+        "code": "290211",
+        "description": "Cyclic Hydrocarbons; Cyclohexane"
+    },
+    {
+        "code": "290220",
+        "description": "Cyclic Hydrocarbons; Benzene"
+    },
+    {
+        "code": "290230",
+        "description": "Cyclic Hydrocarbons; Toluene"
+    },
+    {
+        "code": "290241",
+        "description": "Cyclic Hydrocarbons; O-Xylene"
+    },
+    {
+        "code": "290242",
+        "description": "Cyclic Hydrocarbons; M-Xylene"
+    },
+    {
+        "code": "290243",
+        "description": "Cyclic Hydrocarbons; P-Xylene"
+    },
+    {
+        "code": "290244",
+        "description": "Cyclic Hydrocarbons; Mixed Xylene Isomers"
+    },
+    {
+        "code": "290250",
+        "description": "Cyclic Hydrocarbons; Styrene"
+    },
+    {
+        "code": "290260",
+        "description": "Cyclic Hydrocarbons; Ethylbenzene"
+    },
+    {
+        "code": "290270",
+        "description": "Cyclic Hydrocarbons; Cumene"
+    },
+    {
+        "code": "290322",
+        "description": "Unsaturated Chlorinated Derivatives of Acyclic Hydrocarbons; Trichloroethylene"
+    },
+    {
+        "code": "290393",
+        "description": "Halogenated Derivatives of Aromatic Hydrocarbons; Pentachlorobenzene (Iso)"
+    },
+    {
+        "code": "290394",
+        "description": "Halogenated Derivatives of Aromatic Hydrocarbons; Hexabromobiphenyls"
+    },
+    {
+        "code": "290491",
+        "description": "Derivatives of Hydrocarbons; Trichloronitromethane (Chloropicrin), Whether or Not Halogenated"
+    },
+    {
+        "code": "290511",
+        "description": "Alcohols; Saturated Monohydric, Methanol (Methyl Alcohol)"
+    },
+    {
+        "code": "290522",
+        "description": "Alcohols; Unsaturated Monohydric, Acyclic Terpene Alcohols"
+    },
+    {
+        "code": "290542",
+        "description": "Alcohols; Polyhydric, Pentaerythritol"
+    },
+    {
+        "code": "290543",
+        "description": "Alcohols; Polyhydric, Mannitol"
+    },
+    {
+        "code": "290544",
+        "description": "Alcohols; Polyhydric, D-Glucitol (Sorbitol)"
+    },
+    {
+        "code": "290545",
+        "description": "Alcohols; Polyhydric, Glycerol"
+    },
+    {
+        "code": "290611",
+        "description": "Alcohols; Cyclanic, Cyclenic or Cycloterpenic and Derivatives, Menthol"
+    },
+    {
+        "code": "290621",
+        "description": "Alcohols; Aromatic Alcohols and Derivatives, Benzyl Alcohol"
+    },
+    {
+        "code": "290629",
+        "description": "Alcohols; Aromatic and Derivatives, Other Than Benzyl Alcohol"
+    },
+    {
+        "code": "290711",
+        "description": "Monophenols; Phenol (Hydroxybenzene) and Its Salts"
+    },
+    {
+        "code": "290712",
+        "description": "Monophenols; Cresols and Their Salts"
+    },
+    {
+        "code": "290713",
+        "description": "Monophenols; Octylphenol, Nonylphenol and Their Isomers, Salts Thereof"
+    },
+    {
+        "code": "290715",
+        "description": "Monophenols; Naphthols and Their Salts"
+    },
+    {
+        "code": "290719",
+        "description": "Monophenols; N.E.C. In Item No. 2907.1"
+    },
+    {
+        "code": "290721",
+        "description": "Polyphenols; Resorcinol and Its Salts"
+    },
+    {
+        "code": "290722",
+        "description": "Polyphenols; Hydroquinone (Quinol) and Its Salts"
+    },
+    {
+        "code": "291211",
+        "description": "Aldehydes; Acyclic, Without Other Oxygen Function, Methanal (Formaldehyde)"
+    },
+    {
+        "code": "291212",
+        "description": "Aldehydes; Acyclic, Without Other Oxygen Function, Ethanal (Acetaldehyde)"
+    },
+    {
+        "code": "291221",
+        "description": "Aldehydes; Cyclic, Without Other Oxygen Function, Benzaldehyde"
+    },
+    {
+        "code": "291229",
+        "description": "Aldehydes; Cyclic, Without Other Oxygen Function, Other Than Benzaldehyde"
+    },
+    {
+        "code": "291250",
+        "description": "Aldehydes; Cyclic Polymers of Aldehydes"
+    },
+    {
+        "code": "291260",
+        "description": "Paraformaldehyde"
+    },
+    {
+        "code": "291411",
+        "description": "Ketones; Acyclic, Without Other Oxygen Function, Acetone"
+    },
+    {
+        "code": "291440",
+        "description": "Ketone-Alcohols and Ketone-Aldehydes"
+    },
+    {
+        "code": "291450",
+        "description": "Ketone-Phenols and Ketones With Other Oxygen Function"
+    },
+    {
+        "code": "291461",
+        "description": "Quinones; Anthraquinone"
+    },
+    {
+        "code": "291462",
+        "description": "Quinones; Coenzyme Q10 (Ubidecarenone (Inn))"
+    },
+    {
+        "code": "291469",
+        "description": "Quinones; Other Than Anthraquinone and Coenzyme Q10 (Ubidecarenone (Inn))"
+    },
+    {
+        "code": "291714",
+        "description": "Acids; Acyclic Polycarboxylic Acids; Maleic Anhydride"
+    },
+    {
+        "code": "291737",
+        "description": "Acids; Aromatic Polycarboxylic Acids; Dimethyl Terephthalate"
+    },
+    {
+        "code": "292320",
+        "description": "Lecithins and Other Phosphoaminolipids, Whether or Not Chemically Defined"
+    },
+    {
+        "code": "292511",
+        "description": "Imides and Their Derivatives; Saccharin and Its Salts"
+    },
+    {
+        "code": "292512",
+        "description": "Imides and Their Derivatives; Glutethimide (Inn)"
+    },
+    {
+        "code": "292519",
+        "description": "Imides and Their Derivatives; Other Than Saccharin and Glutethimide (Inn)"
+    },
+    {
+        "code": "292521",
+        "description": "Imines and Their Derivatives; Salts Thereof; Chlordimeform (Iso)"
+    },
+    {
+        "code": "292529",
+        "description": "Imines and Their Derivatives; Salts Thereof; Other Than Chlordimeform (Iso)"
+    },
+    {
+        "code": "292610",
+        "description": "Nitrile-Function Compounds; Acrylonitrile"
+    },
+    {
+        "code": "292620",
+        "description": "Nitrile-Function Compounds; 1-Cyanoguanidine (Dicyandiamide)"
+    },
+    {
+        "code": "292640",
+        "description": "Nitrile-Function Compounds; Alpha-Phenylacetoacetonitrile"
+    },
+    {
+        "code": "292700",
+        "description": "Diazo-, Azo- or Azoxy Compounds"
+    },
+    {
+        "code": "292800",
+        "description": "Organic Derivatives of Hydrazine or of Hydroxylamine"
+    },
+    {
+        "code": "293010",
+        "description": "Organo-Sulphur Compounds; 2-(N,N-Diethylamino) Ethanethiol"
+    },
+    {
+        "code": "293020",
+        "description": "Organo-Sulphur Compounds; Thiocarbamates and Dithiocarbamates"
+    },
+    {
+        "code": "293040",
+        "description": "Organo-Sulphur Compounds; Methionine"
+    },
+    {
+        "code": "293120",
+        "description": "Organo-Inorganic Compounds; Tributyltin Compounds"
+    },
+    {
+        "code": "293154",
+        "description": "Halogenated Organo-Phosphorous Derivatives; Trichlorfon (Iso)"
+    },
+    {
+        "code": "293392",
+        "description": "Heterocyclic Compounds; Azinphos-Methyl (Iso)"
+    },
+    {
+        "code": "293510",
+        "description": "Sulphonamides; N-Methylperfluorooctane Sulphonamide"
+    },
+    {
+        "code": "293520",
+        "description": "Sulphonamides; N-Ethylperfluorooctane Sulphonamide"
+    },
+    {
+        "code": "293530",
+        "description": "Sulphonamides; N-Ethyl-N-(2-Hydroxyethyl) Perfluorooctane Sulphonamide"
+    },
+    {
+        "code": "293540",
+        "description": "Sulphonamides; N-(2-Hydroxyethyl)-N-Methylperfluorooctane Sulphonamide"
+    },
+    {
+        "code": "293550",
+        "description": "Sulphonamides; Other Perfluorooctane Sulphonamides"
+    },
+    {
+        "code": "293590",
+        "description": "Sulphonamides; N.E.C. In Heading No. 2935"
+    },
+    {
+        "code": "293621",
+        "description": "Vitamins; Vitamins A and Their Derivatives, Unmixed"
+    },
+    {
+        "code": "293622",
+        "description": "Vitamins; Vitamin B1 and Its Derivatives, Unmixed"
+    },
+    {
+        "code": "293623",
+        "description": "Vitamins; Vitamin B2 and Its Derivatives, Unmixed"
+    },
+    {
+        "code": "293625",
+        "description": "Vitamins; Vitamin B6 and Its Derivatives, Unmixed"
+    },
+    {
+        "code": "293626",
+        "description": "Vitamins; Vitamin B12 and Its Derivatives, Unmixed"
+    },
+    {
+        "code": "293627",
+        "description": "Vitamins; Vitamin C and Its Derivatives, Unmixed"
+    },
+    {
+        "code": "293628",
+        "description": "Vitamins; Vitamin E and Its Derivatives, Unmixed"
+    },
+    {
+        "code": "293810",
+        "description": "Glycosides; Rutoside (Rutin) and Its Derivatives"
+    },
+    {
+        "code": "293911",
+        "description": "Alkaloids; of Opium and Their Derivatives; Salts Thereof"
+    },
+    {
+        "code": "293919",
+        "description": "Alkaloids; of Opium and Their Derivatives; Other Than In 2939.11, Salts Thereof"
+    },
+    {
+        "code": "293920",
+        "description": "Alkaloids; of Cinchona and Their Derivatives; Salts Thereof"
+    },
+    {
+        "code": "293930",
+        "description": "Alkaloids; Caffeine and Its Salts"
+    },
+    {
+        "code": "293942",
+        "description": "Alkaloids; of Ephedrine and Their Derivatives; Pseudoephedrine (Inn) and Its Salts"
+    },
+    {
+        "code": "293944",
+        "description": "Alkaloids; of Ephedrine and Their Derivatives; Norephedrine and Its Salts"
+    },
+    {
+        "code": "294130",
+        "description": "Antibiotics; Tetracyclines and Their Derivatives; Salts Thereof"
+    },
+    {
+        "code": "294140",
+        "description": "Antibiotics; Chloramphenicol and Its Derivatives; Salts Thereof"
+    },
+    {
+        "code": "294150",
+        "description": "Antibiotics; Erythromycin and Its Derivatives; Salts Thereof"
+    },
+    {
+        "code": "294190",
+        "description": "Antibiotics; N.E.C. In Heading No. 2941"
+    },
+    {
+        "code": "294200",
+        "description": "Organic Compounds; N.E.C. In Chapter 29"
+    },
+    {
+        "code": "300220",
+        "description": "Vaccines; For Human Medicine"
+    },
+    {
+        "code": "300230",
+        "description": "Vaccines; For Veterinary Medicine"
+    },
+    {
+        "code": "300620",
+        "description": "Pharmaceutical Goods; Blood-Grouping Reagents"
+    },
+    {
+        "code": "300650",
+        "description": "Pharmaceutical Goods; First Aid Boxes and Kits"
+    },
+    {
+        "code": "300691",
+        "description": "Pharmaceutical Goods; Appliances Identifiable For Ostomy Use"
+    },
+    {
+        "code": "300692",
+        "description": "Pharmaceutical Goods; Waste Pharmaceuticals"
+    },
+    {
+        "code": "310229",
+        "description": "Fertilizers, Mineral or Chemical; Nitrogenous, Other Than Ammonium Sulphate"
+    },
+    {
+        "code": "310250",
+        "description": "Fertilizers, Mineral or Chemical; Nitrogenous, Sodium Nitrate"
+    },
+    {
+        "code": "310430",
+        "description": "Fertilizers, Mineral or Chemical; Potassic, Potassium Sulphate"
+    },
+    {
+        "code": "310551",
+        "description": "Fertilizers, Mineral or Chemical; Containing Nitrates and Phosphates"
+    },
+    {
+        "code": "320110",
+        "description": "Tanning Extracts of Vegetable Origin; Quebracho Extract"
+    },
+    {
+        "code": "320120",
+        "description": "Tanning Extracts of Vegetable Origin; Wattle Extract"
+    },
+    {
+        "code": "320210",
+        "description": "Tanning Substances; Synthetic Organic Tanning Substances"
+    },
+    {
+        "code": "320411",
+        "description": "Dyes; Disperse Dyes and Preparations Based Thereon"
+    },
+    {
+        "code": "320413",
+        "description": "Dyes; Basic Dyes and Preparations Based Thereon"
+    },
+    {
+        "code": "320417",
+        "description": "Dyes; Pigments and Preparations Based Thereon"
+    },
+    {
+        "code": "320641",
+        "description": "Colouring Matter; Ultramarine and Preparations Based Thereon"
+    },
+    {
+        "code": "320710",
+        "description": "Pigments; Prepared Pigments, Opacifiers, Colours and Similar Preparations"
+    },
+    {
+        "code": "320730",
+        "description": "Lustres; Liquid Lustres and Similar Preparations"
+    },
+    {
+        "code": "321100",
+        "description": "Driers; Prepared"
+    },
+    {
+        "code": "321410",
+        "description": "Mastics; Painters' Fillings"
+    },
+    {
+        "code": "321490",
+        "description": "Mastics; N.E.C. In Heading No. 3214"
+    },
+    {
+        "code": "321511",
+        "description": "Ink; For Printing, Black, Whether or Not Concentrated or Solid"
+    },
+    {
+        "code": "330130",
+        "description": "Resinoids"
+    },
+    {
+        "code": "330300",
+        "description": "Perfumes and Toilet Waters"
+    },
+    {
+        "code": "330410",
+        "description": "Cosmetic and Toilet Preparations; Lip Make-Up"
+    },
+    {
+        "code": "330420",
+        "description": "Cosmetic and Toilet Preparations; Eye Make-Up"
+    },
+    {
+        "code": "330510",
+        "description": "Hair Preparations; Shampoos"
+    },
+    {
+        "code": "330520",
+        "description": "Hair Preparations; For Permanent Waving or Straightening"
+    },
+    {
+        "code": "330530",
+        "description": "Hair Preparations; Lacquers"
+    },
+    {
+        "code": "330610",
+        "description": "Oral or Dental Hygiene Preparations; Dentifrices"
+    },
+    {
+        "code": "330690",
+        "description": "Oral or Dental Hygiene Preparations; Other Than Dentifrices"
+    },
+    {
+        "code": "340490",
+        "description": "Waxes; Artificial and Prepared, Other Than of Polyethylene Glycol"
+    },
+    {
+        "code": "340600",
+        "description": "Candles, Tapers and The Like"
+    },
+    {
+        "code": "350110",
+        "description": "Casein"
+    },
+    {
+        "code": "350190",
+        "description": "Caseinates and Other Casein Derivatives; Casein Glues"
+    },
+    {
+        "code": "350211",
+        "description": "Albumins; Egg Albumin, Dried"
+    },
+    {
+        "code": "350219",
+        "description": "Albumins; Egg Albumin, Not Dried"
+    },
+    {
+        "code": "350510",
+        "description": "Dextrins and Other Modified Starches"
+    },
+    {
+        "code": "350520",
+        "description": "Glues; Based On Starches, or On Dextrins or Other Modified Starches"
+    },
+    {
+        "code": "350710",
+        "description": "Enzymes; Rennet and Concentrates Thereof"
+    },
+    {
+        "code": "350790",
+        "description": "Enzymes and Prepared Enzymes; Other Than Rennet and Concentrates Thereof"
+    },
+    {
+        "code": "360100",
+        "description": "Explosives; Propellent Powders"
+    },
+    {
+        "code": "360200",
+        "description": "Explosives, Prepared; Other Than Propellent Powders"
+    },
+    {
+        "code": "360310",
+        "description": "Safety Fuses"
+    },
+    {
+        "code": "360320",
+        "description": "Detonating Cords"
+    },
+    {
+        "code": "360330",
+        "description": "Percussion Caps"
+    },
+    {
+        "code": "360340",
+        "description": "Detonating Caps"
+    },
+    {
+        "code": "360350",
+        "description": "Igniters"
+    },
+    {
+        "code": "360360",
+        "description": "Electric Detonators"
+    },
+    {
+        "code": "360410",
+        "description": "Pyrotechnic Products; Fireworks"
+    },
+    {
+        "code": "360500",
+        "description": "Matches; Other Than Pyrotechnic Articles of Heading No. 3604"
+    },
+    {
+        "code": "380110",
+        "description": "Graphite; Artificial"
+    },
+    {
+        "code": "380120",
+        "description": "Graphite; Colloidal or Semi-Colloidal"
+    },
+    {
+        "code": "380130",
+        "description": "Carbonaceous Pastes; For Electrodes and Similar Pastes For Furnace Linings"
+    },
+    {
+        "code": "380210",
+        "description": "Carbon; Activated"
+    },
+    {
+        "code": "380300",
+        "description": "Chemical Products; Tall Oil, Whether or Not Refined"
+    },
+    {
+        "code": "380610",
+        "description": "Rosin and Resin Acids"
+    },
+    {
+        "code": "380630",
+        "description": "Ester Gums"
+    },
+    {
+        "code": "381111",
+        "description": "Anti-Knock Preparations; Based On Lead Compounds"
+    },
+    {
+        "code": "381210",
+        "description": "Rubber Accelerators; Prepared"
+    },
+    {
+        "code": "381220",
+        "description": "Plasticisers, Compound; For Rubber or Plastics"
+    },
+    {
+        "code": "382370",
+        "description": "Industrial Fatty Alcohols"
+    },
+    {
+        "code": "382410",
+        "description": "Binders, Prepared; For Foundry Moulds or Cores"
+    },
+    {
+        "code": "382440",
+        "description": "Cements, Mortars or Concretes; Their Prepared Additives"
+    },
+    {
+        "code": "382450",
+        "description": "Mortars and Concretes; Non-Refractory"
+    },
+    {
+        "code": "382460",
+        "description": "Sorbitol; Other Than That of Subheading No. 2905.44"
+    },
+    {
+        "code": "390710",
+        "description": "Polyacetals; In Primary Forms"
+    },
+    {
+        "code": "390720",
+        "description": "Polyethers; In Primary Forms, Excluding Polyacetals"
+    },
+    {
+        "code": "390730",
+        "description": "Epoxide Resins; In Primary Forms"
+    },
+    {
+        "code": "390740",
+        "description": "Polycarbonates; In Primary Forms"
+    },
+    {
+        "code": "390750",
+        "description": "Alkyd Resins; In Primary Forms"
+    },
+    {
+        "code": "390770",
+        "description": "Poly(Lactic Acid); In Primary Forms"
+    },
+    {
+        "code": "390940",
+        "description": "Phenolic Resins; In Primary Forms"
+    },
+    {
+        "code": "390950",
+        "description": "Polyurethanes; In Primary Forms"
+    },
+    {
+        "code": "391000",
+        "description": "Silicones; In Primary Forms"
+    },
+    {
+        "code": "391212",
+        "description": "Cellulose Acetates; Plasticised, In Primary Forms"
+    },
+    {
+        "code": "391510",
+        "description": "Ethylene Polymers; Waste, Parings and Scrap"
+    },
+    {
+        "code": "391520",
+        "description": "Styrene Polymers; Waste, Parings and Scrap"
+    },
+    {
+        "code": "391530",
+        "description": "Vinyl Chloride Polymers; Waste, Parings and Scrap"
+    },
+    {
+        "code": "392220",
+        "description": "Plastics; Lavatory Seats and Covers"
+    },
+    {
+        "code": "392410",
+        "description": "Plastics; Tableware and Kitchenware"
+    },
+    {
+        "code": "392490",
+        "description": "Plastics; Household Articles and Hygienic or Toilet Articles"
+    },
+    {
+        "code": "392610",
+        "description": "Plastics; Office or School Supplies"
+    },
+    {
+        "code": "392630",
+        "description": "Plastics; Fittings For Furniture, Coachwork or The Like"
+    },
+    {
+        "code": "392640",
+        "description": "Plastics; Statuettes and Other Ornamental Articles"
+    },
+    {
+        "code": "392690",
+        "description": "Plastics; Other Articles N.E.C. In Chapter 39"
+    },
+    {
+        "code": "400700",
+        "description": "Rubber; Vulcanised, Thread and Cord"
+    },
+    {
+        "code": "401199",
+        "description": "Other"
+    },
+    {
+        "code": "401213",
+        "description": "Retreaded Tyres; of A Kind Used On Aircraft"
+    },
+    {
+        "code": "401220",
+        "description": "Rubber; Used Pneumatic Tyres"
+    },
+    {
+        "code": "401320",
+        "description": "Rubber; Inner Tubes, of A Kind Used On Bicycles"
+    },
+    {
+        "code": "401410",
+        "description": "Rubber; Vulcanised (Other Than Hard Rubber), Sheath Contraceptives"
+    },
+    {
+        "code": "401511",
+        "description": "Rubber; Vulcanised (Other Than Hard Rubber), Surgical Gloves"
+    },
+    {
+        "code": "411410",
+        "description": "Leather; Chamois (Including Combination Chamois)"
+    },
+    {
+        "code": "430110",
+        "description": "Furskins; Raw, of Mink, Whole, With or Without Head, Tail or Paws"
+    },
+    {
+        "code": "430310",
+        "description": "Furskin Articles; Apparel and Clothing Accessories"
+    },
+    {
+        "code": "430390",
+        "description": "Furskin Articles; Other Than Apparel and Clothing Accessories"
+    },
+    {
+        "code": "430400",
+        "description": "Fur, Artificial; Articles Thereof"
+    },
+    {
+        "code": "440210",
+        "description": "Wood; Charcoal of Bamboo, Whether or Not Agglomerated"
+    },
+    {
+        "code": "440220",
+        "description": "Wood; Charcoal of Nut or Shell, Whether or Not Agglomerated"
+    },
+    {
+        "code": "440500",
+        "description": "Wood; Wood Wool and Wood Flour"
+    },
+    {
+        "code": "441210",
+        "description": "Plywood, Veneered Panels and Similar Laminated Wood; of Bamboo"
+    },
+    {
+        "code": "441400",
+        "description": "Wooden Frames; For Paintings, Photographs, Mirrors or Similar Objects"
+    },
+    {
+        "code": "441810",
+        "description": "Wood; Windows, French-Windows and Their Frames"
+    },
+    {
+        "code": "441820",
+        "description": "Wood; Doors and Their Frames and Thresholds"
+    },
+    {
+        "code": "441821",
+        "description": "Wood; Doors and Their Frames and Thresholds, of Tropical Wood"
+    },
+    {
+        "code": "441829",
+        "description": "Wood; Doors and Their Frames and Thresholds, (Of Other Than Tropical Wood)"
+    },
+    {
+        "code": "441840",
+        "description": "Wood; Shuttering For Concrete Constructional Work"
+    },
+    {
+        "code": "441850",
+        "description": "Wood; Shingles and Shakes"
+    },
+    {
+        "code": "441860",
+        "description": "Wood; Posts and Beams"
+    },
+    {
+        "code": "441883",
+        "description": "Wood; Engineered Structural Timber Products, I Beams"
+    },
+    {
+        "code": "441890",
+        "description": "Other"
+    },
+    {
+        "code": "441912",
+        "description": "Tableware and Kitchenware, of Wood; of Bamboo, Chopsticks"
+    },
+    {
+        "code": "441920",
+        "description": "Tableware and Kitchenware, of Wood; of Tropical Wood"
+    },
+    {
+        "code": "442010",
+        "description": "Wood; Statuettes and Other Ornaments of Wood"
+    },
+    {
+        "code": "442011",
+        "description": "Wood; Statuettes and Other Ornaments, of Tropical Wood"
+    },
+    {
+        "code": "442019",
+        "description": "Wood; Statuettes and Other Ornaments, of Other Than Tropical Wood"
+    },
+    {
+        "code": "442110",
+        "description": "Wood; Clothes Hangers"
+    },
+    {
+        "code": "442120",
+        "description": "Wood; Coffins"
+    },
+    {
+        "code": "450110",
+        "description": "Cork; Natural Cork, Raw or Simply Prepared"
+    },
+    {
+        "code": "450310",
+        "description": "Cork; Corks and Stoppers, of Natural Cork"
+    },
+    {
+        "code": "450390",
+        "description": "Cork; Articles of Natural Cork Other Than Corks and Stoppers"
+    },
+    {
+        "code": "470100",
+        "description": "Wood Pulp; Mechanical Wood Pulp"
+    },
+    {
+        "code": "470610",
+        "description": "Pulp; Cotton Linters Pulp"
+    },
+    {
+        "code": "470630",
+        "description": "Pulp; of Bamboo"
+    },
+    {
+        "code": "480210",
+        "description": "Hand-Made Paper or Paperboard"
+    },
+    {
+        "code": "480610",
+        "description": "Paper; Vegetable Parchment, In Rolls or Sheets"
+    },
+    {
+        "code": "480620",
+        "description": "Paper; Greaseproof Papers, In Rolls or Sheets"
+    },
+    {
+        "code": "480630",
+        "description": "Paper; Tracing Papers, In Rolls or Sheets"
+    },
+    {
+        "code": "481310",
+        "description": "Paper, Cigarette; In The Form of Booklets or Tubes"
+    },
+    {
+        "code": "481710",
+        "description": "Paper and Paperboard; Envelopes"
+    },
+    {
+        "code": "481810",
+        "description": "Paper Articles; Toilet Paper"
+    },
+    {
+        "code": "482020",
+        "description": "Paper and Paperboard; Exercise Books"
+    },
+    {
+        "code": "482030",
+        "description": "Paper and Paperboard; Binders, Folders and File Covers"
+    },
+    {
+        "code": "482050",
+        "description": "Paper and Paperboard; Albums For Samples or For Collections"
+    },
+    {
+        "code": "482110",
+        "description": "Paper and Paperboard; Labels or All Kinds, Printed"
+    },
+    {
+        "code": "482190",
+        "description": "Paper and Paperboard; Labels of All Kinds, Unprinted"
+    },
+    {
+        "code": "482320",
+        "description": "Paper and Paperboard; Filter Paper and Paperboard"
+    },
+    {
+        "code": "490191",
+        "description": "Printed Matter; Dictionaries, Encyclopaedias and Serial Instalments Thereof"
+    },
+    {
+        "code": "490510",
+        "description": "Globes; Printed"
+    },
+    {
+        "code": "490810",
+        "description": "Printed Matter; Transfers (Decalcomanias), Vitrifiable"
+    },
+    {
+        "code": "490890",
+        "description": "Printed Matter; Transfers (Decalcomanias), Other Than Vitrifiable"
+    },
+    {
+        "code": "500100",
+        "description": "Silk; Silk-Worm Cocoons Suitable For Reeling"
+    },
+    {
+        "code": "500200",
+        "description": "Silk; Raw Silk (Not Thrown)"
+    },
+    {
+        "code": "500710",
+        "description": "Silk; Woven Fabrics of Noil Silk"
+    },
+    {
+        "code": "510130",
+        "description": "Wool; (Not Carded or Combed), Carbonised"
+    },
+    {
+        "code": "510510",
+        "description": "Wool; Carded"
+    },
+    {
+        "code": "510540",
+        "description": "Hair; Coarse Animal Hair, Carded or Combed"
+    },
+    {
+        "code": "511300",
+        "description": "Fabrics, Woven; of Coarse Animal Hair or of Horsehair"
+    },
+    {
+        "code": "520100",
+        "description": "Cotton; Not Carded or Combed"
+    },
+    {
+        "code": "520210",
+        "description": "Cotton; Yarn Waste (Including Thread Waste)"
+    },
+    {
+        "code": "520291",
+        "description": "Cotton; Garnetted Stock Waste"
+    },
+    {
+        "code": "520300",
+        "description": "Cotton; Carded or Combed"
+    },
+    {
+        "code": "520420",
+        "description": "Cotton; Sewing Thread, Put Up For Retail Sale"
+    },
+    {
+        "code": "530110",
+        "description": "Flax; Raw or Retted, But Not Spun"
+    },
+    {
+        "code": "530121",
+        "description": "Flax; Broken or Scutched, But Not Spun"
+    },
+    {
+        "code": "530129",
+        "description": "Flax; Hackled or Otherwise Processed, But Not Spun"
+    },
+    {
+        "code": "530610",
+        "description": "Yarn; of Flax, Single"
+    },
+    {
+        "code": "530710",
+        "description": "Yarn; of Jute or of Other Textile Bast Fibres, Single"
+    },
+    {
+        "code": "530810",
+        "description": "Yarn; of Coir"
+    },
+    {
+        "code": "530820",
+        "description": "Yarn; of Hemp (Cannabis Sativa L.)"
+    },
+    {
+        "code": "550110",
+        "description": "Fibres; Synthetic Filament Tow, of Nylon or Other Polyamides"
+    },
+    {
+        "code": "550120",
+        "description": "Fibres; Synthetic Filament Tow, of Polyesters"
+    },
+    {
+        "code": "550130",
+        "description": "Fibres; Synthetic Filament Tow, Acrylic or Modacrylic"
+    },
+    {
+        "code": "550140",
+        "description": "Fibres; Synthetic Filament Tow, of Polypropylene"
+    },
+    {
+        "code": "550210",
+        "description": "Fibres; Artificial Filament Tow of Cellulose Acetate"
+    },
+    {
+        "code": "550290",
+        "description": "Fibres; Artificial Filament Tow, Other Than Cellulose Acetate"
+    },
+    {
+        "code": "560121",
+        "description": "Wadding; Other Articles Thereof, of Cotton"
+    },
+    {
+        "code": "560122",
+        "description": "Wadding; Other Articles Thereof, of Man-Made Fibres"
+    },
+    {
+        "code": "560129",
+        "description": "Wadding; Other Articles Thereof, Other Than of Cotton or Man-Made Fibres"
+    },
+    {
+        "code": "560130",
+        "description": "Wadding; Textile Flock and Dust and Mill Neps"
+    },
+    {
+        "code": "560410",
+        "description": "Rubber Thread and Cord; Textile Covered"
+    },
+    {
+        "code": "560741",
+        "description": "Twine; Binder or Baler Twine, of Polyethylene or Polypropylene"
+    },
+    {
+        "code": "570329",
+        "description": "Carpets; Tufted, of Nylon or Other Polyamides, Whether or Not Made Up"
+    },
+    {
+        "code": "580810",
+        "description": "Braids; In The Piece"
+    },
+    {
+        "code": "590410",
+        "description": "Linoleum, Whether or Not Cut To Shape"
+    },
+    {
+        "code": "600110",
+        "description": "Fabrics; Long Pile Fabrics, Knitted or Crocheted"
+    },
+    {
+        "code": "600532",
+        "description": "Dyed"
+    },
+    {
+        "code": "610310",
+        "description": "Suits; Men'S or Boys', Knitted or Crocheted"
+    },
+    {
+        "code": "610322",
+        "description": "Ensembles; Men'S or Boys', of Cotton, Knitted or Crocheted"
+    },
+    {
+        "code": "610442",
+        "description": "Dresses; Women'S or Girls', of Cotton, Knitted or Crocheted"
+    },
+    {
+        "code": "610510",
+        "description": "Shirts; Men'S or Boys', of Cotton, Knitted or Crocheted"
+    },
+    {
+        "code": "611211",
+        "description": "Track Suits; of Cotton, Knitted or Crocheted"
+    },
+    {
+        "code": "611212",
+        "description": "Track Suits; of Synthetic Fibres, Knitted or Crocheted"
+    },
+    {
+        "code": "611220",
+        "description": "Ski Suits; Knitted or Crocheted"
+    },
+    {
+        "code": "611790",
+        "description": "Clothing; Parts, Knitted or Crocheted"
+    },
+    {
+        "code": "621111",
+        "description": "Swimwear; Men'S or Boys', (Not Knitted or Crocheted)"
+    },
+    {
+        "code": "621120",
+        "description": "Ski Suits; (Not Knitted or Crocheted)"
+    },
+    {
+        "code": "621210",
+        "description": "Brassieres; Whether or Not Knitted or Crocheted"
+    },
+    {
+        "code": "621220",
+        "description": "Girdles and Panty-Girdles; Whether or Not Knitted or Crocheted"
+    },
+    {
+        "code": "621230",
+        "description": "Corselettes; Whether or Not Knitted or Crocheted"
+    },
+    {
+        "code": "621320",
+        "description": "Handkerchiefs; of Cotton (Not Knitted or Crocheted)"
+    },
+    {
+        "code": "621600",
+        "description": "Gloves, Mittens and Mitts (Not Knitted or Crocheted)"
+    },
+    {
+        "code": "630110",
+        "description": "Blankets; Electric"
+    },
+    {
+        "code": "630130",
+        "description": "Blankets (Other Than Electric Blankets) and Travelling Rugs; of Cotton"
+    },
+    {
+        "code": "630210",
+        "description": "Bed Linen; Knitted or Crocheted"
+    },
+    {
+        "code": "630240",
+        "description": "Table Linen; Knitted or Crocheted"
+    },
+    {
+        "code": "630251",
+        "description": "Table Linen; of Cotton, Not Knitted or Crocheted"
+    },
+    {
+        "code": "630293",
+        "description": "Toilet and Kitchen Linen; of Man-Made Fibres"
+    },
+    {
+        "code": "630411",
+        "description": "Bedspreads; Knitted or Crocheted"
+    },
+    {
+        "code": "630419",
+        "description": "Bedspreads; Not Knitted or Crocheted"
+    },
+    {
+        "code": "630612",
+        "description": "Tarpaulins, Awnings and Sunblinds; of Synthetic Fibres"
+    },
+    {
+        "code": "630630",
+        "description": "Sails; For Boats, Sailboards or Landcraft"
+    },
+    {
+        "code": "630640",
+        "description": "Camping Goods; Pneumatic Mattresses"
+    },
+    {
+        "code": "630720",
+        "description": "Life-Jackets and Life-Belts"
+    },
+    {
+        "code": "630900",
+        "description": "Clothing; Worn, and Other Worn Articles"
+    },
+    {
+        "code": "640590",
+        "description": "Footwear; N.E.C. In Chapter 64"
+    },
+    {
+        "code": "640610",
+        "description": "Footwear; Parts, Uppers and Parts Thereof, Other Than Stiffeners"
+    },
+    {
+        "code": "640690",
+        "description": "Footwear; Parts, N.E.C. In Heading 6406"
+    },
+    {
+        "code": "650610",
+        "description": "Headgear; Safety, Whether or Not Lined or Trimmed"
+    },
+    {
+        "code": "660110",
+        "description": "Umbrellas and Sun Umbrellas; Garden or Similar Umbrellas"
+    },
+    {
+        "code": "670411",
+        "description": "Wigs; Complete, of Synthetic Textile Materials"
+    },
+    {
+        "code": "680300",
+        "description": "Slate, Worked; and Articles of Slate or of Agglomerated Slate"
+    },
+    {
+        "code": "680410",
+        "description": "Millstones and Grindstones; For Milling, Grinding or Pulping"
+    },
+    {
+        "code": "681140",
+        "description": "Asbestos-Cement; Articles or The Like, Containing Asbestos"
+    },
+    {
+        "code": "681520",
+        "description": "Peat; Articles of Peat N.E.C. or Included"
+    },
+    {
+        "code": "690410",
+        "description": "Ceramic Building Bricks"
+    },
+    {
+        "code": "690510",
+        "description": "Ceramic Roofing Tiles"
+    },
+    {
+        "code": "690600",
+        "description": "Ceramic Pipes, Conduits, Guttering and Pipe Fittings"
+    },
+    {
+        "code": "690730",
+        "description": "Mosaic Cubes and The Like, Other Than Those of Subheading 6907.40"
+    },
+    {
+        "code": "690740",
+        "description": "Finishing Ceramics"
+    },
+    {
+        "code": "690890",
+        "description": "Other"
+    },
+    {
+        "code": "691110",
+        "description": "Tableware and Kitchenware; of Porcelain or China"
+    },
+    {
+        "code": "700220",
+        "description": "Glass; Unworked, In Rods"
+    },
+    {
+        "code": "700800",
+        "description": "Glass; Multiple-Walled Insulating Units of Glass"
+    },
+    {
+        "code": "700910",
+        "description": "Glass; Rear-View Mirrors For Vehicles"
+    },
+    {
+        "code": "701020",
+        "description": "Glass; Stoppers, Lids and Other Closures"
+    },
+    {
+        "code": "701322",
+        "description": "Stemware Drinking Glasses, of Lead Crystal"
+    },
+    {
+        "code": "701400",
+        "description": "Glassware; Signalling, (Not Optically Worked)"
+    },
+    {
+        "code": "701912",
+        "description": "Glass Fibres; (Including Glass Wool), Rovings"
+    },
+    {
+        "code": "701931",
+        "description": "Glass Fibres; Non-Woven Products, Mats"
+    },
+    {
+        "code": "701940",
+        "description": "Glass Fibres; Woven Fabrics of Rovings"
+    },
+    {
+        "code": "701971",
+        "description": "Glass Fibres; Chemically Bonded Fabrics"
+    },
+    {
+        "code": "701980",
+        "description": "Glass Fibres; Glass Wool and Articles Thereof"
+    },
+    {
+        "code": "702000",
+        "description": "Glass; Articles N.E.C. In Chapter 70"
+    },
+    {
+        "code": "710610",
+        "description": "Metals; Silver Powder"
+    },
+    {
+        "code": "710691",
+        "description": "Metals; Silver, Unwrought, (But Not Powder)"
+    },
+    {
+        "code": "710692",
+        "description": "Metals; Silver, Semi-Manufactured"
+    },
+    {
+        "code": "710811",
+        "description": "Metals; Gold, Non-Monetary, Powder"
+    },
+    {
+        "code": "710813",
+        "description": "Metals; Gold, Semi-Manufactured"
+    },
+    {
+        "code": "711011",
+        "description": "Metals; Platinum, Unwrought or In Powder Form"
+    },
+    {
+        "code": "711019",
+        "description": "Metals; Platinum, Semi-Manufactured"
+    },
+    {
+        "code": "711029",
+        "description": "Metals; Palladium, Semi-Manufactured"
+    },
+    {
+        "code": "711031",
+        "description": "Metals; Rhodium, Unwrought or In Powder Form"
+    },
+    {
+        "code": "711039",
+        "description": "Metals; Rhodium, Semi-Manufactured"
+    },
+    {
+        "code": "711049",
+        "description": "Metals; Iridium, Osmium, Ruthenium, Semi-Manufactured"
+    },
+    {
+        "code": "711610",
+        "description": "Pearls; Articles of Natural or Cultured Pearls"
+    },
+    {
+        "code": "711810",
+        "description": "Coin (Other Than Gold Coin), Not Being Legal Tender"
+    },
+    {
+        "code": "720230",
+        "description": "Ferro-Alloys; Ferro-Silico-Manganese"
+    },
+    {
+        "code": "720250",
+        "description": "Ferro-Alloys; Ferro-Silico-Chromium"
+    },
+    {
+        "code": "720260",
+        "description": "Ferro-Alloys; Ferro-Nickel"
+    },
+    {
+        "code": "720270",
+        "description": "Ferro-Alloys; Ferro-Molybdenum"
+    },
+    {
+        "code": "720292",
+        "description": "Ferro-Alloys; Ferro-Vanadium"
+    },
+    {
+        "code": "720293",
+        "description": "Ferro-Alloys; Ferro-Niobium"
+    },
+    {
+        "code": "720410",
+        "description": "Ferrous Waste and Scrap; of Cast Iron"
+    },
+    {
+        "code": "720421",
+        "description": "Ferrous Waste and Scrap; of Stainless Steel"
+    },
+    {
+        "code": "720430",
+        "description": "Ferrous Waste and Scrap; of Tinned Iron or Steel"
+    },
+    {
+        "code": "720450",
+        "description": "Ferrous Products; Remelting Scrap Ingots"
+    },
+    {
+        "code": "720521",
+        "description": "Alloy Steel Powders"
+    },
+    {
+        "code": "721810",
+        "description": "Steel, Stainless; Ingots and Other Primary Forms"
+    },
+    {
+        "code": "722240",
+        "description": "Steel, Stainless; Angles, Shapes and Sections"
+    },
+    {
+        "code": "722300",
+        "description": "Steel, Stainless; Wire"
+    },
+    {
+        "code": "722410",
+        "description": "Steel, Alloy; Ingots and Other Primary Forms"
+    },
+    {
+        "code": "722490",
+        "description": "Steel, Alloy; Semi-Finished Products"
+    },
+    {
+        "code": "722840",
+        "description": "Steel, Alloy; Bars and Rods, Forged"
+    },
+    {
+        "code": "722870",
+        "description": "Steel, Alloy; Angles, Shapes and Sections"
+    },
+    {
+        "code": "730120",
+        "description": "Iron or Steel; Angles, Shapes and Sections, Welded"
+    },
+    {
+        "code": "730300",
+        "description": "Cast Iron; Tubes, Pipes and Hollow Profiles"
+    },
+    {
+        "code": "731100",
+        "description": "Containers For Compressed or Liquefied Gas, of Iron or Steel"
+    },
+    {
+        "code": "731419",
+        "description": "Iron or Steel; Woven Cloth, Other Than of Stainless Steel"
+    },
+    {
+        "code": "731450",
+        "description": "Iron or Steel; Expanded Metal"
+    },
+    {
+        "code": "731511",
+        "description": "Chain; Articulated Link, Roller, of Iron or Steel"
+    },
+    {
+        "code": "731512",
+        "description": "Chain; Articulated Link, (Other Than Roller), of Iron or Steel"
+    },
+    {
+        "code": "731600",
+        "description": "Iron or Steel; Anchors, Grapnels and Parts Thereof"
+    },
+    {
+        "code": "731811",
+        "description": "Iron or Steel; Threaded Coach Screws"
+    },
+    {
+        "code": "731814",
+        "description": "Iron or Steel; Threaded Self-Tapping Screws"
+    },
+    {
+        "code": "731816",
+        "description": "Iron or Steel; Threaded Nuts"
+    },
+    {
+        "code": "731823",
+        "description": "Iron or Steel; Non-Threaded Rivets"
+    },
+    {
+        "code": "731940",
+        "description": "Safety Pins and Other Pins; of Iron or Steel"
+    },
+    {
+        "code": "732020",
+        "description": "Iron or Steel; Helical Springs and Leaves For Springs"
+    },
+    {
+        "code": "732410",
+        "description": "Steel; Sinks and Wash Basins, of Stainless Steel"
+    },
+    {
+        "code": "732421",
+        "description": "Cast Iron, Baths, Whether or Not Enamelled"
+    },
+    {
+        "code": "732429",
+        "description": "Iron (Other Than Cast) or Steel; Baths"
+    },
+    {
+        "code": "732510",
+        "description": "Iron; Articles of Non-Malleable Cast Iron"
+    },
+    {
+        "code": "732620",
+        "description": "Iron or Steel; Wire Articles"
+    },
+    {
+        "code": "740100",
+        "description": "Copper Mattes; Cement Copper (Precipitated Copper)"
+    },
+    {
+        "code": "740200",
+        "description": "Copper; Unrefined, Copper Anodes For Electrolytic Refining"
+    },
+    {
+        "code": "740311",
+        "description": "Copper; Refined, Unwrought, Cathodes and Sections of Cathodes"
+    },
+    {
+        "code": "740312",
+        "description": "Copper; Refined, Unwrought, Wire-Bars"
+    },
+    {
+        "code": "740313",
+        "description": "Copper; Refined, Unwrought, Billets"
+    },
+    {
+        "code": "740400",
+        "description": "Copper; Waste and Scrap"
+    },
+    {
+        "code": "740500",
+        "description": "Copper; Master Alloys of Copper"
+    },
+    {
+        "code": "740610",
+        "description": "Copper; Powders of Non-Lamellar Structure"
+    },
+    {
+        "code": "740620",
+        "description": "Copper; Powders of Lamellar Structure, Flakes"
+    },
+    {
+        "code": "741110",
+        "description": "Copper; Tubes and Pipes, of Refined Copper"
+    },
+    {
+        "code": "741533",
+        "description": "Copper; Screws, Bolts and Nuts, Threaded"
+    },
+    {
+        "code": "741820",
+        "description": "Copper; Sanitary Ware and Parts Thereof"
+    },
+    {
+        "code": "741910",
+        "description": "Copper; Chain and Parts Thereof"
+    },
+    {
+        "code": "741980",
+        "description": "Copper; Articles Thereof N.E.C. In Chapter 74"
+    },
+    {
+        "code": "750110",
+        "description": "Nickel; Nickel Mattes"
+    },
+    {
+        "code": "750210",
+        "description": "Nickel; Unwrought, Not Alloyed"
+    },
+    {
+        "code": "750220",
+        "description": "Nickel; Unwrought, Alloys"
+    },
+    {
+        "code": "750300",
+        "description": "Nickel; Waste and Scrap"
+    },
+    {
+        "code": "750400",
+        "description": "Nickel; Powders and Flakes"
+    },
+    {
+        "code": "750512",
+        "description": "Nickel; Bars, Rods and Profiles, of Nickel Alloys"
+    },
+    {
+        "code": "750521",
+        "description": "Nickel; Wire, Not Alloyed"
+    },
+    {
+        "code": "750522",
+        "description": "Nickel; Wire, of Nickel Alloys"
+    },
+    {
+        "code": "750711",
+        "description": "Nickel; Tubes and Pipes, Not Alloyed"
+    },
+    {
+        "code": "750712",
+        "description": "Nickel; Tubes and Pipes, of Nickel Alloys"
+    },
+    {
+        "code": "750720",
+        "description": "Nickel; Tube and Pipe Fittings"
+    },
+    {
+        "code": "750810",
+        "description": "Nickel; Cloth, Grill and Netting, of Nickel Wire"
+    },
+    {
+        "code": "760110",
+        "description": "Aluminium; Unwrought, (Not Alloyed)"
+    },
+    {
+        "code": "760120",
+        "description": "Aluminium; Unwrought, Alloys"
+    },
+    {
+        "code": "760200",
+        "description": "Aluminium; Waste and Scrap"
+    },
+    {
+        "code": "760310",
+        "description": "Aluminium; Powders of Non-Lamellar Structure"
+    },
+    {
+        "code": "760320",
+        "description": "Aluminium; Powders of Lamellar Structure, Flakes"
+    },
+    {
+        "code": "760410",
+        "description": "Aluminium; (Not Alloyed), Bars, Rods and Profiles"
+    },
+    {
+        "code": "760421",
+        "description": "Aluminium; Alloys, Hollow Profiles"
+    },
+    {
+        "code": "760429",
+        "description": "Aluminium; Alloys, Bars, Rods and Profiles, Other Than Hollow"
+    },
+    {
+        "code": "760810",
+        "description": "Aluminium; Tubes and Pipes, Not Alloyed"
+    },
+    {
+        "code": "760820",
+        "description": "Aluminium; Tubes and Pipes, Alloys"
+    },
+    {
+        "code": "761300",
+        "description": "Aluminium; Containers For Compressed or Liquefied Gas"
+    },
+    {
+        "code": "761520",
+        "description": "Aluminium; Sanitary Ware and Parts Thereof"
+    },
+    {
+        "code": "761699",
+        "description": "Aluminium; Articles N.E.C. In Heading 7616"
+    },
+    {
+        "code": "780110",
+        "description": "Lead; Unwrought, Refined"
+    },
+    {
+        "code": "780200",
+        "description": "Lead; Waste and Scrap"
+    },
+    {
+        "code": "780420",
+        "description": "Lead; Powders and Flakes"
+    },
+    {
+        "code": "780600",
+        "description": "Lead; Articles N.E.C. In Chapter 78"
+    },
+    {
+        "code": "790120",
+        "description": "Zinc; Unwrought, Alloys"
+    },
+    {
+        "code": "790200",
+        "description": "Zinc; Waste and Scrap"
+    },
+    {
+        "code": "790310",
+        "description": "Zinc Dust"
+    },
+    {
+        "code": "790390",
+        "description": "Zinc; Powders and Flakes"
+    },
+    {
+        "code": "790400",
+        "description": "Zinc; Bars, Rods, Profiles and Wire"
+    },
+    {
+        "code": "790500",
+        "description": "Zinc; Plates, Sheets, Strip and Foil"
+    },
+    {
+        "code": "790700",
+        "description": "Zinc; Articles N.E.C. In Chapter 79"
+    },
+    {
+        "code": "800110",
+        "description": "Tin; Unwrought, Not Alloyed"
+    },
+    {
+        "code": "800120",
+        "description": "Tin; Unwrought, Alloys"
+    },
+    {
+        "code": "800200",
+        "description": "Tin; Waste and Scrap"
+    },
+    {
+        "code": "800300",
+        "description": "Tin; Bars, Rods, Profiles and Wire"
+    },
+    {
+        "code": "800700",
+        "description": "Tin; Articles N.E.C. In Chapter 80"
+    },
+    {
+        "code": "810196",
+        "description": "Tungsten (Wolfram); Wire"
+    },
+    {
+        "code": "810197",
+        "description": "Tungsten (Wolfram); Waste and Scrap"
+    },
+    {
+        "code": "810210",
+        "description": "Molybdenum; Articles Thereof, Including Waste and Scrap, Powders"
+    },
+    {
+        "code": "810296",
+        "description": "Molybdenum; Wire"
+    },
+    {
+        "code": "810297",
+        "description": "Molybdenum; Waste and Scrap"
+    },
+    {
+        "code": "810330",
+        "description": "Tantalum; Waste and Scrap"
+    },
+    {
+        "code": "810391",
+        "description": "Tantalum; Crucibles"
+    },
+    {
+        "code": "810411",
+        "description": "Magnesium; Unwrought, Containing At Least 99.8% By Weight of Magnesium"
+    },
+    {
+        "code": "810419",
+        "description": "Magnesium; Unwrought, Containing Less Than 99.8% By Weight of Magnesium"
+    },
+    {
+        "code": "810420",
+        "description": "Magnesium; Waste and Scrap"
+    },
+    {
+        "code": "810530",
+        "description": "Cobalt; Waste and Scrap"
+    },
+    {
+        "code": "810600",
+        "description": "Bismuth; Articles Thereof, Including Waste and Scrap"
+    },
+    {
+        "code": "810720",
+        "description": "Cadmium; Unwrought, Powders"
+    },
+    {
+        "code": "810820",
+        "description": "Titanium; Unwrought, Powders"
+    },
+    {
+        "code": "810830",
+        "description": "Titanium; Waste and Scrap"
+    },
+    {
+        "code": "810920",
+        "description": "Zirconium; Unwrought, Powders"
+    },
+    {
+        "code": "810930",
+        "description": "Zirconium; Waste and Scrap"
+    },
+    {
+        "code": "811010",
+        "description": "Antimony and Articles Thereof; Unwrought Antimony, Powders"
+    },
+    {
+        "code": "811020",
+        "description": "Antimony; Waste and Scrap"
+    },
+    {
+        "code": "811090",
+        "description": "Antimony and Articles Thereof; Wrought, Other Than Waste and Scrap"
+    },
+    {
+        "code": "811100",
+        "description": "Manganese; Articles Thereof, Including Waste and Scrap"
+    },
+    {
+        "code": "811212",
+        "description": "Beryllium and Articles Thereof; Unwrought Beryllium, Powders"
+    },
+    {
+        "code": "811219",
+        "description": "Beryllium and Articles Thereof; Wrought Other Than Waste and Scrap"
+    },
+    {
+        "code": "811221",
+        "description": "Chromium and Articles Thereof; Unwrought Chromium, Powders"
+    },
+    {
+        "code": "811222",
+        "description": "Chromium; Waste and Scrap"
+    },
+    {
+        "code": "811229",
+        "description": "Chromium and Articles Thereof; Wrought Other Than Waste and Scrap"
+    },
+    {
+        "code": "811231",
+        "description": "Hafnium and Articles Thereof; Unwrought, Powders, Waste and Scrap"
+    },
+    {
+        "code": "811239",
+        "description": "Hafnium and Articles Thereof; Wrought, Other Than Powders, Waste and Scrap"
+    },
+    {
+        "code": "811251",
+        "description": "Thallium and Articles Thereof; Unwrought Thallium, Powders"
+    },
+    {
+        "code": "811269",
+        "description": "Cadmium; Other Than Waste and Scrap"
+    },
+    {
+        "code": "811300",
+        "description": "Cermets; Articles Thereof, Including Waste and Scrap"
+    },
+    {
+        "code": "820110",
+        "description": "Tools, Hand; Spades and Shovels"
+    },
+    {
+        "code": "820130",
+        "description": "Tools, Hand; Mattocks, Picks, Hoes and Rakes"
+    },
+    {
+        "code": "820210",
+        "description": "Tools, Hand; Hand Saws"
+    },
+    {
+        "code": "820220",
+        "description": "Tools, Hand; Band Saw Blades"
+    },
+    {
+        "code": "820240",
+        "description": "Tools, Hand; Chain Saw Blades"
+    },
+    {
+        "code": "820291",
+        "description": "Tools, Hand; Straight Saw Blades, For Working Metal"
+    },
+    {
+        "code": "820310",
+        "description": "Tools, Hand; Files, Rasps and Similar Tools"
+    },
+    {
+        "code": "820330",
+        "description": "Tools, Hand; Metal Cutting Shears and Similar Tools"
+    },
+    {
+        "code": "820510",
+        "description": "Tools, Hand; Drilling, Threading or Tapping Tools"
+    },
+    {
+        "code": "820520",
+        "description": "Tools, Hand; Hammers and Sledge Hammers"
+    },
+    {
+        "code": "820540",
+        "description": "Tools, Hand; Screwdrivers"
+    },
+    {
+        "code": "820551",
+        "description": "Tools, Hand; Household Tools"
+    },
+    {
+        "code": "820560",
+        "description": "Tools, Hand; Blow Lamps"
+    },
+    {
+        "code": "820570",
+        "description": "Tools, Hand; Vices, Clamps and The Like"
+    },
+    {
+        "code": "821195",
+        "description": "Knives; With Handles of Base Metal"
+    },
+    {
+        "code": "821210",
+        "description": "Razors"
+    },
+    {
+        "code": "821300",
+        "description": "Scissors; Tailors' Shears, Similar Shears and Blades Therefore"
+    },
+    {
+        "code": "821490",
+        "description": "Cutlery; Hair Clippers and Mincing Knives"
+    },
+    {
+        "code": "821599",
+        "description": "Cutlery; Other Than Plated With Precious Metal"
+    },
+    {
+        "code": "830170",
+        "description": "Keys; Presented Separately, of Base Metal"
+    },
+    {
+        "code": "830220",
+        "description": "Castors; With Mountings, of Base Metal"
+    },
+    {
+        "code": "830260",
+        "description": "Automatic Door Closures; of Base Metal"
+    },
+    {
+        "code": "830710",
+        "description": "Tubing; Flexible, With or Without Fittings, of Iron or Steel"
+    },
+    {
+        "code": "830820",
+        "description": "Rivets; Tubular or Bifurcated, of Base Metal"
+    },
+    {
+        "code": "830910",
+        "description": "Stoppers; Corks, of Base Metal"
+    },
+    {
+        "code": "830990",
+        "description": "Stoppers; Caps and Lids, of Base Metal"
+    },
+    {
+        "code": "840110",
+        "description": "Nuclear Reactors"
+    },
+    {
+        "code": "840120",
+        "description": "Machinery and Apparatus; For Isotopic Separation, and Parts Thereof"
+    },
+    {
+        "code": "840130",
+        "description": "Fuel Elements (Cartridges); Non-Irradiated"
+    },
+    {
+        "code": "840140",
+        "description": "Nuclear Reactors; Parts Thereof"
+    },
+    {
+        "code": "840220",
+        "description": "Boilers; Super-Heated Water Boilers"
+    },
+    {
+        "code": "840290",
+        "description": "Boilers; Parts of Steam or Other Vapour Generating Boilers"
+    },
+    {
+        "code": "840420",
+        "description": "Boilers; Condensers, For Steam or Other Vapour Power Units"
+    },
+    {
+        "code": "840610",
+        "description": "Turbines; Steam and Other Vapour Turbines, For Marine Propulsion"
+    },
+    {
+        "code": "840690",
+        "description": "Turbines; Parts of Steam and Other Vapour Turbines"
+    },
+    {
+        "code": "841112",
+        "description": "Turbo-Jets; of A Thrust Exceeding 25Kn"
+    },
+    {
+        "code": "841122",
+        "description": "Turbo-Propellers; of A Power Exceeding 1100Kw"
+    },
+    {
+        "code": "841191",
+        "description": "Turbines; Parts of Turbo-Jets and Turbo-Propellers"
+    },
+    {
+        "code": "841210",
+        "description": "Engines; Reaction Engines, Other Than Turbo-Jets"
+    },
+    {
+        "code": "841340",
+        "description": "Pumps; Concrete Pumps"
+    },
+    {
+        "code": "841382",
+        "description": "Liquid Elevators"
+    },
+    {
+        "code": "841391",
+        "description": "Pumps; Parts Thereof"
+    },
+    {
+        "code": "841392",
+        "description": "Liquid Elevators; Parts Thereof"
+    },
+    {
+        "code": "841410",
+        "description": "Pumps; Vacuum"
+    },
+    {
+        "code": "841420",
+        "description": "Pumps; Hand or Foot-Operated Air Pumps"
+    },
+    {
+        "code": "841459",
+        "description": "Fans; N.E.C. In Item No. 8414.51"
+    },
+    {
+        "code": "841610",
+        "description": "Furnaces; Furnace Burners, For Liquid Fuel"
+    },
+    {
+        "code": "841821",
+        "description": "Refrigerators; For Household Use, Compression-Type, Electric or Other"
+    },
+    {
+        "code": "841829",
+        "description": "Refrigerators; Household, Electric or Not, Other Than Compression-Type"
+    },
+    {
+        "code": "841899",
+        "description": "Refrigerating or Freezing Equipment; Parts Thereof, Other Than Furniture"
+    },
+    {
+        "code": "841912",
+        "description": "Heaters; Solar Water Heaters, Non-Electric"
+    },
+    {
+        "code": "841931",
+        "description": "Dryers; For Agricultural Products, Not Used For Domestic Purposes"
+    },
+    {
+        "code": "841934",
+        "description": "Dryers; For Agricultural Products, Not Used For Domestic Purposes"
+    },
+    {
+        "code": "841940",
+        "description": "Distilling or Rectifying Plant; Not Used For Domestic Purposes"
+    },
+    {
+        "code": "841950",
+        "description": "Heat Exchange Units; Not Used For Domestic Purposes"
+    },
+    {
+        "code": "842010",
+        "description": "Machines; Calendering or Other Rolling Machines, For Other Than Metal or Glass"
+    },
+    {
+        "code": "842111",
+        "description": "Centrifuges; Cream Separators"
+    },
+    {
+        "code": "842112",
+        "description": "Centrifuges; Clothes-Dryers"
+    },
+    {
+        "code": "842121",
+        "description": "Machinery; For Filtering or Purifying Water"
+    },
+    {
+        "code": "842122",
+        "description": "Machinery; For Filtering or Purifying Beverages Other Than Water"
+    },
+    {
+        "code": "842191",
+        "description": "Centrifuges; Parts Thereof, Including Parts For Centrifugal Dryers"
+    },
+    {
+        "code": "842199",
+        "description": "Machinery; Parts For Filtering or Purifying Liquids or Gases"
+    },
+    {
+        "code": "842211",
+        "description": "Dish Washing Machines; of The Household Type"
+    },
+    {
+        "code": "842219",
+        "description": "Dish Washing Machines; of Other Than Household Type"
+    },
+    {
+        "code": "842220",
+        "description": "Machinery; For Cleaning or Drying Bottles or Other Containers"
+    },
+    {
+        "code": "842240",
+        "description": "Machinery; For Packing or Wrapping"
+    },
+    {
+        "code": "842410",
+        "description": "Fire Extinguishers; Whether or Not Charged"
+    },
+    {
+        "code": "842420",
+        "description": "Spray Guns and Similar Appliances"
+    },
+    {
+        "code": "842531",
+        "description": "Winches; Capstans; Powered By An Electric Motor"
+    },
+    {
+        "code": "842619",
+        "description": "Cranes; Transporter, Gantry and Bridge Cranes"
+    },
+    {
+        "code": "842620",
+        "description": "Cranes; Tower Cranes"
+    },
+    {
+        "code": "842630",
+        "description": "Cranes; Portal or Pedestal Jib Cranes"
+    },
+    {
+        "code": "842691",
+        "description": "Cranes and Derricks; Designed For Mounting On Road Vehicles"
+    },
+    {
+        "code": "842810",
+        "description": "Lifts and Skip Hoists"
+    },
+    {
+        "code": "842820",
+        "description": "Elevators and Conveyors; Pneumatic"
+    },
+    {
+        "code": "842840",
+        "description": "Escalators and Moving Walkways"
+    },
+    {
+        "code": "842870",
+        "description": "Industrial Robots"
+    },
+    {
+        "code": "842911",
+        "description": "Bulldozers and Angledozers; Self-Propelled, Track Laying"
+    },
+    {
+        "code": "842919",
+        "description": "Bulldozers and Angledozers; Self-Propelled, Other Than Track Laying"
+    },
+    {
+        "code": "842920",
+        "description": "Graders and Levellers"
+    },
+    {
+        "code": "842930",
+        "description": "Scrapers; Self-Propelled"
+    },
+    {
+        "code": "842940",
+        "description": "Tamping Machines and Road Rollers; Self-Propelled"
+    },
+    {
+        "code": "842951",
+        "description": "Front-End Shovel Loaders"
+    },
+    {
+        "code": "843010",
+        "description": "Pile-Drivers and Pile-Extractors"
+    },
+    {
+        "code": "843020",
+        "description": "Snow-Ploughs and Snow-Blowers"
+    },
+    {
+        "code": "843049",
+        "description": "Boring and Sinking Machinery; Not Self-Propelled"
+    },
+    {
+        "code": "843061",
+        "description": "Machinery; For Tamping or Compacting, Not Self-Propelled"
+    },
+    {
+        "code": "843110",
+        "description": "Machinery; Parts of The Machinery of Heading No. 8425"
+    },
+    {
+        "code": "843131",
+        "description": "Lifts, Skip Hoists or Escalators; Parts Thereof"
+    },
+    {
+        "code": "843142",
+        "description": "Machinery Parts; Bulldozer or Angledozer Blades"
+    },
+    {
+        "code": "843210",
+        "description": "Ploughs; For Soil Preparation"
+    },
+    {
+        "code": "843221",
+        "description": "Harrows; Disc Harrows"
+    },
+    {
+        "code": "843280",
+        "description": "Rollers; For Lawns or Sports-Grounds"
+    },
+    {
+        "code": "843330",
+        "description": "Haymaking Machinery"
+    },
+    {
+        "code": "843351",
+        "description": "Combine Harvester-Threshers"
+    },
+    {
+        "code": "843352",
+        "description": "Threshing Machinery; Other Than Combine Harvester-Threshers"
+    },
+    {
+        "code": "843353",
+        "description": "Harvesting Machinery; For Roots or Tubers"
+    },
+    {
+        "code": "843410",
+        "description": "Milking Machines"
+    },
+    {
+        "code": "843420",
+        "description": "Dairy Machinery"
+    },
+    {
+        "code": "843490",
+        "description": "Milking Machines and Dairy Machinery; Parts Thereof"
+    },
+    {
+        "code": "843610",
+        "description": "Machinery; For Preparing Animal Feeding Stuffs"
+    },
+    {
+        "code": "843621",
+        "description": "Poultry Incubators and Brooders"
+    },
+    {
+        "code": "843629",
+        "description": "Poultry-Keeping Machinery; Other Than Incubators and Brooders"
+    },
+    {
+        "code": "843820",
+        "description": "Machinery; Industrial, For The Manufacture of Confectionery, Cocoa or Chocolate"
+    },
+    {
+        "code": "843830",
+        "description": "Machinery; Industrial, For Sugar Manufacture"
+    },
+    {
+        "code": "843840",
+        "description": "Machinery; Industrial, Brewery Machinery"
+    },
+    {
+        "code": "843850",
+        "description": "Machinery; Industrial, For The Preparation of Meat or Poultry"
+    },
+    {
+        "code": "843860",
+        "description": "Machinery; Industrial, For The Preparation of Fruits, Nuts or Vegetables"
+    },
+    {
+        "code": "843910",
+        "description": "Machinery; For Making Pulp of Fibrous Cellulosic Material"
+    },
+    {
+        "code": "843920",
+        "description": "Machinery; For Making Paper or Paperboard"
+    },
+    {
+        "code": "843930",
+        "description": "Machinery; For Finishing Paper or Paperboard"
+    },
+    {
+        "code": "844316",
+        "description": "Printing Machinery; Flexographic"
+    },
+    {
+        "code": "844317",
+        "description": "Printing Machinery; Gravure"
+    },
+    {
+        "code": "844520",
+        "description": "Textile Machinery; Spinning Machines"
+    },
+    {
+        "code": "844530",
+        "description": "Textile Machinery; Doubling or Twisting Machines"
+    },
+    {
+        "code": "844720",
+        "description": "Knitting Machines; Flat, Stitch-Bonding Machines"
+    },
+    {
+        "code": "844831",
+        "description": "Machines, Card Clothing; Parts and Accessories"
+    },
+    {
+        "code": "845090",
+        "description": "Washing Machines; Parts For Household or Laundry-Type"
+    },
+    {
+        "code": "845110",
+        "description": "Dry-Cleaning Machines"
+    },
+    {
+        "code": "845130",
+        "description": "Ironing Machines and Presses (Including Fusing Presses)"
+    },
+    {
+        "code": "845140",
+        "description": "Machines; For Washing, Bleaching or Dyeing"
+    },
+    {
+        "code": "845190",
+        "description": "Machinery; Parts, of The Machinery of Heading No. 8451"
+    },
+    {
+        "code": "845210",
+        "description": "Sewing Machines; of The Household Type"
+    },
+    {
+        "code": "845230",
+        "description": "Sewing Machine Needles"
+    },
+    {
+        "code": "845510",
+        "description": "Metal-Rolling Mills; Tube Mills"
+    },
+    {
+        "code": "845522",
+        "description": "Metal-Rolling Mills; Cold"
+    },
+    {
+        "code": "845530",
+        "description": "Metal-Rolling Mills; Rolls Thereof"
+    },
+    {
+        "code": "845590",
+        "description": "Metal-Rolling Mills; Parts Thereof"
+    },
+    {
+        "code": "845710",
+        "description": "Machining Centres; For Working Metal"
+    },
+    {
+        "code": "845811",
+        "description": "Lathes; For Removing Metal, Horizontal, Numerically Controlled"
+    },
+    {
+        "code": "845970",
+        "description": "Machine-Tools; For Threading or Tapping By Removing Metal"
+    },
+    {
+        "code": "846040",
+        "description": "Machine-Tools; For Honing or Lapping"
+    },
+    {
+        "code": "847030",
+        "description": "Calculating Machines; Non-Electronic"
+    },
+    {
+        "code": "847050",
+        "description": "Cash Registers"
+    },
+    {
+        "code": "847210",
+        "description": "Office Machines; Duplicating Machines"
+    },
+    {
+        "code": "847290",
+        "description": "Office Machines; Not Elsewhere Classified"
+    },
+    {
+        "code": "847431",
+        "description": "Machines; Concrete or Mortar Mixers"
+    },
+    {
+        "code": "847432",
+        "description": "Machines; For Mixing Mineral Substances With Bitumen"
+    },
+    {
+        "code": "847690",
+        "description": "Machines; Parts of Automatic Goods-Vending Machines"
+    },
+    {
+        "code": "847940",
+        "description": "Machines; For Making Rope or Cable"
+    },
+    {
+        "code": "847990",
+        "description": "Machines and Mechanical Appliances; Parts, of Those Having Individual Functions"
+    },
+    {
+        "code": "848010",
+        "description": "Moulding Boxes; For Metal Foundry"
+    },
+    {
+        "code": "848050",
+        "description": "Moulds; For Glass"
+    },
+    {
+        "code": "848060",
+        "description": "Moulds; For Mineral Materials"
+    },
+    {
+        "code": "848071",
+        "description": "Moulds; For Rubber or Plastics, Injection or Compression Types"
+    },
+    {
+        "code": "848120",
+        "description": "Valves; For Oleohydraulic or Pneumatic Transmissions"
+    },
+    {
+        "code": "848190",
+        "description": "Taps, Cocks, Valves and Similar Appliances; Parts Thereof"
+    },
+    {
+        "code": "848210",
+        "description": "Ball Bearings"
+    },
+    {
+        "code": "848230",
+        "description": "Bearings; Spherical Roller Bearings"
+    },
+    {
+        "code": "848291",
+        "description": "Bearings; Parts, Balls, Needles and Rollers"
+    },
+    {
+        "code": "848299",
+        "description": "Bearings; Parts, (Other Than Balls, Needles and Rollers)"
+    },
+    {
+        "code": "848320",
+        "description": "Bearing Housings, Incorporating Ball or Roller Bearings"
+    },
+    {
+        "code": "848350",
+        "description": "Pulleys and Flywheels, Including Pulley Blocks"
+    },
+    {
+        "code": "848360",
+        "description": "Clutches and Shaft Couplings (Including Universal Joints)"
+    },
+    {
+        "code": "848420",
+        "description": "Seals; Mechanical"
+    },
+    {
+        "code": "848510",
+        "description": "Machines For Additive Manufacturing; By Metal Deposit"
+    },
+    {
+        "code": "848520",
+        "description": "Machines For Additive Manufacturing; By Plastic or Rubber Deposit"
+    },
+    {
+        "code": "848590",
+        "description": "Machines For Additive Manufacturing; Parts"
+    },
+    {
+        "code": "848690",
+        "description": "Machines and Apparatus of Heading 8486; Parts and Accessories"
+    },
+    {
+        "code": "848710",
+        "description": "Ships' or Boats' Propellers and Blades Therefor"
+    },
+    {
+        "code": "850110",
+        "description": "Electric Motors; of An Output Not Exceeding 37.5W"
+    },
+    {
+        "code": "850140",
+        "description": "Electric Motors; Ac Motors, Single-Phase"
+    },
+    {
+        "code": "850240",
+        "description": "Electric Rotary Converters"
+    },
+    {
+        "code": "850410",
+        "description": "Discharge Lamps or Tubes; Ballasts Therefor"
+    },
+    {
+        "code": "850440",
+        "description": "Electrical Static Converters"
+    },
+    {
+        "code": "850490",
+        "description": "Electrical Transformers, Static Converters and Inductors; Parts Thereof"
+    },
+    {
+        "code": "850610",
+        "description": "Cells and Batteries; Primary, Manganese Dioxide"
+    },
+    {
+        "code": "850630",
+        "description": "Cells and Batteries; Primary, Mercuric Oxide"
+    },
+    {
+        "code": "850640",
+        "description": "Cells and Batteries; Primary, Silver Oxide"
+    },
+    {
+        "code": "850650",
+        "description": "Cells and Batteries; Primary, Lithium"
+    },
+    {
+        "code": "850660",
+        "description": "Cells and Batteries; Primary, Air-Zinc"
+    },
+    {
+        "code": "850690",
+        "description": "Cells and Batteries; Primary, Parts Thereof"
+    },
+    {
+        "code": "850860",
+        "description": "Vacuum Cleaners, Other Than With A Self-Contained Electric Motor"
+    },
+    {
+        "code": "850870",
+        "description": "Parts of Vacuum Cleaners"
+    },
+    {
+        "code": "851010",
+        "description": "Shavers; With Self-Contained Electric Motor"
+    },
+    {
+        "code": "851020",
+        "description": "Hair Clippers; With A Self-Contained Electric Motor"
+    },
+    {
+        "code": "851030",
+        "description": "Hair-Removing Appliances; With Self-Contained Electric Motor"
+    },
+    {
+        "code": "851621",
+        "description": "Heating Apparatus; Electric Storage Heating Radiators"
+    },
+    {
+        "code": "851633",
+        "description": "Hand-Drying Apparatus; Electro-Thermic"
+    },
+    {
+        "code": "851640",
+        "description": "Smoothing Irons; Electric"
+    },
+    {
+        "code": "851650",
+        "description": "Ovens; Microwave, of A Kind Used For Domestic Purposes"
+    },
+    {
+        "code": "851711",
+        "description": "Line Telephone Sets With Cordless Handsets"
+    },
+    {
+        "code": "851712",
+        "description": "Telephones For Cellular Networks or For Other Wireless Networks"
+    },
+    {
+        "code": "851713",
+        "description": "Telephone Sets; Smartphones For Cellular or Other Wireless Networks"
+    },
+    {
+        "code": "851714",
+        "description": "Telephone Sets; Other Than Smartphones, For Cellular or Other Wireless Networks"
+    },
+    {
+        "code": "851761",
+        "description": "Base Stations"
+    },
+    {
+        "code": "851810",
+        "description": "Microphones and Stands Therefor"
+    },
+    {
+        "code": "851821",
+        "description": "Loudspeakers; Single, Mounted In Their Enclosures"
+    },
+    {
+        "code": "851822",
+        "description": "Loudspeakers; Multiple, Mounted In The Same Enclosure"
+    },
+    {
+        "code": "851829",
+        "description": "Loudspeakers; Not Mounted In Their Enclosures"
+    },
+    {
+        "code": "851840",
+        "description": "Amplifiers; Audio-Frequency Electric"
+    },
+    {
+        "code": "851850",
+        "description": "Amplifier Sets; Electric Sound"
+    },
+    {
+        "code": "852610",
+        "description": "Radar Apparatus"
+    },
+    {
+        "code": "852691",
+        "description": "Radio Navigational Aid Apparatus"
+    },
+    {
+        "code": "852692",
+        "description": "Radio Remote Control Apparatus"
+    },
+    {
+        "code": "853221",
+        "description": "Electrical Capacitors; Fixed, Tantalum"
+    },
+    {
+        "code": "853222",
+        "description": "Electrical Capacitors; Fixed, Aluminium Electrolytic"
+    },
+    {
+        "code": "853224",
+        "description": "Electrical Capacitors; Fixed, Ceramic Dielectric, Multilayer"
+    },
+    {
+        "code": "853225",
+        "description": "Electrical Capacitors; Fixed, Dielectric of Paper or Plastics"
+    },
+    {
+        "code": "853390",
+        "description": "Resistors; Parts of The Resistors of Heading No. 8533"
+    },
+    {
+        "code": "853400",
+        "description": "Circuits; Printed"
+    },
+    {
+        "code": "853910",
+        "description": "Lamps; Sealed Beam Units"
+    },
+    {
+        "code": "853941",
+        "description": "Lamps; Arc-Lamps"
+    },
+    {
+        "code": "853950",
+        "description": "Lamps; Light-Emitting Diode (Led) Lamps"
+    },
+    {
+        "code": "853990",
+        "description": "Lamps; Parts of The Lamps of Heading No. 8539"
+    },
+    {
+        "code": "854081",
+        "description": "Valves and Tubes; Receiver or Amplifier"
+    },
+    {
+        "code": "854091",
+        "description": "Tubes; Parts of Cathode-Ray Tubes"
+    },
+    {
+        "code": "854160",
+        "description": "Crystals; Mounted Piezo-Electric"
+    },
+    {
+        "code": "854232",
+        "description": "Electronic Integrated Circuits; Memories"
+    },
+    {
+        "code": "854233",
+        "description": "Electronic Integrated Circuits; Amplifiers"
+    },
+    {
+        "code": "854290",
+        "description": "Parts of Electronic Integrated Circuits"
+    },
+    {
+        "code": "854310",
+        "description": "Electrical Machines and Apparatus; Particle Accelerators"
+    },
+    {
+        "code": "854320",
+        "description": "Electrical Machines and Apparatus; Signal Generators"
+    },
+    {
+        "code": "854411",
+        "description": "Insulated Electric Conductors; Winding Wire, of Copper"
+    },
+    {
+        "code": "854419",
+        "description": "Insulated Electric Conductors; Winding Wire, (Of Other Than Copper)"
+    },
+    {
+        "code": "854470",
+        "description": "Insulated Electric Conductors; Optical Fibre Cables"
+    },
+    {
+        "code": "854520",
+        "description": "Carbon Brushes; With or Without Metal, Used For Electrical Purposes"
+    },
+    {
+        "code": "854610",
+        "description": "Electrical Insulators; of Glass"
+    },
+    {
+        "code": "854620",
+        "description": "Electrical Insulators; of Ceramics"
+    },
+    {
+        "code": "854690",
+        "description": "Electrical Insulators; Other Than of Glass and Ceramics"
+    },
+    {
+        "code": "860110",
+        "description": "Rail Locomotives; Powered From An External Source of Electricity"
+    },
+    {
+        "code": "860120",
+        "description": "Rail Locomotives; Powered By Electric Accumulators"
+    },
+    {
+        "code": "860210",
+        "description": "Rail Locomotives; Diesel-Electric Powered"
+    },
+    {
+        "code": "870110",
+        "description": "Tractors; Single Axle"
+    },
+    {
+        "code": "870120",
+        "description": "Tractors; Road, For Semi-Trailers"
+    },
+    {
+        "code": "870130",
+        "description": "Tractors; Track-Laying"
+    },
+    {
+        "code": "870380",
+        "description": "Vehicles; With Only Electric Motor For Propulsion"
+    },
+    {
+        "code": "870460",
+        "description": "Vehicles; With Only Electric Motor For Propulsion"
+    },
+    {
+        "code": "870510",
+        "description": "Vehicles; Crane Lorries"
+    },
+    {
+        "code": "870520",
+        "description": "Vehicles; Mobile Drilling Derricks"
+    },
+    {
+        "code": "870530",
+        "description": "Vehicles; Fire Fighting Vehicles"
+    },
+    {
+        "code": "870540",
+        "description": "Vehicles; Concrete-Mixer Lorries"
+    },
+    {
+        "code": "870840",
+        "description": "Vehicle Parts; Gear Boxes and Parts Thereof"
+    },
+    {
+        "code": "870870",
+        "description": "Vehicle Parts; Road Wheels and Parts and Accessories Thereof"
+    },
+    {
+        "code": "870891",
+        "description": "Vehicle Parts; Radiators and Parts Thereof"
+    },
+    {
+        "code": "870893",
+        "description": "Vehicle Parts; Clutches and Parts Thereof"
+    },
+    {
+        "code": "870990",
+        "description": "Vehicles; Parts of The Vehicles of Heading No. 8709"
+    },
+    {
+        "code": "871390",
+        "description": "Carriages For Disabled Persons; Mechanically Propelled"
+    },
+    {
+        "code": "871410",
+        "description": "Motorcycles (Including Mopeds); Parts and Accessories"
+    },
+    {
+        "code": "871420",
+        "description": "Carriages For Disabled Persons; Parts and Accessories Thereof"
+    },
+    {
+        "code": "871491",
+        "description": "Cycles; Frames and Forks, and Parts Thereof"
+    },
+    {
+        "code": "871492",
+        "description": "Cycles; Parts Thereof, Wheel Rims and Spokes"
+    },
+    {
+        "code": "871495",
+        "description": "Cycles; Parts Thereof, Saddles"
+    },
+    {
+        "code": "871496",
+        "description": "Cycles; Parts, Pedals and Crank-Gear, and Parts Thereof"
+    },
+    {
+        "code": "871500",
+        "description": "Baby Carriages and Parts Thereof"
+    },
+    {
+        "code": "871631",
+        "description": "Tanker Trailers and Tanker Semi-Trailers"
+    },
+    {
+        "code": "871639",
+        "description": "Trailers and Semi-Trailers; (Other Than Tanker Type)"
+    },
+    {
+        "code": "880212",
+        "description": "Helicopters, Except Unmanned; of An Unladen Weight Exceeding 2000Kg"
+    },
+    {
+        "code": "880310",
+        "description": "Aircraft and Spacecraft; Propellers and Rotors and Parts Thereof"
+    },
+    {
+        "code": "880320",
+        "description": "Aircraft and Spacecraft; Under-Carriages and Parts Thereof"
+    },
+    {
+        "code": "880610",
+        "description": "Unmanned Aircraft; For Carriage of Passengers"
+    },
+    {
+        "code": "880710",
+        "description": "Aircraft and Spacecraft; Propellers and Rotors and Parts Thereof"
+    },
+    {
+        "code": "880720",
+        "description": "Aircraft and Spacecraft; Under-Carriages and Parts Thereof"
+    },
+    {
+        "code": "890120",
+        "description": "Tankers"
+    },
+    {
+        "code": "890130",
+        "description": "Vessels, Refrigerated; Other Than Tankers"
+    },
+    {
+        "code": "890391",
+        "description": "Sailboats; With or Without Auxiliary Motor, For Pleasure or Sports, Other Than Inflatable"
+    },
+    {
+        "code": "890392",
+        "description": "Motorboats; (Other Than Outboard Motorboats), For Pleasure or Sports, Other Than Inflatable"
+    },
+    {
+        "code": "890400",
+        "description": "Tugs and Pusher Craft"
+    },
+    {
+        "code": "890510",
+        "description": "Dredgers"
+    },
+    {
+        "code": "890520",
+        "description": "Floating or Submersible Drilling or Production Platforms"
+    },
+    {
+        "code": "890610",
+        "description": "Vessels; Warships"
+    },
+    {
+        "code": "890690",
+        "description": "Vessels; Other, Including Lifeboats Other Than Rowing Boats, Other Than Warships"
+    },
+    {
+        "code": "890710",
+        "description": "Rafts; Inflatable"
+    },
+    {
+        "code": "890800",
+        "description": "Vessels and Other Floating Structures; For Breaking Up"
+    },
+    {
+        "code": "900120",
+        "description": "Optical Elements; Polarising Material, Sheets and Plates Thereof"
+    },
+    {
+        "code": "900150",
+        "description": "Lenses, Spectacle; Unmounted, of Materials Other Than Glass"
+    },
+    {
+        "code": "900311",
+        "description": "Frames and Mountings; For Spectacles, Goggles or The Like, of Plastics"
+    },
+    {
+        "code": "900410",
+        "description": "Sunglasses; Corrective, Protective or Other"
+    },
+    {
+        "code": "900490",
+        "description": "Spectacles, Goggles and The Like; (Other Than Sunglasses) Corrective, Protective or Other"
+    },
+    {
+        "code": "900510",
+        "description": "Binoculars"
+    },
+    {
+        "code": "900691",
+        "description": "Cameras, Photographic (Excluding Cinematographic); Parts and Accessories"
+    },
+    {
+        "code": "900699",
+        "description": "Photographic Flashlight Apparatus; Parts and Accessories, For Other Than Cameras"
+    },
+    {
+        "code": "901110",
+        "description": "Microscopes, Compound Optical; Stereoscopic Microscopes"
+    },
+    {
+        "code": "901120",
+        "description": "Microscopes, Compound Optical; For Photomicrography, Cinephotomicrography or Microprojection"
+    },
+    {
+        "code": "901210",
+        "description": "Microscopes (Excluding Optical Microscopes); Diffraction Apparatus"
+    },
+    {
+        "code": "901320",
+        "description": "Lasers; Other Than Laser Diodes"
+    },
+    {
+        "code": "901490",
+        "description": "Navigational Instruments and Appliances; Parts and Accessories"
+    },
+    {
+        "code": "901510",
+        "description": "Rangefinders"
+    },
+    {
+        "code": "901520",
+        "description": "Surveying Equipment; Theodolites and Tachymeters (Tacheometers)"
+    },
+    {
+        "code": "901530",
+        "description": "Surveying Equipment; Levels"
+    },
+    {
+        "code": "901540",
+        "description": "Surveying Equipment; Photogrammetrical Surveying Instruments and Appliances"
+    },
+    {
+        "code": "901600",
+        "description": "Balances; of A Sensitivity of 5Cg or Better, With or Without Weights"
+    },
+    {
+        "code": "901710",
+        "description": "Drafting Tables and Machines; Whether or Not Automatic"
+    },
+    {
+        "code": "901720",
+        "description": "Drawing, Marking-Out or Mathematical Calculating Instruments"
+    },
+    {
+        "code": "901730",
+        "description": "Mathematical Equipment; Micrometers, Callipers and Gauges"
+    },
+    {
+        "code": "901814",
+        "description": "Medical, Surgical Instruments and Appliances; Scintigraphic Apparatus"
+    },
+    {
+        "code": "901831",
+        "description": "Medical, Surgical Instruments and Appliances; Syringes, With or Without Needles"
+    },
+    {
+        "code": "901849",
+        "description": "Dental Instruments and Appliances; Other Than Dental Drill Engines"
+    },
+    {
+        "code": "901850",
+        "description": "Ophthalmic Instruments and Appliances"
+    },
+    {
+        "code": "902110",
+        "description": "Orthopaedic or Fracture Appliances"
+    },
+    {
+        "code": "902121",
+        "description": "Dental Fittings; Artificial Teeth"
+    },
+    {
+        "code": "902129",
+        "description": "Dental Fittings; Other Than Artificial Teeth"
+    },
+    {
+        "code": "902131",
+        "description": "Artificial Parts of The Body"
+    },
+    {
+        "code": "902139",
+        "description": "Artificial Parts of The Body; Excluding Artificial Joints"
+    },
+    {
+        "code": "902140",
+        "description": "Hearing Aids (Excluding Parts and Accessories)"
+    },
+    {
+        "code": "902230",
+        "description": "X-Ray Tubes"
+    },
+    {
+        "code": "902620",
+        "description": "Instruments and Apparatus; For Measuring or Checking Pressure"
+    },
+    {
+        "code": "902720",
+        "description": "Chromatographs and Electrophoresis Instruments"
+    },
+    {
+        "code": "902790",
+        "description": "Microtomes and Parts and Accessories Thereof"
+    },
+    {
+        "code": "902920",
+        "description": "Meters; Speed Indicators and Tachometers; Stroboscopes"
+    },
+    {
+        "code": "903010",
+        "description": "Instruments and Apparatus; For Measuring or Detecting Ionising Radiations"
+    },
+    {
+        "code": "903020",
+        "description": "Oscilloscopes and Oscillographs"
+    },
+    {
+        "code": "903110",
+        "description": "Machines; For Balancing Mechanical Parts"
+    },
+    {
+        "code": "903120",
+        "description": "Test Benches"
+    },
+    {
+        "code": "903220",
+        "description": "Regulating or Controlling Instruments and Apparatus; Automatic, Manostats"
+    },
+    {
+        "code": "910820",
+        "description": "Watch Movements; Complete and Assembled, With Automatic Winding"
+    },
+    {
+        "code": "910910",
+        "description": "Clock Movements; Complete and Assembled, Electrically Operated"
+    },
+    {
+        "code": "910990",
+        "description": "Clock Movements; Complete and Assembled, Other Than Electrically Operated"
+    },
+    {
+        "code": "911012",
+        "description": "Watches; Incomplete Movements, Assembled"
+    },
+    {
+        "code": "911019",
+        "description": "Watches; Rough Movements"
+    },
+    {
+        "code": "911190",
+        "description": "Watch Cases and Parts Thereof"
+    },
+    {
+        "code": "911410",
+        "description": "Clock or Watch Parts; Springs, Including Hairsprings"
+    },
+    {
+        "code": "911430",
+        "description": "Clock or Watch Parts; Dials"
+    },
+    {
+        "code": "911440",
+        "description": "Clock or Watch Parts; Plates and Bridges"
+    },
+    {
+        "code": "920120",
+        "description": "Musical Instruments; Pianos, Grand"
+    },
+    {
+        "code": "920810",
+        "description": "Musical Boxes"
+    },
+    {
+        "code": "920930",
+        "description": "Musical Instrument Strings"
+    },
+    {
+        "code": "920991",
+        "description": "Musical Instruments; Parts and Accessories For Pianos"
+    },
+    {
+        "code": "930200",
+        "description": "Revolvers and Pistols; Other Than Those of Heading No. 9303 or 9304"
+    },
+    {
+        "code": "930310",
+        "description": "Firearms; Muzzle-Loading"
+    },
+    {
+        "code": "930390",
+        "description": "Firearms; N.E.C. In Heading No. 9303"
+    },
+    {
+        "code": "930510",
+        "description": "Firearms; Parts and Accessories, of Revolvers or Pistols"
+    },
+    {
+        "code": "930621",
+        "description": "Ammunition; Shotgun Cartridges"
+    },
+    {
+        "code": "930629",
+        "description": "Ammunition; Parts of Shotgun Cartridges"
+    },
+    {
+        "code": "930690",
+        "description": "Ammunition; N.E.C. In Chapter 93"
+    },
+    {
+        "code": "940110",
+        "description": "Seats; of A Kind Used For Aircraft"
+    },
+    {
+        "code": "940120",
+        "description": "Seats; of A Kind Used For Motor Vehicles"
+    },
+    {
+        "code": "940152",
+        "description": "Seats; of Bamboo"
+    },
+    {
+        "code": "940153",
+        "description": "Seats; of Rattan"
+    },
+    {
+        "code": "940159",
+        "description": "Seats; of Cane, Osier or Similar Materials, Other Than Bamboo or Rattan"
+    },
+    {
+        "code": "940190",
+        "description": "Seat; Parts"
+    },
+    {
+        "code": "940310",
+        "description": "Furniture; Metal, For Office Use"
+    },
+    {
+        "code": "940320",
+        "description": "Furniture; Metal, Other Than For Office Use"
+    },
+    {
+        "code": "940330",
+        "description": "Furniture; Wooden, For Office Use"
+    },
+    {
+        "code": "940340",
+        "description": "Furniture; Wooden, For Kitchen Use"
+    },
+    {
+        "code": "940350",
+        "description": "Furniture; Wooden, For Bedroom Use"
+    },
+    {
+        "code": "940360",
+        "description": "Furniture; Wooden, Other Than For Office, Kitchen or Bedroom Use"
+    },
+    {
+        "code": "940370",
+        "description": "Furniture; Plastic"
+    },
+    {
+        "code": "940382",
+        "description": "Furniture; of Bamboo"
+    },
+    {
+        "code": "940383",
+        "description": "Furniture; of Rattan"
+    },
+    {
+        "code": "940389",
+        "description": "Furniture; of Cane, Osier, or Similar Materials (Other Than Bamboo or Rattan)"
+    },
+    {
+        "code": "940390",
+        "description": "Furniture; Parts"
+    },
+    {
+        "code": "940391",
+        "description": "Furniture; Parts, of Wood"
+    },
+    {
+        "code": "940399",
+        "description": "Furniture; Parts, of Other Than Wood"
+    },
+    {
+        "code": "940410",
+        "description": "Mattress Supports"
+    },
+    {
+        "code": "940429",
+        "description": "Mattresses; of Other Materials, Not Cellular Rubber or Plastics"
+    },
+    {
+        "code": "940430",
+        "description": "Sleeping Bags"
+    },
+    {
+        "code": "940440",
+        "description": "Quilts, Bedspreads, Eiderdowns and Duvets (Comforters)"
+    },
+    {
+        "code": "940530",
+        "description": "Lighting Sets; of A Kind Used For Christmas Trees"
+    },
+    {
+        "code": "940550",
+        "description": "Luminaires and Light Fittings; Non-Electric"
+    },
+    {
+        "code": "940560",
+        "description": "Illuminated Signs, Name Plates and The Like"
+    },
+    {
+        "code": "940591",
+        "description": "Lamps and Light Fittings; Parts Thereof, of Glass"
+    },
+    {
+        "code": "940592",
+        "description": "Lamps and Light Fittings; Parts Thereof, of Plastics"
+    },
+    {
+        "code": "940600",
+        "description": "Prefabricated Buildings"
+    },
+    {
+        "code": "940610",
+        "description": "Buildings; Prefabricated, of Wood"
+    },
+    {
+        "code": "940620",
+        "description": "Buildings; Modular Building Units, of Steel"
+    },
+    {
+        "code": "940690",
+        "description": "Buildings; Prefabricated, Not of Wood"
+    },
+    {
+        "code": "950420",
+        "description": "Billiard Articles and Accessories of All Kinds"
+    },
+    {
+        "code": "950440",
+        "description": "Games; Playing Cards"
+    },
+    {
+        "code": "950510",
+        "description": "Christmas Festivity Articles"
+    },
+    {
+        "code": "950611",
+        "description": "Skis; For Snow"
+    },
+    {
+        "code": "950612",
+        "description": "Ski-Fastenings (Ski-Bindings); For Snow-Skis"
+    },
+    {
+        "code": "950619",
+        "description": "Snow-Ski Equipment"
+    },
+    {
+        "code": "950621",
+        "description": "Sailboards; For Water Sport"
+    },
+    {
+        "code": "950631",
+        "description": "Golf Clubs; Complete"
+    },
+    {
+        "code": "950632",
+        "description": "Golf Balls"
+    },
+    {
+        "code": "950639",
+        "description": "Golf Equipment; Other Than Clubs and Balls"
+    },
+    {
+        "code": "950640",
+        "description": "Table-Tennis Articles and Equipment"
+    },
+    {
+        "code": "950651",
+        "description": "Lawn-Tennis Rackets; Whether or Not Strung"
+    },
+    {
+        "code": "950659",
+        "description": "Tennis, Badminton and Similar Rackets; Whether or Not Strung"
+    },
+    {
+        "code": "950661",
+        "description": "Lawn-Tennis Balls"
+    },
+    {
+        "code": "950662",
+        "description": "Balls; Inflatable"
+    },
+    {
+        "code": "950691",
+        "description": "Athletics and Gymnastics Equipment"
+    },
+    {
+        "code": "950710",
+        "description": "Fishing Rods"
+    },
+    {
+        "code": "950720",
+        "description": "Fish-Hooks; Whether or Not Snelled"
+    },
+    {
+        "code": "950730",
+        "description": "Fishing Reels"
+    },
+    {
+        "code": "950810",
+        "description": "Travelling Circuses and Travelling Menageries"
+    },
+    {
+        "code": "950830",
+        "description": "Fairground Amusements; Including Shooting Galleries"
+    },
+    {
+        "code": "950840",
+        "description": "Travelling Theatres"
+    },
+    {
+        "code": "960110",
+        "description": "Ivory and Articles Thereof; Worked"
+    },
+    {
+        "code": "960321",
+        "description": "Brushes; Toothbrushes"
+    },
+    {
+        "code": "960350",
+        "description": "Brushes; Constituting Parts of Machines, Appliances or Vehicles"
+    },
+    {
+        "code": "960400",
+        "description": "Hand Sieves and Hand Riddles"
+    },
+    {
+        "code": "960621",
+        "description": "Buttons; of Plastics, Not Covered With Textile Material"
+    },
+    {
+        "code": "960630",
+        "description": "Button Moulds and Other Parts of Buttons; Button Blanks"
+    },
+    {
+        "code": "960720",
+        "description": "Slide Fasteners; Parts"
+    },
+    {
+        "code": "960810",
+        "description": "Pens; Ball Point"
+    },
+    {
+        "code": "960830",
+        "description": "Pens; Fountain, Stylograph and Other Pens"
+    },
+    {
+        "code": "960840",
+        "description": "Pencils; Propelling or Sliding"
+    },
+    {
+        "code": "960891",
+        "description": "Pens; Nibs and Nib Points"
+    },
+    {
+        "code": "960910",
+        "description": "Pencils and Crayons; With Leads Encased In Sheath"
+    },
+    {
+        "code": "960920",
+        "description": "Pencil Leads; Black or Coloured"
+    },
+    {
+        "code": "961220",
+        "description": "Ink Pads; Whether or Not Inked, With or Without Boxes"
+    },
+    {
+        "code": "962000",
+        "description": "Monopods, Bipods, Tripods and Similar Articles"
+    },
+    {
+        "code": "970190",
+        "description": "Artwork; Collages and Similar Decorative Plaques"
+    },
+    {
+        "code": "970200",
+        "description": "Engravings, Prints and Lithographs; Original"
+    },
+    {
+        "code": "970300",
+        "description": "Sculptures and Statuary; Original, In Any Material"
+    },
+    {
+        "code": "970600",
+        "description": "Antiques; of An Age Exceeding One Hundred Years"
+    },
+    {
+        "code": "970610",
+        "description": "Antiques; of An Age Exceeding 250 Years"
+    },
+    {
+        "code": "TOTAL",
+        "description": "Total"
+    },
+    {
+        "code": "999999",
+        "description": "Commodities Not Specified According To Kind"
+    }
+]
