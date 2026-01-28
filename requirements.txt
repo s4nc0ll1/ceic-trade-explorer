@@ -5,4 +5,4 @@ pandas
 plotly
 streamlit
 openpyxl
-altair<5
+streamlit>=1.40.0
