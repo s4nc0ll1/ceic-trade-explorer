@@ -130,8 +130,6 @@ def main_app():
 
     # Data Loading
     geo_options = load_geo_options()
-    # Note: We keep keys in English for API logic, but could map display names if needed.
-    # For now, Country names usually stay in English or require a mapping file.
     reporter_list = list(geo_options.keys()) if geo_options else ["Argentina", "Brazil", "China", "United States"]
     partner_list = ["World"] + reporter_list
     hs_options = load_hs_codes()
@@ -160,8 +158,6 @@ def main_app():
             hs_code = None
             hs_text_filter = None
             
-            # Logic uses English "All Commodities" or Translated one?
-            # Safe way: check if it matches the first option.
             if selected_hs_label != get_translation("All Commodities"):
                 # We assume hs_options keys are "Code - Description"
                 hs_code = hs_options.get(selected_hs_label)
@@ -200,17 +196,51 @@ def main_app():
 
     # Results
     if st.session_state.search_results is not None:
+        
         df_results = st.session_state.search_results
         
         if not df_results.empty:
-            
-            # Translated Info Message
-            msg = get_translation("**Found {} series.** Select rows to visualize history.").format(len(df_results))
-            st.info(msg)
-
-            # Translate Columns for Display
-            # We create a copy or rename columns just for the dataframe view if we want full translation
-            # For simplicity, we keep data columns as is, but translate header configs
+                
+            with st.expander(get_translation("Geographic Distribution"), expanded=True):
+                map_df = df_results[~df_results['Partner'].isin(['World', 'All Destinations'])].copy()
+                
+                map_df = map_df.groupby('Partner')['Trade Value'].sum().reset_index()
+                
+                fig_map = px.choropleth(
+                    map_df,
+                    locations="Partner",
+                    locationmode='country names', 
+                    color="Trade Value",
+                    hover_name="Partner",
+                    color_continuous_scale=[
+                        (0, "#E6E6FA"),    # Low (Lavender)
+                        (0.5, "#00A88F"),  # Middle (Tealish)
+                        (1, "#792D82")     # High (Deep Purple)
+                    ],
+                    labels={'Trade Value': get_translation("Trade Value")}
+                )
+                
+                fig_map.update_layout(
+                    title=get_translation("Source: {} | Flow: {}").format(selected_country_name, flow),
+                    geo=dict(
+                        showframe=False,
+                        showcoastlines=True,
+                        coastlinecolor="#CCCCCC", # Light grey coastlines
+                        projection_type='equirectangular',
+                        
+                        # THIS SHOWS THE WHOLE WORLD
+                        showland=True,
+                        landcolor="#F5F5F5",      # Light gray for countries with NO data
+                        countrycolor="#FFFFFF",   # White borders between countries
+                        
+                        bgcolor='rgba(0,0,0,0)'   # Transparent ocean
+                    ),
+                    paper_bgcolor='rgba(0,0,0,0)',
+                    margin={"r":0,"t":40,"l":0,"b":0},
+                    height=500
+                )
+                
+                st.plotly_chart(fig_map, use_container_width=True)
             
             event = st.dataframe(
                 df_results,

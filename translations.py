@@ -51,6 +51,8 @@ TRANSLATIONS = {
         "Chart": "Chart",
         "Data": "Data",
         "Download CSV": "Download CSV",
+        "Geographic Distribution": "Geographic Distribution",
+        "Source: {} | Flow: {}": "Source: {} | Flow: {}",
     },
     "CN": {
         # Titles & General
@@ -104,5 +106,7 @@ TRANSLATIONS = {
         "Chart": "图表",
         "Data": "数据",
         "Download CSV": "下载 CSV",
+        "Geographic Distribution": "地理分布",
+        "Source: {} | Flow: {}": "来源: {} | 流向: {}",
     }
 }
