@@ -5,3 +5,4 @@ pandas
 plotly
 streamlit
 openpyxl
+altair<5
